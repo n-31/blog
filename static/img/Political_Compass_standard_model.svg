@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg enable-background="new 0 0 543 591" version="1.1" viewBox="0 0 543 591" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <metadata>
+      <rdf:RDF>
+         <cc:Work rdf:about="">
+            <dc:format>image/svg+xml</dc:format>
+            <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+         </cc:Work>
+      </rdf:RDF>
+   </metadata>
+   <rect x="17.279" y="294.29" width="253.82" height="253.82" fill="#C8E4BC"/>
+   <rect x="17.279" y="38.474" width="253.82" height="253.82" fill="#F9BABA"/>
+   <rect x="273.1" y="38.474" width="253.82" height="253.82" fill="#92D9F8"/>
+   <rect x="273.1" y="294.29" width="253.82" height="253.82" fill="#f5f5a7"/>
+   <path d="m271.1 25.229v536.16h2v-536.16h-2z" fill="#010101"/>
+   <path d="m263.21 46.602 8.839-24.037 8.839 24.037c-5.219-3.841-12.359-3.818-17.678 0z" fill="#fff"/>
+   <path d="m280.96 540.01-8.839 24.037-8.839-24.037c5.219 3.84 12.359 3.818 17.678 0z" fill="#fff"/>
+   <path d="m4.003 292.29v2h536.16v-2h-536.16z" fill="#010101"/>
+   <path d="m518.79 284.43 24.037 8.839-24.037 8.839c3.84-5.219 3.818-12.359 0-17.678z" fill="#fff"/>
+   <path d="m25.38 302.18-24.037-8.839 24.037-8.839c-3.839 5.219-3.817 12.358 0 17.678z" fill="#fff"/>
+   <text x="29.304703" y="279.72247" fill="#010101" font-family="Arial-BoldMT" font-size="20.431px" style="line-height:0%">Economic-</text>
+   <text x="421.66278" y="279.79285" fill="#010101" font-family="Arial-BoldMT" font-size="20.431px" style="line-height:0%">Economic-</text>
+   <text transform="translate(219.21 581.3)" fill="#fff" font-family="Arial-BoldMT" font-size="20.431px" style="line-height:0%">Libertarian</text>
+   <text transform="translate(207.88 20.083)" fill="#fff" font-family="Arial-BoldMT" font-size="20.431px" style="line-height:0%">Authoritarian</text>
+   <g transform="translate(-75.903 -129.64)" fill="#00aad4" font-family="Arial-BoldMT" font-size="20.431px">
+      <text transform="translate(412.47 287.8)" style="line-height:0%">Authoritarian</text>
+      <text transform="translate(449.2 312.58)" style="line-height:0%">Right</text>
+   </g>
+   <g transform="translate(-331.72 -129.64)" fill="#f37f81" font-family="Arial-BoldMT" font-size="20.431px">
+      <text transform="translate(412.47 287.8)" style="line-height:0%">Authoritarian</text>
+      <text transform="translate(456.57 312.58)" style="line-height:0%">Left</text>
+   </g>
+   <g transform="translate(-75.903 126.17)" fill="#cccb00" font-family="Arial-BoldMT" font-size="20.431px">
+      <text transform="translate(423.81 287.8)" style="line-height:0%">Libertarian</text>
+      <text transform="translate(449.2 312.58)" style="line-height:0%">Right</text>
+   </g>
+   <g transform="translate(-331.72 128.2)" fill="#4ab749" font-family="Arial-BoldMT" font-size="20.431px">
+      <text transform="translate(423.81 287.8)" style="line-height:0%">Libertarian</text>
+      <text transform="translate(456.57 312.58)" style="line-height:0%">Left</text>
+   </g>
+   <text x="444.75058" y="315.96741" fill="#010101" font-family="Arial-BoldMT" font-size="20.431px" style="line-height:0%">Right</text> <text x="44.377579" y="314.19794" fill="#010101" font-family="Arial-BoldMT" font-size="20.431px" style="line-height:0%">Left</text>
+</svg>
