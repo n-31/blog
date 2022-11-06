@@ -3,6 +3,8 @@ title: "Organiser les idées - dé·polariser #0"
 date: 2022-11-06T16:00:01.727Z
 summary: "Démocratie, politique, idéologies. .. Comment s'y retrouver. Préambule
   de lancement d'une nouvelle série : dé·polariser."
+permalink: /posts/depolariser/00-intro.html
+image: /static/img/per-loov-oXqn2CXC_9Q-unsplash.jpg
 tags:
   - dé·polariser
   - sciences politique
