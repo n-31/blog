@@ -27,7 +27,7 @@ Peut-on trouver un moyen de s'y retrouver plus facilement ?
 ## Une histoire de sièges
 
 Initialement, la gauche et la droite politiques étaient définies on ne peut plus concrètement.
-Lors de l'assemblée consistante de 1789, deux factions opposées se sont formées : les royalistes et les libéraux.
+Lors de l'assemblée constituante de 1789, deux factions opposées se sont formées : les royalistes et les libéraux.
 Les libéraux, formant "l'opposition", siégèrent tous à gauche de l'assemblée et les royalistes à droite.
 
 Comme ces députés n'avaient pas été élus, les deux groupes étaient de taille similaire.
