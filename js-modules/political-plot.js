@@ -16,7 +16,7 @@ const defaultOptions = {
   translations: {},
   axisTitles: {
     top: ['Progressisme', 'Démocratie', 'Ouverture', 'Interventionnisme', 'Liberté positive', 'Gauche'],
-    bottom: ['Réaction', 'Autocratie', 'Fermeture', 'Néo-libéralisme', 'Ségregation', 'Gauche'],
+    bottom: ['Réaction', 'Autocratie', 'Fermeture', 'Néo-libéralisme', 'Ségregation', 'Droite'],
     main: false
   },
   avgKey: 'Gauche',
