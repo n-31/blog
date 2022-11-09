@@ -53,7 +53,7 @@ De pointer du doigt des erreurs de fond ?
 De me proposer une idée d'article ?
 Ou juste de me poser une question ?
 Le [formulaire de contact](/contact) est là pour ça, si vous voulez le faire en privé.
-Vous pouvez également [ouvrir une issue sur GitHub](https://github.com/N-031/blog/issues/new/choose) si cela vous semble important de garder le débat ouvert.
+Vous pouvez également [ouvrir une issue sur GitHub](https://github.com/n-31/blog/issues/new/choose) si cela vous semble important de garder le débat ouvert.
 
 Envie de faire un peu plus, en m'aidant dans la rédaction des articles (de la relecture surtout), voir en en écrivant vous même ?
 Pas besoin de connaissances techniques particulières.

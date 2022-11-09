@@ -4,7 +4,7 @@ import { checkRecaptcha, getErrorHandlerInstance, Staticman } from '@staticman/c
 // FROM https://github.com/eduardoboucas/staticman/tree/v1.7.1/packages/netlify-functions
 
 const GIT = {
-  username: "N-031",
+  username: "n-31",
   repository: "blog"
 }
 
