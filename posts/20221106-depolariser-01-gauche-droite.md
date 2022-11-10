@@ -242,7 +242,11 @@ On parlera des libertariens, libertaire, libéraux, néolibéraux ... et même p
   drawPoliticalPlot({
     ...commonOptions,
     selector: "#base-plot",
-    axis: ['Progressisme', 'Démocratie', 'Ouverture', 'Interventionnisme', 'Liberté positive'],
+    axisTitles: {
+      top: ['Progressisme', 'Démocratie', 'Ouverture', 'Interventionnisme', 'Liberté positive'],
+      bottom: ['Réaction', 'Autocratie', 'Fermeture', 'Néo-libéralisme', 'Ségregation'],
+      main: false
+    },
   });
 
   drawPoliticalPlot({
