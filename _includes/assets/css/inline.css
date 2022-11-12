@@ -84,7 +84,8 @@ code {
 }
 
 a[href],
-a[href]:visited {
+a[href]:visited,
+.fake-link {
 	color: var(--primary);
 }
 
@@ -377,4 +378,8 @@ svg .legend {
 
 .plot-container {
 	text-align: center;
+}
+
+.edit-link {
+	white-space: nowrap;
 }
