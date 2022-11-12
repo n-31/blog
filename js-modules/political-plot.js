@@ -145,7 +145,7 @@ const drawAxis = (svg, axis, horizontalScalePoint, options) => {
       .style('text-anchor', 'middle')
       .attr('y', -9)
       .text((d) => d)
-      .style('fill', 'white');
+      .style('fill', 'var(--primary-text-color)');
   }
 
   if (options.axisTitles.main && options.axisTitles.main.length > 0) {
@@ -158,7 +158,7 @@ const drawAxis = (svg, axis, horizontalScalePoint, options) => {
       .attr('y', -9)
       .attr('font-weight', 'bold')
       .text((d) => d)
-      .style('fill', 'white');
+      .style('fill', 'var(--primary-text-color)');
   }
 
   if (options.axisTitles.top && options.axisTitles.top.length > 0) {
@@ -169,7 +169,7 @@ const drawAxis = (svg, axis, horizontalScalePoint, options) => {
       .style('text-anchor', 'middle')
       .attr('y', -9)
       .text((d) => d)
-      .style('fill', 'white');
+      .style('fill', 'var(--primary-text-color)');
   }
 
   return axisSVG;
@@ -195,7 +195,7 @@ const drawLegend = (svg, data, color, options) => {
     .append('g')
     .attr('class', 'legend')
     .attr('transform', `translate(${options.width - options.margin.legend},0)`)
-    .style('background', '#FFF');
+    .style('background', 'var(--background)');
 
   legendSVG
     .selectAll('mydots')
@@ -277,13 +277,13 @@ export async function drawPoliticalPlot(opts) {
   }
 
   // append the svg object to the body of the page
-  const svg = d3.select(options.selector).append('svg').attr('width', options.width).attr('height', options.height);
+  const svg = d3.select(options.selector).append('svg').attr("viewBox", `0 0 ${options.width} ${options.height}`);
 
   const innerSVG = svg
     .append('g')
     .attr('transform', `translate(${options.margin.left},${options.margin.top})`)
-    .style('background', '#1b1e23')
-    .style('color', '#fff');
+    .style('background', 'var(--soft-color)')
+    .style('color', 'var(--primary-text-color)');
 
   // Parse the Data
   const data = await d3.csv(options.dataURL);
