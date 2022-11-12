@@ -28,6 +28,7 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addPlugin(timeToRead, {
     language: 'fr',
+    speed: '280 words a minute'
   });
 
   // Configuration API: use eleventyConfig.addLayoutAlias(from, to) to add
