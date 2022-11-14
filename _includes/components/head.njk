@@ -3,18 +3,23 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   {# icons #}
-  <link rel="apple-touch-icon" sizes="180x180" href="/static/img/apple-touch-icon.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/static/img/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/static/img/favicon-16x16.png">
-  <link rel="mask-icon" href="/static/img/safari-pinned-tab.svg" color="#5bbad5">
-
-  <meta name="generator" content="eleventy">
+  <link rel="apple-touch-icon" sizes="180x180" href="/static/img/app-icons/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/static/img/app-icons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/static/img/app-icons/favicon-16x16.png">
+  <link rel="manifest" href="/manifest.json">
+  <link rel="mask-icon" href="/static/img/app-icons/safari-pinned-tab.svg" color="#c81616">
+  <link rel="shortcut icon" href="/static/img/app-icons/favicon.ico">
+  <meta name="msapplication-TileColor" content="#c81616">
+  <meta name="msapplication-config" content="/static/img/app-icons/browserconfig.xml">
+  <meta name="theme-color" content="#c81616">
+  <link rel="mask-icon" href="/static/img/safari-pinned-tab.svg" color="#c81616">
 
   {# SEO... #}
   <title>{{ title and title + ' • ' }}{{ section_title + ' • ' if section_title else ''  }}{{ website.title }}</title>
 
   <meta name="description" content="{{ (description or summary or website.description ) | truncate(150) }}">
   <meta name="keywords" content="{{ keywords or website.keywords }}, {{ tags }}, {{ website.title }}">
+  <meta name="generator" content="eleventy">
 
   {# OpenGraph Social Card #}
   <meta property="og:title" content="{{ title or website.title}}">
@@ -32,8 +37,10 @@
   <meta name="twitter:url" content="{{ env.BASE_URL }}{{ page.url }}">
   <meta name="twitter:site" content="{{ website.twitter_handle }}">
 
-  {# preloading #}
+  {# preloading non-critical ressources #}
   <link rel="preload" href="/static/fonts/Kremlin.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="/tex.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="/tex.css"></noscript>
 
   {# Inline style and scripts #}
   {% set css %}
@@ -42,9 +49,15 @@
   <style>
     {{css | cssmin | safe}}
   </style>
-  <link rel="stylesheet" href="/tex.css">
+
   {% set js %}
     {% include "assets/js/inline.js" %}
   {% endset %}
   <script>{{ js | jsmin | safe }}</script>
+
+  {# Service Worker #}
+  <script>
+    if ("serviceWorker" in navigator)
+      navigator.serviceWorker.register("/service-worker.js");
+  </script>
 </head>

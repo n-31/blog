@@ -420,5 +420,5 @@ svg .legend {
 }
 
 pre, eqn {
-	overflow: scroll;
+	overflow: auto;
 }
