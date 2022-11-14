@@ -28,7 +28,7 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addPlugin(timeToRead, {
     language: 'fr',
-    speed: '280 words a minute'
+    speed: '280 words a minute',
   });
 
   // Configuration API: use eleventyConfig.addLayoutAlias(from, to) to add
@@ -87,7 +87,7 @@ module.exports = function (eleventyConfig) {
 
   const minifyCSS = function (code) {
     return new CleanCSS({}).minify(code).styles;
-  }
+  };
 
   eleventyConfig.addFilter('cssmin', minifyCSS);
 
@@ -120,6 +120,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy('static/img');
   eleventyConfig.addPassthroughCopy('static/fonts');
   eleventyConfig.addPassthroughCopy('static/data');
+  eleventyConfig.addPassthroughCopy({ 'static/root/*': '/' });
   eleventyConfig.addPassthroughCopy('admin/');
   eleventyConfig.addPassthroughCopy('_includes/assets/css/inline.css');
 
