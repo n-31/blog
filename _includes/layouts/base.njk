@@ -35,7 +35,7 @@
 		{% include "components/footer.njk" %}
 
 		{% for module in modules %}
-			<script type="module" src="/js-modules/{{module}}"></script>
+			<script type="module" src="/js-modules/{{module}}" defer></script>
 		{% endfor %}
 	</body>
 
