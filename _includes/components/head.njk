@@ -37,8 +37,10 @@
   <meta name="twitter:url" content="{{ env.BASE_URL }}{{ page.url }}">
   <meta name="twitter:site" content="{{ website.twitter_handle }}">
 
-  {# preloading #}
+  {# preloading non-critical ressources #}
   <link rel="preload" href="/static/fonts/Kremlin.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="/tex.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="/tex.css"></noscript>
 
   {# Inline style and scripts #}
   {% set css %}
