@@ -155,6 +155,7 @@ module.exports = function (eleventyConfig) {
     {
       'node_modules/@justinribeiro/lite-youtube/lite-youtube.js': 'js-modules/lite-youtube.js',
       'js-modules/political-plot.js': 'js-modules/political-plot.js',
+      'js-modules/service-worker.js': 'service-worker.js',
     },
     {
       transform: (src, dest, stats) => {

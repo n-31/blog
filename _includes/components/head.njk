@@ -47,9 +47,15 @@
   <style>
     {{css | cssmin | safe}}
   </style>
-  <link rel="stylesheet" href="/tex.css">
+
   {% set js %}
     {% include "assets/js/inline.js" %}
   {% endset %}
   <script>{{ js | jsmin | safe }}</script>
+
+  {# Service Worker #}
+  <script>
+    if ("serviceWorker" in navigator)
+      navigator.serviceWorker.register("/service-worker.js");
+  </script>
 </head>
