@@ -1,4 +1,4 @@
-:root {
+:root:not(.dark-theme) {
 	--primary: #c81616;
 	--secondary: #da720a;
 	--background: #FFF;
@@ -14,23 +14,22 @@
 	--blockquote-primary: var(--primary);
 }
 
-@media (prefers-color-scheme: dark) {
-	:root {
-		--primary: #FB1C1C;
-		--secondary: #da720a;
-		--background: #131311;
-		--accent-background: #000;
-		--primary-text-color: #FFF;
-		--text-color-on-primary: #000;
-		--text-color-on-secondary: #000;
-		--text-color-on-soft: #FFF;
-		--soft-color: #4c4c4b;
-		--blockquote-border-color: #424242;
-		--blockquote-text-color: #000;
-		--blockquote-bg-color: #212121;
-		--blockquote-primary: #F44;
-	}
+:root.dark-theme {
+	--primary: #FB1C1C;
+	--secondary: #da720a;
+	--background: #131311;
+	--accent-background: #000;
+	--primary-text-color: #FFF;
+	--text-color-on-primary: #000;
+	--text-color-on-secondary: #000;
+	--text-color-on-soft: #FFF;
+	--soft-color: #4c4c4b;
+	--blockquote-border-color: #424242;
+	--blockquote-text-color: #000;
+	--blockquote-bg-color: #212121;
+	--blockquote-primary: #F44;
 }
+
 
 @media screen and (min-width:768px) {
 	:root {
@@ -213,6 +212,10 @@ pre {
 	font-display: fallback;
 }
 
+header {
+	position: relative;
+}
+
 header > em {
 	display: block;
 	font-size: 2em;
@@ -220,6 +223,18 @@ header > em {
 	font-weight: bold;
 	font-style: normal;
 	font-family: 'Kremlin';
+}
+
+/* Color Theme Switch */
+#color-theme-switch {
+	position: absolute;
+	top: 2em;
+	right: 2em;
+}
+
+.color-theme-icon {
+	display: none;
+	height: 25px;
 }
 
 /* Header Nav */
