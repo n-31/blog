@@ -31,6 +31,11 @@
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:url" content="{{ env.BASE_URL }}{{ page.url }}">
   <meta name="twitter:site" content="{{ website.twitter_handle }}">
+
+  {# preloading #}
+  <link rel="preload" href="/static/fonts/Kremlin.woff2" as="font" type="font/woff2" crossorigin>
+
+  {# Inline style and scripts #}
   {% set css %}
   {% include "assets/css/inline.css" %}
   {% endset %}
