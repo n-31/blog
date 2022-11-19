@@ -141,6 +141,8 @@ _site/
 ### VisualStudioCode ###
 .vscode/*
 !.vscode/recommended-settings.json
+!.vscode/settings.json
+!.vscode/ltex.dictionary.fr.txt
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
