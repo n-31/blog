@@ -2,7 +2,7 @@
 title: "Liberté - dé·polariser #2"
 date: 2022-11-03T18:00:00Z
 permalink: /posts/depolariser/02-liberte.html
-summary: "Positive ou négative ? Libéral, libertaire, libertarien ? C'est quoi, au juste, la liberté ?"
+summary: "Positive ou négative ? C'est quoi, au juste, la liberté ?"
 image: /static/img/designecologist-P1sMtXL4jow-unsplash.jpg
 tags:
   - dé·polariser
