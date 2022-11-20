@@ -5,6 +5,7 @@ const htmlmin = require('html-minifier');
 const eleventyNavigationPlugin = require('@11ty/eleventy-navigation');
 const Image = require('@11ty/eleventy-img');
 const timeToRead = require('eleventy-plugin-time-to-read');
+const pluginRss = require('@11ty/eleventy-plugin-rss');
 const { Transform } = require('readable-stream');
 
 require('dotenv').config();
@@ -29,6 +30,21 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(timeToRead, {
     language: 'fr',
     speed: '280 words a minute',
+  });
+
+  // RSS feeds
+  eleventyConfig.addPlugin(pluginRss);
+  eleventyConfig.addLiquidFilter('dateToRfc3339', pluginRss.dateToRfc3339);
+  eleventyConfig.addLiquidFilter('dateToRfc822', pluginRss.dateToRfc822);
+
+  eleventyConfig.addFilter('removeStyles', function (value) {
+    const regex = /(style=".+?")/gm;
+    return value.replace(regex, '');
+  });
+
+  eleventyConfig.addFilter('removeScripts', function (value) {
+    const regex = /<script(?:(?!\/\/)(?!\/\*)[^'"]|"(?:\\.|[^"\\])*"|'(?:\\.|[^'\\])*'|\/\/.*(?:\n)|\/\*(?:(?:.|\s))*?\*\/)*?<\/script>/gm;
+    return value.replace(regex, '');
   });
 
   // Configuration API: use eleventyConfig.addLayoutAlias(from, to) to add

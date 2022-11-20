@@ -10,20 +10,20 @@ document.addEventListener('DOMContentLoaded', function (event) {
   const darkIcon = colorThemeSwitch.getElementsByClassName('dark')[0];
 
   if (doesPreferDark) {
-    darkIcon.style.display = 'block';
+    darkIcon.style.display = 'flex';
   } else {
-    lightIcon.style.display = 'block';
+    lightIcon.style.display = 'flex';
   }
 
   window.toggleColorTheme = () => {
     if (document.documentElement.classList.contains('dark-theme')) {
       document.documentElement.classList.remove('dark-theme');
       darkIcon.style.display = 'none';
-      lightIcon.style.display = 'block';
+      lightIcon.style.display = 'flex';
     } else {
       document.documentElement.classList.add('dark-theme');
       lightIcon.style.display = 'none';
-      darkIcon.style.display = 'block';
+      darkIcon.style.display = 'flex';
     }
   };
 });
