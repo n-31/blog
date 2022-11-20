@@ -3,7 +3,7 @@
 	--secondary: #da720a;
 	--background: #FFF;
 	--primary-text-color: #000;
-	--text-color-on-primary: #000;
+	--text-color-on-primary: #FFF;
 	--text-color-on-secondary: #000;
 	--text-color-on-soft: #000;
 	--soft-color: #ececee;
@@ -64,6 +64,18 @@ body {
 
 .post {
 	text-align: justify;
+}
+
+.sr-only {
+	position: absolute !important;
+	width: 1px !important;
+	height: 1px !important;
+	padding: 0 !important;
+	margin: -1px !important;
+	overflow: hidden !important;
+	clip: rect(0,0,0,0) !important;
+	white-space: nowrap !important;
+	border: 0 !important;
 }
 
 h1 {
@@ -172,6 +184,20 @@ footer {
 
 .main-footer {
 	font-size: .8rem;
+}
+
+.main-footer .listmonk-form {
+	margin-bottom: 2rem;
+}
+
+.main-footer .listmonk-form label.title-label {
+	font-size: 1.1rem;
+	font-weight: bold;
+	margin-bottom: 1rem;
+}
+
+.main-footer .listmonk-form p {
+	font-style: italic;
 }
 
 main {
@@ -373,6 +399,22 @@ button.soft {
 	border: none;
 	background-color: var(--soft-color);
 	color: var(--text-color-on-soft);
+}
+
+.inline-input {
+	display: flex;
+	align-items: center;
+	padding: 0;
+}
+
+.inline-input button {
+	flex-shrink: 20;
+}
+
+.inline-input input, .inline-input button {
+	padding: .5em;
+	margin-bottom: 0;
+	font-size: .9rem;
 }
 
 .post__footer {
