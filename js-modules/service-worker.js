@@ -1,75 +1,121 @@
-/*
- Copyright 2016 Google Inc. All Rights Reserved.
- Licensed under the Apache License, Version 2.0 (the "License");
- you may not use this file except in compliance with the License.
- You may obtain a copy of the License at
- http://www.apache.org/licenses/LICENSE-2.0
- Unless required by applicable law or agreed to in writing, software
- distributed under the License is distributed on an "AS IS" BASIS,
- WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
- See the License for the specific language governing permissions and
- limitations under the License.
- */
+// the version number of a cache must be changed after associated resources has been updated
+const INSTALL_CACHE = 'precache-v2';
+const ACTIVATION_CACHE = 'activation-v1';
+const RUNTIME_CACHE = 'runtime-v1';
 
-// Names of the two caches used in this version of the service worker.
-// Change to v2, etc. when you update any of the local resources, which will
-// in turn trigger the install event again.
-const PRECACHE = 'precache-v1';
-const RUNTIME = 'runtime';
-
-// A list of local resources we always want to be cached.
-const PRECACHE_URLS = [
-  'index.html',
-  './', // Alias for index.html
+// resources we always need
+const INSTALL_CACHE_URLS = [
+  // index.html changes constantly, and isn't always necessary as this website isn't an SPA.
+  // We don't want to include it here.
   '/static/fonts/Kremlin.woff2',
-  "/tex.css",
-  "/static/img/by-nc-sa.png"
+  '/tex.css',
+  '/static/img/by-nc-sa.png',
+  '/static/img/app-icons/favicon-16x16.png',
+  '/static/img/app-icons/apple-touch-icon.png',
+  '/network-error.html',
 ];
 
-// The install handler takes care of precaching the resources we always need.
-self.addEventListener('install', event => {
+// resources to precache on activation
+const ACTIVATION_CACHE_URLS = [
+  '/index.html',
+  './',
+  // last blog post
+  '/posts/depolariser/01-gauche-droite.html',
+  // assets for last blog post
+  '/js-modules/political-plot.js',
+  'https://d3js.org/d3.v7.min.js',
+  '/static/data/political-plot-demo1.csv',
+  '/static/img/axe-progressisme.svg',
+  '/static/img/gif-posters/perceval-nord.png',
+  '/static/data/echiquier-politique-2022-lemonde.csv',
+  '/static/fonts/katex/KaTeX_Size1-Regular.woff2',
+  '/static/fonts/katex/KaTeX_Size2-Regular.woff2',
+  '/static/fonts/katex/KaTeX_Size4-Regular.woff2',
+  '/static/fonts/katex/KaTeX_Math-Italic.woff2',
+  '/static/fonts/katex/KaTeX_Main-Regular.woff2',
+];
+
+const EXTERNAL_CACHE_URLS = ['https://d3js.org/d3.v7.min.js'];
+
+self.addEventListener('install', (event) => {
   event.waitUntil(
-    caches.open(PRECACHE)
-      .then(cache => cache.addAll(PRECACHE_URLS))
-      .then(self.skipWaiting())
+    (async () => {
+      // precache the resources we always need
+      const cache = await caches.open(INSTALL_CACHE);
+      await cache.addAll(INSTALL_CACHE_URLS);
+      await self.skipWaiting();
+    })()
   );
 });
 
-// The activate handler takes care of cleaning up old caches.
-self.addEventListener('activate', event => {
-  const currentCaches = [PRECACHE, RUNTIME];
+self.addEventListener('activate', (event) => {
+  const currentCaches = [INSTALL_CACHE, RUNTIME_CACHE];
   event.waitUntil(
-    caches.keys().then(cacheNames => {
-      return cacheNames.filter(cacheName => !currentCaches.includes(cacheName));
-    }).then(cachesToDelete => {
-      return Promise.all(cachesToDelete.map(cacheToDelete => {
-        return caches.delete(cacheToDelete);
-      }));
-    }).then(() => self.clients.claim())
+    (async () => {
+      // clean up old caches
+      const cacheNames = await caches.keys();
+      const cachesToDelete = cacheNames.filter((cacheName) => !currentCaches.includes(cacheName));
+      await Promise.all(cachesToDelete.map((cacheToDelete) => caches.delete(cacheToDelete)));
+      self.clients.claim();
+    })()
   );
+  // cache usefull ressources
+  caches.open(ACTIVATION_CACHE_URLS).then((cache) => cache.addAll(ACTIVATION_CACHE_URLS));
 });
 
-// The fetch handler serves responses for same-origin resources from a cache.
-// If no response is found, it populates the runtime cache with the response
-// from the network before returning it to the page.
-self.addEventListener('fetch', event => {
-  // Skip cross-origin requests, like those for Google Analytics.
-  if (event.request.url.startsWith(self.location.origin)) {
+self.addEventListener('fetch', (event) => {
+  const isExternalAndPrecached = EXTERNAL_CACHE_URLS.includes(event.request.url);
+
+  // skip cross-origin requests
+  if (event.request.url.startsWith(self.location.origin) || isExternalAndPrecached) {
     event.respondWith(
-      caches.match(event.request).then(cachedResponse => {
-        if (cachedResponse) {
-          return cachedResponse;
+      (async () => {
+        let cacheFirst = false;
+
+        const requestURL = new URL(event.request.url);
+        const cachedResponse = await caches.match(event.request);
+
+        const wasPrecachedOnInstall = INSTALL_CACHE_URLS.includes(requestURL.pathname);
+        const wasPrecachedOnActivation = ACTIVATION_CACHE_URLS.includes(requestURL.pathname);
+        const isStaticFile = /^\/static\//.test(requestURL.pathname);
+
+        // use cache first for specific files
+        if (isStaticFile || wasPrecachedOnInstall || wasPrecachedOnActivation || isExternalAndPrecached) {
+          cacheFirst = true;
         }
 
-        return caches.open(RUNTIME).then(cache => {
-          return fetch(event.request).then(response => {
-            // Put a copy of the response in the runtime cache.
-            return cache.put(event.request, response.clone()).then(() => {
+        let networkResponse;
+
+        // don't refetch cached static and external files
+        if (!((isStaticFile || isExternalAndPrecached) && cachedResponse)) {
+          networkResponse = fetch(event.request)
+            // update cache from network (Stale-while-revalidate)
+            .then(async (response) => {
+              // don't cache error responses
+              if (response.ok) {
+                // put a copy of the response in the appropriate cache
+                const cacheName = wasPrecachedOnInstall ? INSTALL_CACHE : wasPrecachedOnActivation ? ACTIVATION_CACHE : RUNTIME_CACHE;
+                const cache = await caches.open(cacheName);
+                await cache.put(event.request, response.clone());
+              }
               return response;
+            })
+            .catch(() => {
+              // fallback to cache if the request failed
+              if (cachedResponse) {
+                return cachedResponse;
+              // if no cache is available for an html page, show a network error message instead
+              } else if (/\.html$/.test(requestURL.pathname) || requestURL.pathname.endsWith('/')) {
+                return caches.match('/network-error.html');
+              }
+              // fallback to a 404 error response to avoid unecessary logs
+              return new Response(null, { status: 404 });
             });
-          });
-        });
-      })
+        }
+
+        // network first by default
+        return cacheFirst && cachedResponse ? cachedResponse : networkResponse;
+      })()
     );
   }
 });
