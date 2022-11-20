@@ -226,14 +226,23 @@ header > em {
 }
 
 /* Color Theme Switch */
-#color-theme-switch {
+#header__action-icons {
 	position: absolute;
 	top: 2em;
 	right: 2em;
+	display: flex;
+	gap: 1em;
+}
+
+#color-theme-switch {
+
 }
 
 .color-theme-icon {
 	display: none;
+}
+
+.header__action-icon {
 	height: 25px;
 }
 
