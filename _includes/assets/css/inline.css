@@ -228,22 +228,44 @@ header > em {
 /* Color Theme Switch */
 #header__action-icons {
 	position: absolute;
-	top: 2em;
-	right: 2em;
+	top: 1em;
+	right: 1em;
 	display: flex;
 	gap: 1em;
 }
 
-#color-theme-switch {
-
+#header__action-icons figure {
+	padding: 0;
+	margin: 0;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	font-size: .7rem;
+	gap: .5em;
+	cursor: pointer;
 }
 
-.color-theme-icon {
+#header__action-icons .color-theme-icon {
 	display: none;
 }
 
+#color-theme-switch {
+	padding-right: 1em;
+	border-right: 1px solid var(--primary-text-color);
+}
+
+#header__action-icons a {
+	color: var(--primary-text-color);
+}
+
+#header__action-icons a:hover {
+	text-decoration: none;
+}
+
 .header__action-icon {
-	height: 25px;
+	height: 15px;
+	width: 15px;
+	fill: var(--primary-text-color);
 }
 
 /* Header Nav */
