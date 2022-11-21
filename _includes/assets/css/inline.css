@@ -170,6 +170,12 @@ article figure {
 	text-align: center;
 }
 
+article figcaption {
+	margin-top: 1em;
+	font-size: .9rem;
+	font-style: italic;
+}
+
 article video {
 	display: block;
 	margin: 0 auto;
