@@ -18,7 +18,7 @@
 			<p>
 				<small><time datetime="{{ post.date | machineDate }}">
 					{{ post.date | readableDate }}
-				</time>&ensp;•&ensp;{{ post.templateContent | timeToRead({ style: 'narrow' }) }}</small>
+				</time>&ensp;•&ensp;{{ post.templateContent | removeFootnotes | timeToRead({ style: 'narrow' }) }}</small>
 			</p>
 			{% if post.data.tags %}
 				<p>

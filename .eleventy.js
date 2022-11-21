@@ -7,6 +7,7 @@ const Image = require('@11ty/eleventy-img');
 const timeToRead = require('eleventy-plugin-time-to-read');
 const pluginRss = require('@11ty/eleventy-plugin-rss');
 const { Transform } = require('readable-stream');
+const posthtml = require('posthtml');
 
 require('dotenv').config();
 
@@ -27,9 +28,32 @@ module.exports = function (eleventyConfig) {
   // Eleventy Navigation https://www.11ty.dev/docs/plugins/navigation/
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
 
+  // Reading Time
   eleventyConfig.addPlugin(timeToRead, {
     language: 'fr',
     speed: '280 words a minute',
+  });
+
+  eleventyConfig.addAsyncFilter('removeFootnotes', async function (value) {
+    let { tree } = await posthtml().process(value);
+    tree.match({ tag: 'section', attrs: {class: 'footnotes' } }, (node) => {
+      node.tag = false;
+      node.content = [];
+      return node
+    })
+    return tree.render(tree);
+  });
+
+  eleventyConfig.addAsyncFilter('countFootnotes', async function (value) {
+    let { tree } = await posthtml().process(value);
+    let countLi = 0
+    tree.match({ tag: 'section', attrs: {class: 'footnotes' } }, (node) => {
+      countLi = node.content.find((child) => child.tag === 'ol').content.filter((child) => child.tag === 'li').length;
+    })
+    if (countLi > 0) {
+      return `+ ${countLi} note${countLi > 1 ? 's' : ''}`
+    }
+    return '';
   });
 
   // RSS feeds

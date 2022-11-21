@@ -9,11 +9,11 @@ section: post
       Parution : <time datetime="{{ page.date | machineDate }}">{{ page.date | readableDate }}</time>
     </small>
     <small>
-      Lecture : {{layoutContent | timeToRead}}
+      Lecture : {{layoutContent | removeFootnotes | timeToRead}} {{ layoutContent | countFootnotes }}
     </small>
   </p>
 
-  {{ layoutContent | safe }}
+  {{ layoutContent  | safe }}
 
   {% if tags %}
     <p>

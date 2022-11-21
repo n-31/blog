@@ -1,4 +1,4 @@
-const doesPreferDark = window.matchMedia && window.matchMedia('(prefers-color-scheme:dark)').matches;
+let doesPreferDark = window.matchMedia && window.matchMedia('(prefers-color-scheme:dark)').matches;
 
 if (doesPreferDark) {
   document.documentElement.classList.add('dark-theme');
