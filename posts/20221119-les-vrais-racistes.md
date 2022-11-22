@@ -19,13 +19,14 @@ Si la tirade est bien totalement démagogique, elle n'en est pas moins représen
 
 Une tradition si fondamentale dans notre pays que nous devons, pour la comprendre, remonter jusqu'à la révolution de 1789, et revoir le fonctionnement même des empires coloniaux français.
 
-> **Avertissement**
+> :warning: **Avertissement**
 >
 > Cet article est une réaction à chaud à l'actualité.
-> Il a donc été rédigée rapidement et ne fait que survoler un sujet extrêmement complexe.
-> N'hésitez pas à poster un commentaire pour signaler la moindre erreur ou un sujet qui mériterait d'être approfondi.
+> Il a donc été publié rapidement et ne fait que survoler un sujet extrêmement complexe.
+> Il est très probable que je le mette régulièrement à jour en fonction de mes découvertes, lectures et discussions.
+> Pour m'aider (ou m'engueuler), postez donc un commentaire.
 
-## Une république coloniale raciste (1789-1804)
+## Une république coloniale raciste (1789-1830)
 
 En 1789, le premier article de la Déclaration des Droits de l'Homme et du Citoyen (DDHC) proclame :
 
@@ -109,51 +110,76 @@ Comme les citoyens français sont encore et toujours dits égaux, il apparait n�
 Ce qui est fait en offrant aux plus "méritants" la possibilité de devenir à leur tour citoyen, par la "naturalisation".
 Un processus fantoche, puisque moins de 7 000 musulmans d’Algérie deviennent pleinement Français par cette voix sur la totalité de la période coloniale[^12].
 
-Cet apartheid ne se limitera d'ailleurs pas à la seule [Algérie française](https://fr.wikipedia.org/wiki/Alg%C3%A9rie_fran%C3%A7aise).
-Il sera rapidement étendu à l'ensemble des colonies, pour persister en l'état jusqu'en 1946[^13].
+Cet apartheid ne se limitera d'ailleurs pas à la seule [Algérie française](https://fr.wikipedia.org/wiki/Alg%C3%A9rie_fran%C3%A7aise)[^13].
+Il sera rapidement étendu à l'ensemble des colonies, pour persister en l'état jusqu'en 1946[^14].
 
 ## Un empire sur le déclin imposant son identité factice (1946-1980)
 
 La France métropolitaine sort de la seconde guerre mondiale affaiblie.
 Envahie à son tour, elle se retrouve blessée dans son identité.
-Elle recherche donc à se reconstruire comme un pays fort et unis.
-
 En parallèle, l'empire colonial lui-même commence à se fissurer face aux revendications des "indigènes".
+La métropole recherche donc à se reconstruire comme un pays fort et unis.
+Ce qu'elle fera par deux approches bien distinctes.
 
-- [Loi Lamine Guèye](https://fr.wikipedia.org/wiki/Loi_Lamine_Gu%C3%A8ye)
+La première approche, héritière de la résistance et portée par la SFIO, fait reculer l'hypocrisie de l'égalitarisme républicain en instituant de nouveaux droits et protections.
+Elle sera ainsi notamment à l'origine de la confirmation du droit de vote des femmes ainsi que de la sécurité sociale.
+
+[Amadou Lamine-Guèye](https://fr.wikipedia.org/wiki/Amadou_Lamine-Gu%C3%A8ye) maire de Dakar et député français du Sénégal soutenu par la SFIO, propose alors une loi "tendant à proclamer citoyens tous les ressortissants des territoires d'outre-mer". Adoptée le 7 mai 1946, [cette loi](https://fr.wikipedia.org/wiki/Loi_Lamine_Gu%C3%A8ye) met ainsi fin au code de l'indigénat en vigueur depuis prêt d'un siècle[^15].
+
+Un second groupe luttera intensivement contre ces initiatives[^16].
+Il s'agit bien entendu des riches collons, de leurs héritiers, et de leurs alliés conservateurs métropolitains.
+Ensemble, ceux-ci forment plusieurs États Généraux de la colonisation sous l'égide du Comité de l’Empire français[^17]
+Le pouvoir de ce comité est considérable depuis la fin du XIXᵉ siècle, essentiellement du fait des privilèges démentiels de ses membres.
+Ils ne feront cependant que ralentir l'inéluctable.
 
 L'indépendance de l'Indochine en [1954](https://fr.wikipedia.org/wiki/Accords_de_Gen%C3%A8ve), puis de l'Algérie en [1962](https://fr.wikipedia.org/wiki/Accords_d%27%C3%89vian), marque un tournant.
-La France n'est et ne sera plus un empire colonial telle qu'elle le définissait jusque-là.
+La France n'est et ne sera plus un empire colonial telle qu'elle se définissait jusque-là.
 Elle ne peut cependant se résoudre à tourner le dos à son propre impérialisme.
-
-"Intégration" des DOM-TOM.
-
-"Tous français"
-
-"nos ancêtres les gaulois"
-https://www.cairn.info/revue-cahiers-sens-public-2009-2-page-45.htm
-https://youtu.be/X8OQIKjqCF0
-
-Le 30 juillet 1980 : indépendance du Condominium des Nouvelles-Hébrides.
-
-[France d'outre-mer](https://fr.wikipedia.org/wiki/France_d'outre-mer)
 
 <figure>
   <img src="/static/img/Outre-mer.png" />
   <figcaption>Carte des territoires d'outre-mer français, DOM et COM.</figcaption>
 </figure>
 
+De 1946 à nos jours, le pouvoir métropolitain ne cesse de répéter l'appartenance des [territoires ultramarins](https://fr.wikipedia.org/wiki/France_d'outre-mer) à la république.
+De considérer que cette république est "une et indivisible", alors même qu'il est évident qu'elle est multiple, et que le régime colonial lui-même ne cesse d'instaurer des "régimes spéciaux".
+
+Ce double discours est présent dans tous les textes définissant la "France d'outre-mer"[^18].
+
+Dans les faits, la France n'a jamais cessé de nier sa propre diversité[^19].
+
+Nous sommes "tous français". "Tous égaux". Donc (par un truchement assez habile), "tous identiques".
+Au point que la plupart des habitants des anciennes colonies et DOM/TOM peuvent encore aujourd'hui se rappeler l'enseignement de la fameuse phrase "_nos ancêtres les gaulois_"[^20].
+
 ## Une France "Black blanc beur" sans couleurs (1980-2015)
 
-Montée du FN (alliances RPR) et des meurtres racistes
+Le traumatisme de la Shoah et du Porajmos, la révolution contre-culturelle des années 60 et 70 et la fin officielle du colonialisme ont malgré tout largement transformé la place accordée au racisme dans la société française[^21].
 
- [Marche pour l'égalité et contre le racisme](https://fr.wikipedia.org/wiki/Marche_pour_l%27%C3%A9galit%C3%A9_et_contre_le_racisme) ("marche des beurs") du 15 octobre 1983 au 3 décembre 1983
+Les propos ouvertement racistes ont progressivement été exclus de ce que nous considérons collectivement comme acceptable.
+Ils sont même, [depuis 1972](https://fr.wikipedia.org/wiki/Incitation_%C3%A0_la_haine_en_raison_de_l%27origine_ou_de_l%27appartenance_ou_de_la_non-appartenance_%C3%A0_une_ethnie,_une_nation,_une_race_ou_une_religion_d%C3%A9termin%C3%A9e_en_droit_fran%C3%A7ais), proscris par la loi[^22].
+
+De toute évidence, le racisme n'en a pas pour autant disparu.
+Les conservateurs et réactionnaires, nostalgiques du "temps de colonies" et de sa hiérarchie, n'ont eu qu'à transformer leurs propos.
+Mais leurs comportements et idées sont restées identiques.
+
+Le début des années 80 est ainsi marqué par la montée du FN, direct héritier du collaborationnisme[^23] et de l'OAS[^24].
+Dans la continuité de la tradition conservatrice, le RPR s'associe avec l'extrême-droite, Jacques Chirac allant même jusqu'à déclarer : « _Je n'aurais pas du tout été gêné de voter au second tour pour la liste \[RPR-FN\]. Cela n'a aucune espèce d'importance d'avoir quatre pèlerins du FN à Dreux, comparé aux quatre ministres communistes au Conseil des ministres._ »[^25]
+
+En parallèle, les crimes racistes se multiplient.
+
+[^26]
+
+[Marche pour l'égalité et contre le racisme](https://fr.wikipedia.org/wiki/Marche_pour_l%27%C3%A9galit%C3%A9_et_contre_le_racisme) ("marche des beurs") du 15 octobre 1983 au 3 décembre 1983
 
 Récupération par SOS Racisme, proche du pouvoir PS
 Marginalisation des magrébins
 
+1991: [le bruit et l'odeur](https://fr.wikipedia.org/wiki/Le_bruit_et_l%27odeur_(discours_de_Jacques_Chirac))
+
+« _Comment voulez-vous que le travailleur français qui habite à la Goutte-d'or [...], et qui voit sur le palier à côté de son HLM, entassée, une famille avec un père de famille, trois ou quatre épouses, et une vingtaine de gosses, et qui gagne 50 000 francs de prestations sociales, sans naturellement travailler ! Si vous ajoutez à cela **le bruit et l'odeur** [rires nourris], eh bien le travailleur français sur le palier, il devient fou._ »
+
 1998: coupe du monde de foot
-France "black blanc beurs"[^14]
+France "black blanc beurs"[^27]
 
 ## Un pays en "lutte" contre "l'islamo-gauchisme" (2015-aujourd'hui)
 
@@ -163,7 +189,7 @@ En 2018, nouvelle victoire
 Trevor Noah "l'Afrique a gagné la coupe du monde"
 Lettre de l'ambassadeur
 
-"Quand ils sont sans emploi, quand ils commettent un crime ou qu'ils sont déplaisants, on les considère comme des immigrants. Quand leurs enfants remportent la Coupe du monde pour la France, on ne les présente plus que comme français."[^15]
+"Quand ils sont sans emploi, quand ils commettent un crime ou qu'ils sont déplaisants, on les considère comme des immigrants. Quand leurs enfants remportent la Coupe du monde pour la France, on ne les présente plus que comme français."[^28]
 
 [Mamoudou Gassama](https://fr.wikipedia.org/wiki/Mamoudou_Gassama)
 
@@ -210,6 +236,8 @@ Assimilation à cette identitée supposée
 - Olivier Le Cour Grandmaison. _De l'indigénat_. Éditions La Découverte.
 - :video_camera: Youtube. [_Contre-histoire de la France outre-mer : Nos ancêtres les Gaulois_](https://youtu.be/X8OQIKjqCF0)
 - :video_camera: Youtube. Ensemble de la chaine [Histoires Crépues](https://www.youtube.com/channel/UCVuMMUfqEI448VKbkpuNPHQ)
+- Félicien, LEMAIRE (Professeur de droit public à l'Université d'Angers). [L’outre-mer, l’unité et l’indivisibilité de la République.](https://www.conseil-constitutionnel.fr/nouveaux-cahiers-du-conseil-constitutionnel/l-outre-mer-l-unite-et-l-indivisibilite-de-la-republique)" Conseil constitutionnel, 21 Nov. 2022
+- Gauthier, Florence. [La Révolution française et le problème colonial 1789-1804. État des connaissances et perspectives de recherche](https://books.openedition.org/pup/5756). Presses universitaires de Provence, 2003.
 
 ## Articles Wikipedia sujets à caution
 
@@ -230,32 +258,110 @@ Assimilation à cette identitée supposée
 - [Premier empire colonial français](https://fr.wikipedia.org/wiki/Premier_empire_colonial_fran%C3%A7ais)
 - [Universalisme républicain](https://fr.wikipedia.org/wiki/Universalisme_r%C3%A9publicain)
 
-[^1]: Les "hommes" est bien indiqué ici avec une minuscule, avec une définition très restreinte. Les femmes étaient très loin d'être inclues dans cette définition (pour rappel, le droit de vote des femmes ne sera institué en France qu'en 1944). On peut même considérer que beaucoup d'hommes, même blancs, en étaient également implicitement exclus. Le suffrage universel masculin ne sera d'ailleurs réellement institué qu'en 1848, après prêt d'un siècle de [suffrage censitaire](https://fr.wikipedia.org/wiki/Suffrage_censitaire).
+[^1]: Les "hommes" est bien indiqué ici avec une minuscule, avec une définition très restreinte. Les femmes étaient très loin d'être inclues dans cette définition (pour rappel, le droit de vote des femmes ne sera institué en France qu'en 1944). Partant de ce point de départ, je fais volontairement le choix d'utiliser dans cet article le masculin plutôt que l'écriture inclusive afin de mieux souligner l'évidence : les femmes ont été systématiquement exclues de ces questions.
+
+    Pour aller plus loin, on peut même considérer que beaucoup d'hommes, même blancs, étaient également implicitement exclus de la DDHC.
+    Le suffrage universel masculin ne sera par exemple réellement institué qu'en 1848, après prêt d'un siècle de [suffrage censitaire](https://fr.wikipedia.org/wiki/Suffrage_censitaire).
 
 [^2]: Abolir les privilèges féodaux était la première revendication des révolutionnaires. Ce fut donc une des premières mesures prises après la révolution, par les [Décrets des 4, 6, 7, 8 et 11 août 1789](https://fr.wikipedia.org/wiki/D%C3%A9crets_des_4,_6,_7,_8_et_11_ao%C3%BBt_1789)
 
 [^3]: Voir Pierre Ancery (2020). [_1788-1791 : la Société des Amis des Noirs face aux esclavagistes_](https://www.retronews.fr/colonies/echo-de-presse/2019/02/20/la-societe-des-amis-des-noirs). RetroNews
 
-[^4]: Voir [_Adresse à l'Assemblée nationale, pour l'abolition de la traite des Noirs_](https://gallica.bnf.fr/ark:/12148/bpt6k417108) par la Société des amis de Noirs de Paris, février 1790. Il est évidemment nécessaire de contextualiser ce texte. Dans une société suprémaciste où les non-blancs étaient largement considérés comme des animaux non-humains, s'insurger contre "l'égorgement de milliers de noirs" tout en se défendant de souhaiter leur libération était bel et bien novateur et progressiste. En lisant ce texte, il est cependant évident que la description usuelle de cette association comme abolitionniste et égalitariste est extrêmement abusive.
+[^4]: Voir [_Adresse à l'Assemblée nationale, pour l'abolition de la traite des Noirs_](https://gallica.bnf.fr/ark:/12148/bpt6k417108) par la Société des amis de Noirs de Paris, février 1790.
 
-[^5]: Au XVIIIᵉ siècle, la France distinguait quatre degrés de couleurs en fonction d'une supposée proportion de "sang noir" : nègre (100%), mulâtre (50%), quarteron (25%) et blanc (0%). La définition des "[libres de couleur](https://fr.wikipedia.org/wiki/Gens_de_couleur_libres)" change alors régulièrement au fil du temps en rapport avec cette échelle et le status des parents. Dans certaines circonstances, la définition de "libre de couleur" fut même réduite aux seuls "quarterons" dont les deux parents étaient nés libres. Quelques tentatives d'élargir cette définition pour intégrer les noirs affranchis et les "mulâtres" ont bien eu lieu peut de temps après la révolution Française. Elles ont cependant été rapidement abandonnées face à la pression des riches colons.
+    Il est évidemment nécessaire de contextualiser ce texte. Dans une société suprémaciste où les non-blancs étaient largement considérés comme des animaux non-humains, s'insurger contre "l'égorgement de milliers de noirs" tout en se défendant de souhaiter leur libération était bel et bien novateur et progressiste. En lisant ce texte, il est cependant évident que la description usuelle de cette association comme abolitionniste et égalitariste est extrêmement abusive.
 
-[^6]: Évidemment, l'Histoire de la confrontation entre un modèle révolutionnaire "égalitaire" et le modèle colonial esclavagiste préexistant est bien plus complexe. La révolution, et avec elle le premier article de la DDHC, ne furent pas portés tels quel dans les colonies, principalement du fait du pouvoir local des colons esclavagistes. Malgré une abolition brève et limitée de l'esclavage dans l'empire français de 1794 à [1804](https://fr.wikipedia.org/wiki/R%C3%A9tablissement_de_l%27esclavage_par_Napol%C3%A9on_Bonaparte), la république nouvellement créée s'accorde très bien des ségrégations déjà en place, allant même jusqu'à renforcer celles-ci au besoin. Il est donc important d'insister sur le fait que la révolution française n'a pas, ou très peu, réduit les inégalités raciales (ni même sociales, mais c'est un autre sujet). Elle a au contraire posé les bases d'un "nouveau" système colonialiste, ségrégationniste, et donc raciste, qui perdure jusqu'à nos jours. Mais même cela est encore un résumé bien trop sommaire. Pour en savoir plus, je vous recommande vivement la lecture de l'article de Florence Gauthier, maitre de conférence à l'Université Paris 7-Denis Diderot, [_De la Révolution de Saint-Domingue à l’Indépendance d’Haïti. Comment sortir de l’esclavage ? 1789-1804_](https://revolution-francaise.net/2005/12/29/15-de-la-revolution-de-saint-domingue-a-lindependance-dhaiti-comment-sortir-de-lesclavage-1789-1804).
+[^5]: Au XVIIIᵉ siècle, la France distinguait quatre degrés de couleurs en fonction d'une supposée proportion de "sang noir" : nègre (100%), mulâtre (50%), quarteron (25%) et blanc (0%).
 
-[^7]: L'indépendance d'Haïti fut effective dès 1804. Elle n'a cependant été reconnue par la France qu'après un très long processus de négociation. En contrepartie de cette reconnaissance, Haïti dut s'acquitter d'une somme considérable (150 millions de francs-or, soit l'équivalent de 17 milliards d’euros aujourd'hui) pour "dédommager les anciens colons". Pour une rapide introduction à cette question, voir l'article de Louis-Philippe Dalembert publié dans Libération en 2010 : [_Haïti, la dette originelle_](https://www.liberation.fr/planete/2010/03/25/haitila-dette-originelle_617159/). L'[article Wikipédia associé](https://fr.wikipedia.org/wiki/Indemnisation_de_la_France_par_la_r%C3%A9publique_d%27Ha%C3%AFti) est également un bon complément.
+    La définition des "[libres de couleur](https://fr.wikipedia.org/wiki/Gens_de_couleur_libres)" change régulièrement au fil du temps en rapport avec cette échelle et le status des parents. Dans certaines circonstances, la définition de "libre de couleur" fut même réduite aux seuls "quarterons" dont les deux parents étaient nés libres.
+    
+    Quelques tentatives d'élargir cette définition pour intégrer les noirs affranchis et les "mulâtres" ont bien eu lieu peut de temps après la révolution Française. Elles ont cependant été rapidement abandonnées face à la pression des riches colons.
+
+[^6]: Évidemment, l'Histoire de la confrontation entre un modèle révolutionnaire "égalitaire" et le modèle colonial esclavagiste préexistant est bien plus complexe.
+    La révolution, et avec elle le premier article de la DDHC, ne furent pas portés tels quel dans les colonies, principalement du fait du pouvoir local des colons esclavagistes.
+    Malgré une abolition brève et limitée de l'esclavage dans l'empire français de 1794 à [1804](https://fr.wikipedia.org/wiki/R%C3%A9tablissement_de_l%27esclavage_par_Napol%C3%A9on_Bonaparte), la république nouvellement créée s'accorde très bien des ségrégations déjà en place.
+    Elle ira même jusqu'à renforcer celles-ci au besoin.
+
+    Il est donc important d'insister sur le fait que la révolution française n'a pas, ou peu, réduit les inégalités raciales.
+    Elle a au contraire posé les bases d'un "nouveau" système colonialiste, ségrégationniste, et donc raciste, qui perdure jusqu'à nos jours.
+    
+    Mais même cela est encore un résumé bien trop sommaire. Pour en savoir plus, je vous recommande vivement la lecture de l'article de Florence Gauthier, maitre de conférence à l'Université Paris 7-Denis Diderot, [_De la Révolution de Saint-Domingue à l’Indépendance d’Haïti. Comment sortir de l’esclavage ? 1789-1804_](https://revolution-francaise.net/2005/12/29/15-de-la-revolution-de-saint-domingue-a-lindependance-dhaiti-comment-sortir-de-lesclavage-1789-1804).
+
+[^7]: L'indépendance d'Haïti fut effective dès 1804. Elle n'a cependant été reconnue par la France qu'après un très long processus de négociation. En contrepartie de cette reconnaissance, Haïti dut s'acquitter d'une somme considérable (150 millions de francs-or, soit l'équivalent de 17 milliards d’euros aujourd'hui) pour "dédommager les anciens colons".
+
+    Pour une rapide introduction à cette question, voir l'article de Louis-Philippe Dalembert publié dans Libération en 2010 : [_Haïti, la dette originelle_](https://www.liberation.fr/planete/2010/03/25/haitila-dette-originelle_617159/).
+    
+    L'[article Wikipédia associé](https://fr.wikipedia.org/wiki/Indemnisation_de_la_France_par_la_r%C3%A9publique_d%27Ha%C3%AFti) est également un bon complément.
 
 [^8]: Pour se faire une idée de l'étendue des mensonges et de la démagogie qui préfigure durant l'invasion de l'Algérie, il suffit de lire les quelques [textes fondateurs de l'Algérie française](https://mjp.univ-perp.fr/constit/dz1830.htm) établis entre 1830 et 1902.
 
-[^9]: Voir [_le code de l’indigénat dans l’Algérie coloniale_](https://web.archive.org/web/20110308070400/http://www.ldh-toulon.net/spip.php?article527) sur le site la section de Toulon de la Ligue des droits de l’Homme, ainsi que Nathalie Funes (2019). [_Code de l'indigénat dans les colonies : un siècle de répression_](https://www.nouvelobs.com/monde/afrique/20190221.OBS0653/code-de-l-indigenat-dans-les-colonies-un-siecle-de-repression.html). L'Obs et [_1887 - Le Code de l’indigénat est généralisé à toutes les colonies_](https://www.lelivrescolaire.fr/page/6990753)
+[^9]: 3 sources pour approfondir le sujet:
 
-[^10]: Ça vous rappelle quelque chose ? Oui, c'est bel et bien en ces termes que Macron parlait des sans-papiers en août 2021 (voir les articles du [Parisien](https://www.leparisien.fr/politique/vous-avez-des-devoirs-avant-davoir-des-droits-lance-emmanuel-macron-aux-sans-papiers-21-05-2021-PA3JTNGXEJCCHKSO6RH3GIHVIY.php) et de [Mediapart](https://www.mediapart.fr/journal/france/250322/droits-et-devoirs-la-rupture-macron)). Un très clair appel du pied à l'extrême-droite et à tous les nostalgiques des colonies, représentative d'une vision réactionnaire et autoritaire du pouvoir.
+    - [_le code de l’indigénat dans l’Algérie coloniale_](https://web.archive.org/web/20110308070400/http://www.ldh-toulon.net/spip.php?article527) sur le site la section de Toulon de la Ligue des droits de l’Homme, ainsi que Nathalie Funes (2019).
+    - [_Code de l'indigénat dans les colonies : un siècle de répression_](https://www.nouvelobs.com/monde/afrique/20190221.OBS0653/code-de-l-indigenat-dans-les-colonies-un-siecle-de-repression.html). L'Obs
+    - [_1887 - Le Code de l’indigénat est généralisé à toutes les colonies_](https://www.lelivrescolaire.fr/page/6990753)
+
+[^10]: Ça vous rappelle quelque chose ?
+
+    Oui, c'est bel et bien en ces termes que Macron parlait des sans-papiers en août 2021 (voir les articles du [Parisien](https://www.leparisien.fr/politique/vous-avez-des-devoirs-avant-davoir-des-droits-lance-emmanuel-macron-aux-sans-papiers-21-05-2021-PA3JTNGXEJCCHKSO6RH3GIHVIY.php) et de [Mediapart](https://www.mediapart.fr/journal/france/250322/droits-et-devoirs-la-rupture-macron)).
+    Un très clair appel du pied à l'extrême-droite et à tous les nostalgiques des colonies, représentative d'une vision réactionnaire et autoritaire du pouvoir.
+    
+    Pour en savoir plus sur les mécanismes du racisme macronien, lisez Galita, Nicolas. "[_Le racisme de Macron_](https://www.ateliergalita.com/p/le-racisme-de-macron)" L'Atelier Galita, 18 Apr. 2022.
 
 [^11]: Voir Gros, Dominique. « [_Sujets et citoyens en Algérie avant l’ordonnance du 7 mars 1944_](https://doi.org/10.3917/lgh.032.0039) », Le Genre humain, vol. 32, no. 1, 1997, pp. 39-52.
 
 [^12]: Weil, Patrick. « [_Histoire et mémoire des discriminations en matière de nationalité française_](https://www.cairn.info/revue-vingtieme-siecle-revue-d-histoire-2004-4-page-5.htm) », Vingtième Siècle. Revue d'histoire, vol. no 84, no. 4, 2004, pp. 5-22.
 
-[^13]: De fait, nous pouvons même considérer que le régime de l'indigénat persiste jusqu'à nos jours, prenant une nouvelle forme pour discriminer les immigrants issus des anciennes colonies. Voir notamment l'article [_Le "néo-indigénat"_](https://www.persee.fr/doc/camed_0395-9317_2000_num_61_1_1289) de Khalifa Chater, historien et professeur émérite à l'université de Tunis, publié en 2000 dans les Cahiers de la Méditerranée.
+[^13]: Les indigènes d'Indochine et Madagascar subirent notamment un apartheid similaire à celui imposé en Algérie. Concernant Madagascar en particulier, la construction de la Ligue française pour l'accession des indigènes de Madagascar aux droits de citoyen, et le récit qui en est fait par son fondateur Jean Ralaimongo, est particulièrement parlant :
 
-[^14]: Voir Leprince, C. (2019). [_"Black-blanc-beur" : petite histoire d'un slogan ambigu_](https://www.radiofrance.fr/franceculture/black-blanc-beur-petite-histoire-d-un-slogan-ambigu-9070158). France Culture
+    « _Etant donné qu’il est formellement interdit aux indigènes de se réunir à plus de 25, sans autorisation préalable du gouvernement général, ils m’ont demandé de solliciter cette autorisation afin de leur faire une conférence concernant la Ligue. Le gouvernement général me l’a refusée catégoriquement. [...] En un mot, le gouvernement général de Madagascar est hostile à toute liberté d’opinion accordée aux indigènes.
+    Fidèle aux ordres des colons, le gouverneur général fait tout pour mécontenter les indigènes. Ces ordres se résument ainsi dans _L'Indépendant_, de Madagascar: "S’il y a dans l’île une agitation anti-française entretenue par des demi-intellectuels indigènes, il vaudrait mieux que cette agitation révête la forme [d'une organisation clandestine], car alors, les agitateurs pourraient être déclarés comme précédemment, traîtres à la France, et nos humanitaires de Paris ne pourraient s’opposer à une répression énergique._ »
+    
+    Extrait issu du _[Compte-rendu d'un voyage effectué à Madagascar de juillet à décembre 1921](https://gallica.bnf.fr/ark:/12148/bpt6k943093v)_.
 
-[^15]: Lachasse, J. (2018). [_Victoire de "l'Afrique" au Mondial: Trevor Noah répond à la polémique_](https://www.bfmtv.com/people/tv/victoire-de-l-afrique-au-mondial-trevor-noah-repond-a-la-polemique_AN-201807190019.html). BFMTV.
+    On peut noter au passage que le gouvernement colonial semble ici craindre une opposition menée par des "humanitaires de Paris", ce qui me semble être une nouveauté.
+
+[^14]: De fait, nous pouvons même considérer que le régime de l'indigénat persiste jusqu'à nos jours, prenant une nouvelle forme pour discriminer les immigrants issus des anciennes colonies.
+
+    Voir notamment l'article [_Le "néo-indigénat"_](https://www.persee.fr/doc/camed_0395-9317_2000_num_61_1_1289) de Khalifa Chater, historien et professeur émérite à l'université de Tunis, publié en 2000 dans les Cahiers de la Méditerranée.
+
+[^15]: Dans les faits, la décision de mettre fin au code de l'indigénat avait déjà été prise par la France lors de la [conférence de Brazzaville](https://fr.wikipedia.org/wiki/Conf%C3%A9rence_de_Brazzaville) en 1944. Conférence qui, en dehors de cela, sera surtout l'occasion pour la France d'affirmer sa volonté de maintenir son empire colonial, à rebours du chemin déjà pris par la Grande-Bretagne et l'Espagne.
+
+[^16]: Anignikin, Sylvain C. “Les facteurs historiques de la décolonisation au Dahomey 1936-1956”. Ageron, Charles-Robert. Les chemins de la décolonisation de l’empire colonial français, 1936-1956 : Colloque organisé par l’IHTP les 4 et 5 octobre 1984. Paris : CNRS Éditions, 1986. (pp. 505-511) Web. <http://books.openedition.org/editionscnrs/525>.
+
+[^17]: De nombreuses organisations et groupe de pression ont été créés au cours de l'Histoire française dans le but de défendre et renforcer sa politique coloniale.
+    Très élitistes, elles comprennent pour la plupart un faible nombre d'adhérents, pour la plupart riches et bien nés.
+
+    L'[Union Coloniale Française](https://fr.wikipedia.org/wiki/Union_coloniale_fran%C3%A7aise), fondée en 1893, fut la principale de ces organisations. Au cours de la seconde guerre mondiale, elle fusionne avec le Comité de l'Indochine et l'Institut colonial français pour devenir le Comité de l'Empire français, dont nous parlons ici. Ce comité sera renommé Comité central de la France d'Outre-mer (CCFOM) en 1948, qui donnera à son tour le Comité central du rayonnement français en 1968 (source: "[Union coloniale française · Histoire du Droit du Travail dans les Colonies.](https://hdtcol.univ-nantes.fr/collections/show/15)" 22 Nov. 2022.
+
+    Pour plus d'information sur l'histoire de ce "parti colonial", voir Brunschwig, Henri. "[_Le parti colonial français._](https://www.persee.fr/doc/outre_0300-9513_1959_num_46_162_1305)" Outre-Mers. Revue d'histoire, vol. 46, no. 162, 1959, pp. 49-83
+
+[^18]: On peut notamment citer :
+
+    - la [Loi de départementalisation](https://fr.wikipedia.org/wiki/Loi_de_d%C3%A9partementalisation) de 1946, donnant le statut de département (DOM) aux _"quatre vieilles colonies"_ (Guadeloupe, la Martinique, La Réunion et la Guyane), est rédigée de manière à clairement distinguer les colonies de la métropôle
+    - la [constitution de la IVᵉ république](https://fr.wikisource.org/wiki/Constitution_de_1946,_IVe_R%C3%A9publique) de 1946 comprend notamment, à l'article 74, le passage suivant: « _Les territoires d'outre-mer sont dotés d'un statut particulier tenant compte de leurs intérêts propres dans l'ensemble des intérêts de la République._ »
+    - dans sa [version initiale de 1958](https://fr.wikisource.org/wiki/Constitution_fran%C3%A7aise_de_1958_(version_initiale)), la constitution de la Vème République indique à l'article 74 : « _Les territoires d’Outre-Mer de la République ont une organisation particulière tenant compte de leurs intérêts propres dans l’ensemble des intérêts de la République._ »
+
+    Aujourd'hui, [la constitution en vigueur](https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur) indique que « La République reconnaît, au sein du peuple français, les populations d'outre-mer, dans un idéal commun de liberté, d'égalité et de fraternité. » (article 72.3) et que « Les langues régionales appartiennent au patrimoine de la France. » (article 15-1). La définition des collectivités territoriales a en effet été largement étendue depuis 1958, limitant en pricipe ses aspects colloniaux.
+
+    Pour autant, le système même des territoires d'outre-mer actuel est dans les faits quasi-identique à sa définition il y a 76 ans.
+
+[^19]: La France opère une négation totale de sa diversité culturelle depuis bien longtemps. Si l'on considère l'oppression culturelle systématique des nations intérieures telles que l'Occitanie ou la Corse, il est même envisageable de considérer que le colonialisme français est né à une période largement antérieure à celle que nous évoquons ici. Voire antérieure à la colonisation de Saint-Christophe en 1626.
+
+[^20]: Voir Myriam Cottias, Crystal M. Fleming et Seloua Luste Boulbina « [_Nos ancêtres les Gaulois... La France et l'esclavage aujourd'hui_](https://www.cairn.info/revue-cahiers-sens-public-2009-2-page-45.htm) », Cahiers Sens public, vol. 10, no. 2, 2009, pp. 45-56.
+
+[^21]: À l'échelle d'une vie, cette évolution est évidemment bien trop lente. On peut même constater des reculs évidents à certaines périodes, en particulier la nôtre. Ce pourquoi il est d'autant plus nécessaire de se replonger dans notre propre histoire. Non seulement pour comprendre la situation actuelle. Mais aussi et surtout pour prendre du recul et éviter de sombrer dans le désespoir quand nous vivons une période sombre. Pour mieux se rendre compte du chemin parcouru au fil des siècles, je vous conseille vivement de lire le [Code Noir](https://fr.wikisource.org/wiki/Code_noir/1685/orthographe_modernis%C3%A9e). Cela étant dit, nous ne devons pas pour autant nous laisser piéger par la croyance en un progrès inéluctable. Tout progrès, technique comme social, dépend de nos choix et actions collectives. Rien ne permet d'exclure la possibilité d'un déclin, hormis notre résistance constante.
+
+[^22]: Voir le dossier thématique du MRAP: [_La loi de 1972 contre le racisme_](https://archives.mrap.fr/mediawiki/index.php/Dossiers_th%C3%A9matiques_-_La_loi_de_1972_contre_le_racisme)
+
+[^23]: Voir "[_Qui créa le Front national ? Première partie : les nostalgiques du nazisme et de la collaboration_](https://www.contretemps.eu/front-rassemblement-national-le-pen-nazisme-collaboration-vichy-petain)" CONTRETEMPS, 26 Janv. 2022
+
+[^24]: Voir "[_Qui créa le Front national ? Deuxième partie : les nostalgiques de l’Algérie française_](https://www.contretemps.eu/front-national-algerie-colonialisme-le-pen/)" CONTRETEMPS, 10 Févr. 2022
+
+[^25]: Bresson, Gilles. "[_Dreux, 1983: la droite s'allie au FN_](https://www.liberation.fr/evenement/2002/04/27/dreux-1983-la-droite-s-allie-au-fn_401804/)" Libération, 27 Apr. 2002 et Dominique Albertini et David Doucet. "[_Il y a trente ans, le «tonnerre de Dreux» imposait le FN sur la scène politique_](https://www.slate.fr/story/78022/dreux-alliance-droite-fn)" Slate, 24 Sept. 2013
+
+[^26]: Voir Christophe-Cécil Garnier. "[_De 1970 à 1997, plus de 700 crimes et attentats racistes en France_](https://www.streetpress.com/sujet/1607707781-1970-1997-700-crimes-attentats-racistes-france-rachida-brahim-xenophobie-racisme)" StreetPress
+
+[^27]: Voir Leprince, C. (2019). [_"Black-blanc-beur" : petite histoire d'un slogan ambigu_](https://www.radiofrance.fr/franceculture/black-blanc-beur-petite-histoire-d-un-slogan-ambigu-9070158). France Culture
+
+[^28]: Lachasse, J. (2018). [_Victoire de "l'Afrique" au Mondial: Trevor Noah répond à la polémique_](https://www.bfmtv.com/people/tv/victoire-de-l-afrique-au-mondial-trevor-noah-repond-a-la-polemique_AN-201807190019.html). BFMTV.
