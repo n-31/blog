@@ -113,7 +113,7 @@ Un processus fantoche, puisque moins de 7 000 musulmans d’Algérie deviennent 
 Cet apartheid ne se limitera d'ailleurs pas à la seule [Algérie française](https://fr.wikipedia.org/wiki/Alg%C3%A9rie_fran%C3%A7aise)[^13].
 Il sera rapidement étendu à l'ensemble des colonies, pour persister en l'état jusqu'en 1946[^14].
 
-## Un empire sur le déclin imposant son identité factice (1946-1980)
+## Un empire sur le déclin imposant son identité factice (1946-1961)
 
 La France métropolitaine sort de la seconde guerre mondiale affaiblie.
 Envahie à son tour, elle se retrouve blessée dans son identité.
@@ -151,7 +151,15 @@ Dans les faits, la France n'a jamais cessé de nier sa propre diversité[^19].
 Nous sommes "tous français". "Tous égaux". Donc (par un truchement assez habile), "tous identiques".
 Au point que la plupart des habitants des anciennes colonies et DOM/TOM peuvent encore aujourd'hui se rappeler l'enseignement de la fameuse phrase "_nos ancêtres les gaulois_"[^20].
 
-## Une France "Black blanc beur" sans couleurs (1980-2015)
+## Un pays meurtrier (1961-1980)
+
+<a href="https://www.lelivrescolaire.fr/page/12843935">
+<figure>
+  <img src="/static/img/MohamedLaidMoussa.png" alt="Affiche créée par le collectif des peintres antifascistes, 1975 : Mohamed Laid Moussa, Assasiné par les fascistes" height="400"/>
+  <img src="/static/img/AfficheFN1977.png" alt="Affiche du Front National, 1977 : 3 millions de chômeurs se sont 3 millions d'immigrés de trop ! La France et les français d'abord !" height="400" />
+  <figcaption>Affiches de 1975 et 1977</figcaption>
+</figure>
+</a>
 
 Le traumatisme de la Shoah et du Porajmos, la révolution contre-culturelle des années 60 et 70 et la fin officielle du colonialisme ont malgré tout largement transformé la place accordée au racisme dans la société française[^21].
 
@@ -162,26 +170,91 @@ De toute évidence, le racisme n'en a pas pour autant disparu.
 Les conservateurs et réactionnaires, nostalgiques du "temps de colonies" et de sa hiérarchie, n'ont eu qu'à transformer leurs propos.
 Mais leurs comportements et idées sont restées identiques.
 
-Le début des années 80 est ainsi marqué par la montée du FN, direct héritier du collaborationnisme[^23] et de l'OAS[^24].
-Dans la continuité de la tradition conservatrice, le RPR s'associe avec l'extrême-droite, Jacques Chirac allant même jusqu'à déclarer : « _Je n'aurais pas du tout été gêné de voter au second tour pour la liste \[RPR-FN\]. Cela n'a aucune espèce d'importance d'avoir quatre pèlerins du FN à Dreux, comparé aux quatre ministres communistes au Conseil des ministres._ »[^25]
+Durant et après la guerre d'Algérie, les "immigrés" maghrébins en métropole sont particulièrement en danger.
+Les escadrons de la mort, qualifiés de "[ratonnades](https://fr.wikipedia.org/wiki/Ratonnade)[^23]", sont monnaie courante et la répression d'état est implacable.
 
-En parallèle, les crimes racistes se multiplient.
+Les 2 et 3 avril 1961, plus de 150 Algériens passés à tabac sont hospitalisés en chirurgie suite à la "ratonnade de la Goutte d’Or"[^24].
+Entre le 23 au 24 juillet, un groupe de parachutistes fait officiellement quatre morts et 28 blessés durant la "ratonnade de Metz".
+Durant la même période, un nombre toujours croissant de maghrébins sont portés disparus, en particulier en région parisienne. Nombre d'entre eux ont été jetés dans la Seine.
+Les 17 octobre, la répression violente d'une manifestation à Paris organisée par le FLN contre le couvre-feu imposé aux seuls algériens est réprimée dans le sang.
+On dénombrera entre 200 et 300 mort[^25].
 
-[^26]
+Dans la décennie suivante, l'année 1973 sera également particulièrement sombre, notamment dans la région de Marseille.
 
-[Marche pour l'égalité et contre le racisme](https://fr.wikipedia.org/wiki/Marche_pour_l%27%C3%A9galit%C3%A9_et_contre_le_racisme) ("marche des beurs") du 15 octobre 1983 au 3 décembre 1983
+Comme à son habitude, la presse et l'extrême droite attisent la haine sur la base d'un fait divers.
+Le 25 août, Salah Boughrine monte dans un bus, tue le chauffeur, puis blesse six autres personnes.
+Il sera par la suite reconnu irresponsable de ses actes du fait de son état psychologique.
+Ce qui n'empêchera évidemment pas les médias de largement relayer l'évènement.
+Des gens s'arment alors pour aller "tuer des Arabes".
+Dans la semaine qui suit, ils feront un mort par jour. Le plus jeune a 16 ans.
+Des cadavres sont régulièrement retrouvés dans les rues de Marseille et d'ailleurs.
+Entre la fin août et début décembre, on dénombrera une cinquantaine d’agressions et 17 morts.
+Le 14 décembre, un attentat au consulat d’Algérie à Marseille fait quatre morts et 22 blessés.
 
-Récupération par SOS Racisme, proche du pouvoir PS
-Marginalisation des magrébins
+Contrairement au fait divers initial, aucun de ces évènements ne fera la une des journaux.
+Pourtant, ils ne représentent qu'une infime partie des crimes de haine constamment perpétrés.
+De 1970 à 2000, les crimes racistes feront au moins 610 blessés et 353 morts. Soit 35 victimes par an.[^26]
+Mais la France préfère faire ses choux gras sur des évènements anecdotiques, surfant sur des fantasmes haineux.
+L'idée simpliste et purement imaginaire d'un mécanisme de "violence migratoire" et de "grand remplacement" est plus partagée, donc plus vendeuse, que la connaissance des véritables problèmes structurels complexes.
+
+Hypocrisie, encore et toujours, d'un pays qui couvre les violences racistes perpétrées en son sain afin de mieux appuyer un discours mensonger "d'ouverture" et "d'accueil".
+
+## Une France "black blanc beur" ? (1980-2015)
+
+Comme toujours, l'extrême droite va rapidement profiter de la complicité du pouvoir et de cette propagande, exploitant la frustration des anciens colons et des métropolitains blancs.
+
+Le début des années 80 est ainsi marqué par la montée du Front National, héritier direct du collaborationnisme[^27] et de l'OAS[^28].
+Dans la continuité de la tradition conservatrice, le RPR s'associe avec l'extrême-droite, Jacques Chirac allant même jusqu'à déclarer : « _Je n'aurais pas du tout été gêné de voter au second tour pour la liste \[RPR-FN\]. Cela n'a aucune espèce d'importance d'avoir quatre pèlerins du FN à Dreux, comparé aux quatre ministres communistes au Conseil des ministres._ »[^29]
+
+Cela alors même que les crimes de haine persistent[^30].
+
+La ségrégation raciale, cette fois officieuse, a été transportée des colonies aux banlieues HLM.
+Sobrement dénommés "ZUP", ces quartiers "prioritaires" sont dans les faits organisés comme des ghettos pour les "indigènes" et leurs descendants.
+Les violences policières y font partie du quotidien[^31].
+
+En 1983, Toumi Djaïdja a 21 ans.
+Il habite l'un de ces ZUP, les Minguettes, à Vénissieux, dans la banlieue Lyonnaise.
+Il y a même fondé une association, SOS Avenir Minguettes, pour dénoncer le harcèlement policier de ses jeunes voisins.
+
+Le 20 juin 1983, il voit une jeune fille se faire attaquer par un chien policier, et se porte à son secours.
+Le policier tir sur lui.
+Grièvement blessé, on le transporte d'urgence à l'hôpital[^32].
+
+C'est là qu'il aura l'idée d'organiser une grande marche pour éveiller les consciences sur les crimes racistes constamment impunis.
+Marche qu'il entame avec 16 de ses camarades au départ des Minguettes, le 15 octobre.
+
+Le mouvement est rapidement repris par les médias.
+Bien qu'officiellement dénommée [_Marche pour l'égalité et contre le racisme_](https://fr.wikipedia.org/wiki/Marche_pour_l%27%C3%A9galit%C3%A9_et_contre_le_racisme), la presse préfèrera le plus souvent l'appeler "_Marche des beurs_".
+1 200 kilomètres et 49 jours plus tard, la marche arrive à Paris.
+Elle y rassemble alors 100 000 personnes.
+Libération leur consacre sa une, sous le titre « Paris sur "beur" ».
+La marche sera même accueillie par le président Mitterrand, qui annonce alors en grande pompe la création d'une carte de séjour de dix ans, première de leurs revendications.
+On parle alors d'une "prise de conscience" collective du racisme.
+
+Mais rapidement, la liesse fait place à la lassitude pour certains, à la colère pour d'autres.
+
+De retour aux Minguettes, Toumi Djaïdja est inculpé pour le braquage d'un supermarché à Saint-Étienne, qu'il nie avoir commis.
+L'instruction à charge et des témoignages fluctuants se concluront par une condamnation à quinze mois de prison.
+Il est malgré cela gracié par François Mitterrand à la veille de Noël 1984
+Une hypocrisie de plus. Une hypocrisie de trop. L'injustice lui "coupe les jambes".
+Lassé, Toumi Djaïdja ne reprendra jamais le militantisme.
+
+Née à la suite de la marche, SOS Racisme reprend le flambeau.
+Sous sa coupe, le discours sera rapidement édulcoré et le mouvement instrumentalisé par le PS alors au pouvoir.
+Les magrébins sont marginalisés de l'organisation.
+Plutôt que d'affronter le front le pouvoir raciste, SOS racisme décide de l'accompagner, pour arrondir les angles.
+
+Parallèlement, le terrain politique est de plus en plus mobilisé autour des thèmes chèrs à l'extrême-droite.
+Chirac, maire de Paris et député de Corèze, tiendra son fameux discours
 
 1991: [le bruit et l'odeur](https://fr.wikipedia.org/wiki/Le_bruit_et_l%27odeur_(discours_de_Jacques_Chirac))
 
 « _Comment voulez-vous que le travailleur français qui habite à la Goutte-d'or [...], et qui voit sur le palier à côté de son HLM, entassée, une famille avec un père de famille, trois ou quatre épouses, et une vingtaine de gosses, et qui gagne 50 000 francs de prestations sociales, sans naturellement travailler ! Si vous ajoutez à cela **le bruit et l'odeur** [rires nourris], eh bien le travailleur français sur le palier, il devient fou._ »
 
 1998: coupe du monde de foot
-France "black blanc beurs"[^27]
+France "black blanc beurs"[^33]
 
-## Un pays en "lutte" contre "l'islamo-gauchisme" (2015-aujourd'hui)
+## Un pouvoir en lutte contre "l'islamo-gauchisme" (2015-aujourd'hui)
 
 2015: charlie hebdo
 
@@ -189,7 +262,7 @@ En 2018, nouvelle victoire
 Trevor Noah "l'Afrique a gagné la coupe du monde"
 Lettre de l'ambassadeur
 
-"Quand ils sont sans emploi, quand ils commettent un crime ou qu'ils sont déplaisants, on les considère comme des immigrants. Quand leurs enfants remportent la Coupe du monde pour la France, on ne les présente plus que comme français."[^28]
+"Quand ils sont sans emploi, quand ils commettent un crime ou qu'ils sont déplaisants, on les considère comme des immigrants. Quand leurs enfants remportent la Coupe du monde pour la France, on ne les présente plus que comme français."[^34]
 
 [Mamoudou Gassama](https://fr.wikipedia.org/wiki/Mamoudou_Gassama)
 
@@ -232,12 +305,13 @@ Assimilation à cette identitée supposée
 
 ## Ressources complémentaires
 
-- [_Dictionnaire de l'histoire de France_](https://gallica.bnf.fr/ark:/12148/bpt6k12005115) / sous la direction de Jean-François Sirinelli. (2006)
-- Olivier Le Cour Grandmaison. _De l'indigénat_. Éditions La Découverte.
+- :pushpin: [_Dictionnaire de l'histoire de France_](https://gallica.bnf.fr/ark:/12148/bpt6k12005115) / sous la direction de Jean-François Sirinelli. (2006)
 - :video_camera: Youtube. [_Contre-histoire de la France outre-mer : Nos ancêtres les Gaulois_](https://youtu.be/X8OQIKjqCF0)
 - :video_camera: Youtube. Ensemble de la chaine [Histoires Crépues](https://www.youtube.com/channel/UCVuMMUfqEI448VKbkpuNPHQ)
-- Félicien, LEMAIRE (Professeur de droit public à l'Université d'Angers). [L’outre-mer, l’unité et l’indivisibilité de la République.](https://www.conseil-constitutionnel.fr/nouveaux-cahiers-du-conseil-constitutionnel/l-outre-mer-l-unite-et-l-indivisibilite-de-la-republique)" Conseil constitutionnel, 21 Nov. 2022
-- Gauthier, Florence. [La Révolution française et le problème colonial 1789-1804. État des connaissances et perspectives de recherche](https://books.openedition.org/pup/5756). Presses universitaires de Provence, 2003.
+- :book: LE COUR GRANDMAISON Olivier, _[De L'indigénat, Anatomie d'un « monstre » juridique : le droit colonial en Algérie et dans l'Empire français](https://www.editionsladecouverte.fr/de_l_indigenat-9782355220050)_, Paris, Ed. La Découverte (Zones), 2010, 197 p., 16 €. 
+- :book: Rachida BRAHIM, 2020, [_La Race tue deux fois. Une histoire des crimes racistes en France (1970-2000)_](https://www.syllepse.net/la-race-tue-deux-fois-_r_65_i_821.html), Paris, Éditions Syllepse, 228 p.
+- :page_facing_up: Félicien, LEMAIRE (Professeur de droit public à l'Université d'Angers). "[_L’outre-mer, l’unité et l’indivisibilité de la République._](https://www.conseil-constitutionnel.fr/nouveaux-cahiers-du-conseil-constitutionnel/l-outre-mer-l-unite-et-l-indivisibilite-de-la-republique)" Conseil constitutionnel, 21 Nov. 2022
+- :page_facing_up: Gauthier, Florence. "[_La Révolution française et le problème colonial 1789-1804. État des connaissances et perspectives de recherche_](https://books.openedition.org/pup/5756)". Presses universitaires de Provence, 2003.
 
 ## Articles Wikipedia sujets à caution
 
@@ -354,14 +428,30 @@ Assimilation à cette identitée supposée
 
 [^22]: Voir le dossier thématique du MRAP: [_La loi de 1972 contre le racisme_](https://archives.mrap.fr/mediawiki/index.php/Dossiers_th%C3%A9matiques_-_La_loi_de_1972_contre_le_racisme)
 
-[^23]: Voir "[_Qui créa le Front national ? Première partie : les nostalgiques du nazisme et de la collaboration_](https://www.contretemps.eu/front-rassemblement-national-le-pen-nazisme-collaboration-vichy-petain)" CONTRETEMPS, 26 Janv. 2022
+[^23]: On remarquera au passage que l'expression raciste "raton", utilisée pour désigner "les maghrébins", relève du même mécanisme d'animalisation que celui utilisé par les Nazis à l'encontre des juifs afin de justifier la Shoah. Le film "_Le Juif Eternerl (Der Ewige Jude)_", diffusé en 1940, est un cas d'école de ce type de propagande. Pour une analyse détaillée, voir Claire Aslangul, « [_Faire peur, faire "vrai" : Der ewige Jude. Objectifs, procédés et paradoxes d’un "documentaire" antisémite_](http://journals.openedition.org/ilcea/3402) », ILCEA, 09 juillet 2015
 
-[^24]: Voir "[_Qui créa le Front national ? Deuxième partie : les nostalgiques de l’Algérie française_](https://www.contretemps.eu/front-national-algerie-colonialisme-le-pen/)" CONTRETEMPS, 10 Févr. 2022
+[^24]: "[_Paris 1961 : les Algériens, la mémoire et la terreur d'Etat_](https://histoirecoloniale.net/Paris-1961-les-Algeriens-la.html)" Histoire Coloniale et Postcoloniale, 22 Oct. 2008
 
-[^25]: Bresson, Gilles. "[_Dreux, 1983: la droite s'allie au FN_](https://www.liberation.fr/evenement/2002/04/27/dreux-1983-la-droite-s-allie-au-fn_401804/)" Libération, 27 Apr. 2002 et Dominique Albertini et David Doucet. "[_Il y a trente ans, le «tonnerre de Dreux» imposait le FN sur la scène politique_](https://www.slate.fr/story/78022/dreux-alliance-droite-fn)" Slate, 24 Sept. 2013
+[^25]: Leprince, Chloé. "[_Massacre du 17 octobre 1961 : la fabrique d'un long silence_](https://www.radiofrance.fr/franceculture/massacre-du-17-octobre-1961-la-fabrique-d-un-long-silence-4771808)" France Culture, 20 Oct. 2021
 
 [^26]: Voir Christophe-Cécil Garnier. "[_De 1970 à 1997, plus de 700 crimes et attentats racistes en France_](https://www.streetpress.com/sujet/1607707781-1970-1997-700-crimes-attentats-racistes-france-rachida-brahim-xenophobie-racisme)" StreetPress
 
-[^27]: Voir Leprince, C. (2019). [_"Black-blanc-beur" : petite histoire d'un slogan ambigu_](https://www.radiofrance.fr/franceculture/black-blanc-beur-petite-histoire-d-un-slogan-ambigu-9070158). France Culture
+[^27]: Plusieurs nationalistes ont bien rejoint la résistance avant de participer à la fondation du FN. Il est cependant important de souligner qu'il s'agissait avant tout pour eux de défendre la "grande nation française" contre un envahisseur, non de lutter contre l'idéologie Nazi. Voir "[_Qui créa le Front national ? Première partie : les nostalgiques du nazisme et de la collaboration_](https://www.contretemps.eu/front-rassemblement-national-le-pen-nazisme-collaboration-vichy-petain)" CONTRETEMPS, 26 Janv. 2022
 
-[^28]: Lachasse, J. (2018). [_Victoire de "l'Afrique" au Mondial: Trevor Noah répond à la polémique_](https://www.bfmtv.com/people/tv/victoire-de-l-afrique-au-mondial-trevor-noah-repond-a-la-polemique_AN-201807190019.html). BFMTV.
+[^28]: Voir "[_Qui créa le Front national ? Deuxième partie : les nostalgiques de l’Algérie française_](https://www.contretemps.eu/front-national-algerie-colonialisme-le-pen/)" CONTRETEMPS, 10 Févr. 2022
+
+[^29]: Bresson, Gilles. "[_Dreux, 1983: la droite s'allie au FN_](https://www.liberation.fr/evenement/2002/04/27/dreux-1983-la-droite-s-allie-au-fn_401804/)" Libération, 27 Apr. 2002 et Dominique Albertini et David Doucet. "[_Il y a trente ans, le «tonnerre de Dreux» imposait le FN sur la scène politique_](https://www.slate.fr/story/78022/dreux-alliance-droite-fn)" Slate, 24 Sept. 2013
+
+[^30]: Sur l'année 1983, les organisations de lutte contre le racisme dénombreront 21 morts.
+
+    Chiffre issu du livre du sociologue Abdellali Hajjat, [_La Marche Pour l'Egalite et Contre le Racisme_](http://www.editionsamsterdam.fr/la-marche-pour-legalite-et-contre-le-racisme/), publié aux Éditions AMSTERDAM en 2013, tel que cité par le (problématique) "débunkage" de France Info le 28 Nov. 2013, "[_Jamel dit-il vrai sur les crimes contre les Maghrébins en 1983 ?_](https://www.radiofrance.fr/franceinfo/podcasts/le-vrai-du-faux/jamel-dit-il-vrai-sur-les-crimes-contre-les-maghrebins-en-1983-6096550)".
+
+    Le plus marquant de ces crimes est sans doute le meurtre de Habib Grimzi dans la nuit du 14 au 15 novembre 1983 dans le train Bordeaux-Vintimille, par 3 candidats à la légion étrangère, théoriquement sous la surveillance d’un caporal. Habib Grimzi fut roué de coups, poignardé à plusieurs reprises, puis défenestré (cf. Régnard, Céline. "[_Le meurtre du Bordeaux-Vintimille_](https://journals.openedition.org/hommesmigrations/3563)". EPPD - Cité nationale de l'histoire de l'immigration, 2016).
+
+[^31]: Voir le témoignage de Abdellali Hajjat recueilli par Faïza Zerouala, "[_Avoir 20 ans aux Minguettes en 1983_](https://www.bondyblog.fr/societe/avoir-20-ans-aux-minguettes-en-1983/#.WA5F38nMKJk)" Bondy Blog, 18 Oct. 2019
+
+[^32]: Zappi, Sylvia. "[_Toumi Djaidja, le leader qui a crevé l'écran puis s'est fait oublier_](www.lemonde.fr/societe/article/2013/10/11/toumi-djaidja-le-leader-qui-a-creve-l-ecran-puis-s-est-fait-oublier_3494053_3224.html)" Le Monde.fr, 27 Nov. 2013
+
+[^33]: Voir Leprince, C. (2019). [_"Black-blanc-beur" : petite histoire d'un slogan ambigu_](https://www.radiofrance.fr/franceculture/black-blanc-beur-petite-histoire-d-un-slogan-ambigu-9070158). France Culture
+
+[^34]: Lachasse, J. (2018). [_Victoire de "l'Afrique" au Mondial: Trevor Noah répond à la polémique_](https://www.bfmtv.com/people/tv/victoire-de-l-afrique-au-mondial-trevor-noah-repond-a-la-polemique_AN-201807190019.html). BFMTV.

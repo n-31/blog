@@ -130,7 +130,6 @@ a[href]:not(:hover) {
 
 img, svg {
 	max-width: 100%;
-	height: auto;
 }
 
 .svg-icon {
@@ -160,6 +159,10 @@ img, svg {
 article img:not(.icon) {
 	display: block;
 	margin: 0 auto;
+}
+
+article figure img {
+	display: inline !important;
 }
 
 .twitter-link-icon {
