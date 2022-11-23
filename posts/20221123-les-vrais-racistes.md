@@ -38,17 +38,17 @@ Nouvel épisode de liesse collective. Comme Jean-Marie Le Pen n'est plus là pou
 Plus besoin de l'évoquer comme vingt ans plus tôt.
 
 Ce sera sans compter sur [Trevor Noah](https://fr.wikipedia.org/wiki/Trevor_Noah).
-Depuis New-York, l'animateur du talk show The Daily Show [commente l'évènement](https://youtu.be/EJMG27YYAWU) et exprime sa joie que « l'Afrique [ait] gagné la coupe du monde ».
+Depuis New-York, l'animateur du talk show The Daily Show [commente l'évènement](https://youtu.be/EJMG27YYAWU) et exprime sa joie que « _l'Afrique _[ait]_ gagné la coupe du monde_ ».
 Il ajoute même : « _En fait, l'Afrique est la réserve de l'équipe de France_ ».
 
-Branle-bas de combat ! Les français paniquent ; l'insultent abondamment sur les réseaux sociaux.
+Branle-bas de combat ! Les français paniquent ; s'insultent abondamment sur les réseaux sociaux.
 L'ambassadeur prend alors sa plume pour écrire une lettre "bien sentie" à l'animateur :
 
-« _J'en regardé avec attention votre émission du 17 juillet. [...] Je vous ai entendu parler d'une "victoire africaine". Rien ne pourrait être moins vrais. Comme de nombreux joueurs l'ont déjà dit eux même, leurs parents peuvent être arrivés d'un autre pays, mais la grande majorité d'entre eux [...] sont nés en France. Ils ont suivi leur éducation en France. Ils ont appris à jouer au football en France. Ce sont des citoyens français. Ils sont fiers de leur pays : La France. Les origines riches et variées de ces joueurs est le reflet de la diversité française._ »
+« _J'ai regardé avec attention votre émission du 17 juillet. [...] Je vous ai entendu parler d'une "victoire africaine". Rien ne pourrait être moins vrais. Comme de nombreux joueurs l'ont déjà dit eux même, leurs parents peuvent être arrivés d'un autre pays, mais la grande majorité d'entre eux [...] sont nés en France. Ils ont suivi leur éducation en France. Ils ont appris à jouer au football en France. Ce sont des citoyens français. Ils sont fiers de leur pays : La France. Les origines riches et variées de ces joueurs est le reflet de la diversité française._ »
 
 Lisant cette lettre à son public lors d'[une émission suivante](https://youtu.be/COD9hcTpGWQ), Trevor Noah s'attarde sur cette dernière phrase pour corriger l'ambassadeur : « _sans vouloir être désobligeant, je pense qu'il s'agit davantage du reflet du **colonialisme** français._ »
 
-La lettre se poursuit : « _La France est en effet un pays cosmopolite, mais chaque citoyen fait partie de l'identité française, et ensemble, ils appartiennent à la nation Française. Contrairement aux États-Unis, la France ne désigne pas ses citoyens sur la base de leur race, religion ou origine. Pour nous, il n'existe pas d'identité composée [ndt: hyphenated / à trait d'union ; il fait ici référence à "afro-américain"]. Les racines sont une réalité individuelle. En les désignant comme une équipe africaine, il semble que vous leur déniez leur identité française. Cela, même si énoncé comme une plaisanterie, légitime l'idéologie qui affirme qu'être français ne se définie que par le fait d'être blanc._ »
+La lettre se poursuit : « _La France est en effet un pays cosmopolite, mais chaque citoyen fait partie de l'identité française, et ensemble, ils appartiennent à la nation Française. Contrairement aux États-Unis, la France ne désigne pas ses citoyens sur la base de leur race, religion ou origine. Pour nous, il n'existe pas d'identité composée _[ndt: hyphenated / à trait d'union ; il fait ici référence aux "afro-américains"]_. Les racines sont une réalité individuelle. En les désignant comme une équipe africaine, il semble que vous leur déniez leur identité française. Cela, même si énoncé comme une plaisanterie, légitime l'idéologie qui affirme qu'être français ne se définie que par le fait d'être blanc._ »
 
 Trevor Noah a constaté que **partout dans le monde**, des noirs célébraient les origines africaines de ces joueurs et étaient ainsi fiers de leur victoire.
 Pourquoi, alors, ne pourraient-ils pas être à la fois africains et français ?

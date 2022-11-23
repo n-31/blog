@@ -121,7 +121,7 @@ Elle sera ainsi notamment à l'origine de la confirmation du droit de vote des f
 
 Un second groupe luttera intensivement contre ces initiatives[^16].
 Il s'agit bien entendu des riches collons, de leurs héritiers, et de leurs alliés conservateurs métropolitains.
-Ensemble, ceux-ci forment plusieurs États Généraux de la colonisation sous l'égide du Comité de l’Empire français[^17]
+Ensemble, ceux-ci forment plusieurs États Généraux de la colonisation sous l'égide du Comité de l’Empire français[^17].
 Le pouvoir de ce comité est considérable depuis la fin du XIXᵉ siècle, essentiellement du fait des privilèges démentiels de ses membres.
 Ils ne feront cependant que ralentir l'inéluctable.
 
@@ -228,7 +228,7 @@ Mais rapidement, la liesse fait place à la lassitude pour certains, à la colè
 
 De retour aux Minguettes, Toumi Djaïdja est inculpé pour le braquage d'un supermarché à Saint-Étienne, qu'il nie avoir commis.
 L'instruction à charge et des témoignages fluctuants se concluront par une condamnation à quinze mois de prison.
-Il est malgré cela gracié par François Mitterrand à la veille de Noël 1984
+Il est malgré cela gracié par François Mitterrand à la veille de Noël 1984.
 Une hypocrisie de plus. Une hypocrisie de trop. L'injustice lui "coupe les jambes".
 Lassé, Toumi Djaïdja ne reprendra jamais le militantisme.
 
@@ -284,7 +284,7 @@ En 1996, Jean-Marie Le Pen s'en prend à l'équipe de France de football :
 « _Desailly est né au Ghana, Martins est bi-national portugais, ayant opté pour la nationalité française pour pouvoir faire partie de cette équipe, Lamouchi est Tunisien né en France, Loko Congolais né en France, Zidane Algérien né en France, Madar Tunisien né en France, Djorkaeff Arménien né en France_ »[^37] .
 
 Mais 1998 va tout balayer[^38].
-La France (ou plutôt, son équipe) emporte la finale de la coupe du monde face au Brézil[^39].
+La France (ou plutôt, son équipe) emporte la finale de la coupe du monde face au Brésil[^39].
 Et un, et deux, et trois zéros !
 Merci Thuram, Diomède et Henry, Desailly, Karembeu, Zidane, Vieira.
 Vous n'êtes à présent plus guadeloupéens, ghanéen, kanak, algérien, sénégalais[^40].
