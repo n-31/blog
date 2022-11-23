@@ -9,6 +9,7 @@ tags:
   - analyse politique
   - France
   - idéologies
+  - racisme
 modules:
   - 'lite-youtube.js'
 ---

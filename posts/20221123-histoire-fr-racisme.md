@@ -5,10 +5,10 @@ permalink: /posts/histoire-fr-racisme.html
 summary: "Revoir l'Histoire de notre pays sous un angle nouveau."
 image: /static/img/slavcho-malezanov-ZzVA9adkpKM-unsplash.jpg
 tags:
-  - actualité
-  - analyse politique
+  - histoire
   - France
   - idéologies
+  - racisme
 modules:
   - 'lite-youtube.js'
 ---
@@ -323,7 +323,10 @@ Les agresseurs ne sont pas inquiétés.
 
 À présent, le gouvernement nie l'existence même des violences policières, et s'est lancé dans une constante croisade contre "l'islamisme radical", "l'islamo-gauchisme" et le "wokisme".
 
-Passons (pour l'instant)[^45]... et revenons à notre sujet initial.
+Mais cet article est déjà assez long comme ça.
+Nous aurons l'occasion de revenir sur "l'islamo-gauchisme" dans le cadre de la série [dé•polariser](/tags/dé·polariser/).
+
+En attendant, vous pouvez aller lire la suite de cet article : [« Les vrais racistes, c'est vous ! », Analyse d'un délire bien français.](/posts/les-vrais-racistes-c-vous.html).
 
 ## Ressources complémentaires
 
