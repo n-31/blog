@@ -10,9 +10,9 @@
 					{% endif %}
 				</a>
 			</h2>
-			{% if post.data.summary %}
+			{% if post.data.summary or post.data.subtitle %}
 				<p>
-					{{ post.data.summary }}
+					{{ post.data.summary or post.data.subtitle }}
 				</p>
 			{% endif %}
 			<p>

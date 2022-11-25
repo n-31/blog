@@ -4,6 +4,11 @@ section: post
 ---
 <article class="post">
   <h1>{{ title }}</h1>
+  {% if subtitle %}
+    <p class="subtitle">
+      {{ subtitle }}
+    </p>
+  {% endif %}
   <p class="post__header">
     <small>
       Parution : <time datetime="{{ page.date | machineDate }}">{{ page.date | readableDate }}</time>

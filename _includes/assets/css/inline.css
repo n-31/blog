@@ -62,8 +62,15 @@ body {
 	display: none;
 }
 
-.post {
+.post p {
 	text-align: justify;
+}
+
+.post .subtitle {
+	font-size: 1.2em;
+	font-style: italic;
+	margin-bottom: 2em;
+	margin-top: -.5em;
 }
 
 .sr-only {
@@ -130,7 +137,6 @@ a[href]:not(:hover) {
 
 img, svg {
 	max-width: 100%;
-	height: auto;
 }
 
 .svg-icon {
@@ -160,6 +166,10 @@ img, svg {
 article img:not(.icon) {
 	display: block;
 	margin: 0 auto;
+}
+
+article figure img {
+	display: inline !important;
 }
 
 .twitter-link-icon {
@@ -501,3 +511,9 @@ svg .legend {
 pre, eqn {
 	overflow: auto;
 }
+
+.footnote-ref {
+	padding-left: .2rem;
+	font-size: .7rem;
+}
+
