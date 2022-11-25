@@ -21,9 +21,9 @@ modules:
 
 ## Une république coloniale raciste (1789-1830)
 
-En 1789, le premier article de la Déclaration des Droits de l'Homme et du Citoyen (DDHC) proclame :
+En 1789, le premier article de la Déclaration des Droits de l'Homme et du Citoyen (DDHC) proclame&nbsp;:
 
-> « Les hommes[^1] naissent et demeurent libres et égaux en droits. Les distinctions sociales ne peuvent être fondées que sur l’utilité commune. »
+> «&nbsp;Les hommes[^1] naissent et demeurent libres et égaux en droits. Les distinctions sociales ne peuvent être fondées que sur l’utilité commune.&nbsp;»
 
 Il s'agit alors de rompre avec la "société d'ordres" de l'[ancien régime](https://fr.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_d%27Ancien_R%C3%A9gime) féodal[^2].
 Autrement dit d'abolir les anciens privilèges, reposant sur une distinction entre le peuple (Tiers état), le pouvoir religieux (clergé), et le pouvoir politique (noblesse).
@@ -84,9 +84,9 @@ Elle s'empressera donc de reconstituer un [nouvel empire](https://fr.wikipedia.o
 En 1830, le dey d'Alger signe la capitulation face aux troupes françaises.
 Pour obtenir cette reddition, le maréchal de Bourbon, commandant des troupes Françaises, prend dans [cette convention](https://fr.wikipedia.org/wiki/Convention_franco-alg%C3%A9rienne_de_1830) un certain nombre d'engagements :
 
-> « La liberté des habitants de toutes classes, leur religion, leurs propriétés, leur commerce et leur industrie, ne recevront aucune atteinte.
+> «&nbsp;La liberté des habitants de toutes classes, leur religion, leurs propriétés, leur commerce et leur industrie, ne recevront aucune atteinte.
 > Leurs femmes seront respectées.
-> Le général en chef en prend l'engagement sur l'honneur. »
+> Le général en chef en prend l'engagement sur l'honneur.&nbsp;»
 
 Mais l'État français colonial n'a aucun honneur[^8].
 Comme à son habitude, il ne se prive donc pas de contrevenir à ses engagements de liberté et d'égalité.
@@ -197,7 +197,7 @@ Hypocrisie, encore et toujours, d'un pays qui couvre les violences racistes perp
 Comme toujours, l'extrême droite va rapidement profiter de la complicité du pouvoir et de cette propagande, exploitant la frustration des anciens colons et des métropolitains blancs.
 
 Le début des années 80 est ainsi marqué par la montée du Front National, héritier direct du collaborationnisme[^27] et de l'OAS[^28].
-Dans la continuité de la tradition conservatrice, le RPR s'associe avec l'extrême-droite, Jacques Chirac allant même jusqu'à déclarer : « _Je n'aurais pas du tout été gêné de voter au second tour pour la liste \[RPR-FN\]. Cela n'a aucune espèce d'importance d'avoir quatre pèlerins du FN à Dreux, comparé aux quatre ministres communistes au Conseil des ministres._ »[^29]
+Dans la continuité de la tradition conservatrice, le RPR s'associe avec l'extrême-droite, Jacques Chirac allant même jusqu'à déclarer&nbsp;: «&nbsp;_Je n'aurais pas du tout été gêné de voter au second tour pour la liste \[RPR-FN\]. Cela n'a aucune espèce d'importance d'avoir quatre pèlerins du FN à Dreux, comparé aux quatre ministres communistes au Conseil des ministres._&nbsp;»[^29]
 
 Cela alors même que les crimes de haine persistent[^30].
 
@@ -220,7 +220,7 @@ Le mouvement est rapidement repris par les médias.
 Bien qu'officiellement dénommée [_Marche pour l'égalité et contre le racisme_](https://fr.wikipedia.org/wiki/Marche_pour_l%27%C3%A9galit%C3%A9_et_contre_le_racisme), la presse préfèrera le plus souvent l'appeler "_Marche des beurs_".
 1 200 kilomètres et 49 jours plus tard, la marche arrive à Paris.
 Elle y rassemble alors 100 000 personnes.
-Libération leur consacre sa une, sous le titre « Paris sur "beur" ».
+Libération leur consacre sa une, sous le titre «&nbsp;Paris sur "beur"&nbsp;».
 La marche sera même accueillie par le président Mitterrand, qui annonce alors en grande pompe la création d'une carte de séjour de dix ans, première de leurs revendications.
 On parle alors d'une "prise de conscience" collective du racisme.
 
@@ -245,9 +245,9 @@ Plutôt que d'affronter de front le pouvoir raciste, SOS racisme décide de l'ac
 Parallèlement, le FN tend à s'imposer dans les urnes et les esprits, après une première percée aux élections européennes de 1984, avec un score de 11%.
 La droite "républicaine" va n'avoir de cesse dès lors de faire des appels du pied à son électorat.
 
-Chirac, maire de Paris et député de Corèze, donne le 19 octobre 1991 un discours qui fera date. Il y déclare :
+Chirac, maire de Paris et député de Corèze, donne le 19 octobre 1991 un discours qui fera date. Il y déclare&nbsp;:
 
-« _Comment voulez-vous que le travailleur français qui habite à la Goutte-d'or [...], et qui voit sur le palier à côté de son HLM, entassée, une famille avec un père de famille, trois ou quatre épouses, et une vingtaine de gosses, et qui gagne 50 000 francs de prestations sociales, sans naturellement travailler ! Si vous ajoutez à cela [**le bruit et l'odeur**](https://fr.wikipedia.org/wiki/Le_bruit_et_l%27odeur_(discours*de_Jacques_Chirac)) [rires nourris], eh bien le travailleur français sur le palier, il devient fou._ »
+«&nbsp;_Comment voulez-vous que le travailleur français qui habite à la Goutte-d'or [...], et qui voit sur le palier à côté de son HLM, entassée, une famille avec un père de famille, trois ou quatre épouses, et une vingtaine de gosses, et qui gagne 50 000 francs de prestations sociales, sans naturellement travailler ! Si vous ajoutez à cela [**le bruit et l'odeur**](https://fr.wikipedia.org/wiki/Le_bruit_et_l%27odeur_(discours*de_Jacques_Chirac)) [rires nourris], eh bien le travailleur français sur le palier, il devient fou._&nbsp;»
 
 Cette fois, la bonne société blanche ne peut s'abstenir de réagir (molement) à des propos si outrageusement racistes.
 La gauche de gouvernement se dit choquée. Le centre droit, triste d'un dérapage d'un Chirac qui "n'est pas raciste".
@@ -273,13 +273,13 @@ Encore une fois, la France bourgeoise blanche et tartuffe fait son indignation d
 Applaudie ou vomie ces artistes suivant un facteur d'audimat indexé sur la colorimétrie épidermique.
 Sont-ils assez lisses ? Vont-ils choquer les bonnes familles ?
 
-L'été 1991, les mêmes se passeront pourtant en boucle le nouveau tube de l'été : **[_La Zoubida_](https://fr.wikipedia.org/wiki/La_Zoubida)** !
+L'été 1991, les mêmes se passeront pourtant en boucle le nouveau tube de l'été&nbsp;: **[_La Zoubida_](https://fr.wikipedia.org/wiki/La_Zoubida)** !
 Un titre puant de racisme qui reste au top des ventes pendant 4 mois !
 Une chanson où Vincent Lagaf' met une djellaba et prend un accent de merde pour dire que "le scooter Mokhtar l'avait volé" !
 
 Il y avait bien deux Frances dans les années 90. Ou trois. Ou quatre. Sans doute une multitude.
 
-En 1996, Jean-Marie Le Pen s'en prend à l'équipe de France de football :
+En 1996, Jean-Marie Le Pen s'en prend à l'équipe de France de football&nbsp;:
 
 « _Desailly est né au Ghana, Martins est bi-national portugais, ayant opté pour la nationalité française pour pouvoir faire partie de cette équipe, Lamouchi est Tunisien né en France, Loko Congolais né en France, Zidane Algérien né en France, Madar Tunisien né en France, Djorkaeff Arménien né en France_ »[^37] .
 
@@ -321,7 +321,7 @@ Les gens ont applaudi les flics...
 Et on s'est finalement très rapidement rendu compte qu'on n'était pas tous venus aux manifs pour les mêmes raisons.
 
 Les racistes de tout bord sautent sur l'occasion pour déverser leur islamo-"phobie" à tout va, plus ou moins directement.
-Ivan Rioufol, éditorialiste au Figaro, y va de son sermon : « _Il faudrait également et urgemment que manifestent aujourd'hui les Français musulmans qui, évidemment, ne se reconnaissent pas dans cet attentat terroriste, sinon on va craindre effectivement les amalgames._ » [^44]
+Ivan Rioufol, éditorialiste au Figaro, y va de son sermon&nbsp;: « _Il faudrait également et urgemment que manifestent aujourd'hui les Français musulmans qui, évidemment, ne se reconnaissent pas dans cet attentat terroriste, sinon on va craindre effectivement les amalgames._ » [^44]
 
 En parallèle, les violences policières racistes persistent.
 Le 2 janvier 2017, [Théodore Luhaka](https://fr.wikipedia.org/wiki/Affaire_Th%C3%A9o) subit une agression policière dans la [Cité des 3000](https://fr.wikipedia.org/wiki/Cit%C3%A9_des_3000).
@@ -338,22 +338,24 @@ En attendant, une suite à cet article sera bientôt publiée pour poursuivre le
 ## Ressources complémentaires
 
 - :pushpin: [_Dictionnaire de l'histoire de France_](https://gallica.bnf.fr/ark:/12148/bpt6k12005115) / sous la direction de Jean-François Sirinelli. (2006)
-- :video*camera: Youtube. [\_Contre-histoire de la France outre-mer : Nos ancêtres les Gaulois*](https://youtu.be/X8OQIKjqCF0)
-- :video_camera: Youtube. Ensemble de la chaine [Histoires Crépues](https://www.youtube.com/channel/UCVuMMUfqEI448VKbkpuNPHQ)
-- :book: LE COUR GRANDMAISON Olivier, _[De L'indigénat, Anatomie d'un « monstre » juridique : le droit colonial en Algérie et dans l'Empire français](https://www.editionsladecouverte.fr/de_l_indigenat-9782355220050)_, Paris, Ed. La Découverte (Zones), 2010, 197 p., 16 €.
+- :video_camera: Youtube. [_Contre-histoire de la France outre-mer&nbsp;: Nos ancêtres les Gaulois_](https://youtu.be/X8OQIKjqCF0)
+- :video_camera: Youtube. Ensemble de la chaine [_Histoires Crépues_](https://www.youtube.com/channel/UCVuMMUfqEI448VKbkpuNPHQ)
+- :book: LE COUR GRANDMAISON Olivier, _[De L'indigénat, Anatomie d'un «&nbsp;monstre&nbsp;» juridique&nbsp;: le droit colonial en Algérie et dans l'Empire français](https://www.editionsladecouverte.fr/de_l_indigenat-9782355220050)_, Paris, Ed. La Découverte (Zones), 2010, 197 p., 16 €.
 - :book: Rachida BRAHIM, 2020, [_La Race tue deux fois. Une histoire des crimes racistes en France (1970-2000)_](https://www.syllepse.net/la-race-tue-deux-fois-_r_65_i_821.html), Paris, Éditions Syllepse, 228 p.
-- :page*facing_up: Félicien, LEMAIRE (Professeur de droit public à l'Université d'Angers). "[\_L’outre-mer, l’unité et l’indivisibilité de la République.*](https://www.conseil-constitutionnel.fr/nouveaux-cahiers-du-conseil-constitutionnel/l-outre-mer-l-unite-et-l-indivisibilite-de-la-republique)" Conseil constitutionnel, 21 Nov. 2022
-- :page*facing_up: Gauthier, Florence. "[\_La Révolution française et le problème colonial 1789-1804. État des connaissances et perspectives de recherche*](https://books.openedition.org/pup/5756)". Presses universitaires de Provence, 2003.
+- :page_facing_up: Félicien, LEMAIRE (Professeur de droit public à l'Université d'Angers). "[_L’outre-mer, l’unité et l’indivisibilité de la République._](https://www.conseil-constitutionnel.fr/nouveaux-cahiers-du-conseil-constitutionnel/l-outre-mer-l-unite-et-l-indivisibilite-de-la-republique)" Conseil constitutionnel, 21 Nov. 2022
+- :page_facing_up: Gauthier, Florence. "[_La Révolution française et le problème colonial 1789-1804. État des connaissances et perspectives de recherche_](https://books.openedition.org/pup/5756)". Presses universitaires de Provence, 2003.
 
 ## Articles Wikipedia sujets à caution
 
-> Depuis aussi loin que je m'en souvienne, un petit groupe d'individus bien identifiables cherchent obstinément à orienter le Wikipédia francophone vers leur propre vision biaisée de l'Histoire et de la politique.
-> On les retrouve particulièrement sur deux sujets : une identité française chrétienne idéalisée niant toute critique de son Histoire, et les idéaux socialistes qui de leur point de vue ne peut être définie autrement que par le stalinisme et, bien entendu, le nazisme. On les retrouve sur plusieurs de ces articles, et même dans certains de ceux cités plus haut.
+> Pour des articles aussi complexes que celui-ci, je m'efforce comme vous avez pu le voir de vous donner les liens vers des articles Wikipédia quand pertinent, pour vous inciter à approfondir le sujet.
+> 
+> Malheureusement, depuis aussi loin que je m'en souvienne, un petit groupe d'individus bien identifiables cherchent obstinément à orienter le Wikipédia francophone vers leur propre vision biaisée de l'Histoire et de la politique.
+> On les retrouve particulièrement sur deux sujets&nbsp;: une identité française chrétienne idéalisée niant toute critique de son Histoire, et les idéaux socialistes qui de leur point de vue ne peut être définie autrement que par le stalinisme et, bien entendu, le nazisme. On les retrouve sur plusieurs de ces articles, et même dans certains de ceux cités plus haut.
 >
 > En dehors de cela, le principal problème de la plupart des articles suivants est un simple manque de sources permettant de vérifier un contenu brouillon. Vous pouvez contribuer pour y remédier.
 >
 > Référez-vous toujours aux sources et aux discussions d'une page pour éviter les possibles manipulations et biais.
-> N'oubliez pas : n'importe quelle encyclopédie (Wikipédia inclue) est un point de départ, non une finalité.
+> N'oubliez pas&nbsp;: n'importe quelle encyclopédie (Wikipédia inclue) est un point de départ, non une finalité.
 
 - [Décret d'abolition de l'esclavage du 4 février 1794](https://fr.wikipedia.org/wiki/D%C3%A9cret_d%27abolition_de_l%27esclavage_du_4_f%C3%A9vrier_1794#Abolition_du_d%C3%A9cret_d'abolition_de_l'esclavage_du_16_pluvi%C3%B4se_an_II)
 - [Révolution haïtienne](https://fr.wikipedia.org/wiki/R%C3%A9volution_ha%C3%AFtienne)
@@ -365,7 +367,7 @@ En attendant, une suite à cet article sera bientôt publiée pour poursuivre le
 - [Universalisme républicain](https://fr.wikipedia.org/wiki/Universalisme_r%C3%A9publicain)
 
 [^1]:
-    Les "hommes" est bien indiqué ici avec une minuscule, avec une définition très restreinte. Les femmes étaient très loin d'être inclues dans cette définition (pour rappel, le droit de vote des femmes ne sera institué en France qu'en 1944). Partant de ce point de départ, je fais volontairement le choix d'utiliser dans cet article le masculin plutôt que l'écriture inclusive afin de mieux souligner l'évidence : les femmes ont été systématiquement exclues de ces questions.
+    Les "hommes" est bien indiqué ici avec une minuscule, avec une définition très restreinte. Les femmes étaient très loin d'être inclues dans cette définition (pour rappel, le droit de vote des femmes ne sera institué en France qu'en 1944). Partant de ce point de départ, je fais volontairement le choix d'utiliser dans cet article le masculin plutôt que l'écriture inclusive afin de mieux souligner l'évidence&nbsp;: les femmes ont été systématiquement exclues de ces questions.
 
     Pour aller plus loin, on peut même considérer que beaucoup d'hommes, même blancs, étaient également implicitement exclus de la DDHC.
     Le suffrage universel masculin ne sera par exemple réellement institué qu'en 1848, après prêt d'un siècle de [suffrage censitaire](https://fr.wikipedia.org/wiki/Suffrage_censitaire).
@@ -374,7 +376,7 @@ En attendant, une suite à cet article sera bientôt publiée pour poursuivre le
     Abolir les privilèges féodaux était la première revendication des révolutionnaires. Ce fut donc une des premières mesures prises après la révolution, par les [Décrets des 4, 6, 7, 8 et 11 août 1789](https://fr.wikipedia.org/wiki/D%C3%A9crets_des_4,_6,_7,_8_et_11_ao%C3%BBt_1789)
 
 [^3]:
-    Voir Pierre Ancery (2020). [_1788-1791 : la Société des Amis des Noirs face aux esclavagistes_](https://www.retronews.fr/colonies/echo-de-presse/2019/02/20/la-societe-des-amis-des-noirs). RetroNews
+    Voir Pierre Ancery (2020). [_1788-1791&nbsp;: la Société des Amis des Noirs face aux esclavagistes_](https://www.retronews.fr/colonies/echo-de-presse/2019/02/20/la-societe-des-amis-des-noirs). RetroNews
 
 [^4]:
     Voir [_Adresse à l'Assemblée nationale, pour l'abolition de la traite des Noirs_](https://gallica.bnf.fr/ark:/12148/bpt6k417108) par la Société des amis de Noirs de Paris, février 1790.
@@ -382,7 +384,7 @@ En attendant, une suite à cet article sera bientôt publiée pour poursuivre le
     Il est évidemment nécessaire de contextualiser ce texte. Dans une société suprémaciste où les non-blancs étaient largement considérés comme des animaux non-humains, s'insurger contre "l'égorgement de milliers de noirs" tout en se défendant de souhaiter leur libération était bel et bien novateur et progressiste. En lisant ce texte, il est cependant évident que la description usuelle de cette association comme abolitionniste et égalitariste est extrêmement abusive.
 
 [^5]:
-    Au XVIIIᵉ siècle, la France distinguait quatre degrés de couleurs en fonction d'une supposée proportion de "sang noir" : nègre (100%), mulâtre (50%), quarteron (25%) et blanc (0%).
+    Au XVIIIᵉ siècle, la France distinguait quatre degrés de couleurs en fonction d'une supposée proportion de "sang noir"&nbsp;: nègre (100%), mulâtre (50%), quarteron (25%) et blanc (0%).
 
     La définition des "[libres de couleur](https://fr.wikipedia.org/wiki/Gens_de_couleur_libres)" change régulièrement au fil du temps en rapport avec cette échelle et le status des parents. Dans certaines circonstances, la définition de "libre de couleur" fut même réduite aux seuls "quarterons" dont les deux parents étaient nés libres.
 
@@ -402,7 +404,7 @@ En attendant, une suite à cet article sera bientôt publiée pour poursuivre le
 [^7]:
     L'indépendance d'Haïti fut effective dès 1804. Elle n'a cependant été reconnue par la France qu'après un très long processus de négociation. En contrepartie de cette reconnaissance, Haïti dut s'acquitter d'une somme considérable (150 millions de francs-or, soit l'équivalent de 17 milliards d’euros aujourd'hui) pour "dédommager les anciens colons".
 
-    Pour une rapide introduction à cette question, voir l'article de Louis-Philippe Dalembert publié dans Libération en 2010 : [_Haïti, la dette originelle_](https://www.liberation.fr/planete/2010/03/25/haitila-dette-originelle_617159/).
+    Pour une rapide introduction à cette question, voir l'article de Louis-Philippe Dalembert publié dans Libération en 2010&nbsp;: [_Haïti, la dette originelle_](https://www.liberation.fr/planete/2010/03/25/haitila-dette-originelle_617159/).
 
     L'[article Wikipédia associé](https://fr.wikipedia.org/wiki/Indemnisation_de_la_France_par_la_r%C3%A9publique_d%27Ha%C3%AFti) est également un bon complément.
 
@@ -412,7 +414,7 @@ En attendant, une suite à cet article sera bientôt publiée pour poursuivre le
 [^9]: 3 sources pour approfondir le sujet:
 
     - [_le code de l’indigénat dans l’Algérie coloniale_](https://web.archive.org/web/20110308070400/http://www.ldh-toulon.net/spip.php?article527) sur le site la section de Toulon de la Ligue des droits de l’Homme, ainsi que Nathalie Funes (2019).
-    - [_Code de l'indigénat dans les colonies : un siècle de répression_](https://www.nouvelobs.com/monde/afrique/20190221.OBS0653/code-de-l-indigenat-dans-les-colonies-un-siecle-de-repression.html). L'Obs
+    - [_Code de l'indigénat dans les colonies&nbsp;: un siècle de répression_](https://www.nouvelobs.com/monde/afrique/20190221.OBS0653/code-de-l-indigenat-dans-les-colonies-un-siecle-de-repression.html). L'Obs
     - [_1887 - Le Code de l’indigénat est généralisé à toutes les colonies_](https://www.lelivrescolaire.fr/page/6990753)
 
 [^10]: Ça vous rappelle quelque chose ?
@@ -423,16 +425,16 @@ En attendant, une suite à cet article sera bientôt publiée pour poursuivre le
     Pour en savoir plus sur les mécanismes du racisme macronien, lisez Galita, Nicolas. "[_Le racisme de Macron_](https://www.ateliergalita.com/p/le-racisme-de-macron)" L'Atelier Galita, 18 Apr. 2022.
 
 [^11]:
-    Voir Gros, Dominique. « [_Sujets et citoyens en Algérie avant l’ordonnance du 7 mars 1944_](https://doi.org/10.3917/lgh.032.0039) », Le Genre humain, vol. 32, no. 1, 1997, pp. 39-52.
+    Voir Gros, Dominique. «&nbsp;[_Sujets et citoyens en Algérie avant l’ordonnance du 7 mars 1944_](https://doi.org/10.3917/lgh.032.0039)&nbsp;», Le Genre humain, vol. 32, no. 1, 1997, pp. 39-52.
 
 [^12]:
-    Weil, Patrick. « [_Histoire et mémoire des discriminations en matière de nationalité française_](https://www.cairn.info/revue-vingtieme-siecle-revue-d-histoire-2004-4-page-5.htm) », Vingtième Siècle. Revue d'histoire, vol. no 84, no. 4, 2004, pp. 5-22.
+    Weil, Patrick. «&nbsp;[_Histoire et mémoire des discriminations en matière de nationalité française_](https://www.cairn.info/revue-vingtieme-siecle-revue-d-histoire-2004-4-page-5.htm)&nbsp;», Vingtième Siècle. Revue d'histoire, vol. no 84, no. 4, 2004, pp. 5-22.
 
 [^13]:
-    Les indigènes d'Indochine et Madagascar subirent notamment un apartheid similaire à celui imposé en Algérie. Concernant Madagascar en particulier, la construction de la Ligue française pour l'accession des indigènes de Madagascar aux droits de citoyen, et le récit qui en est fait par son fondateur Jean Ralaimongo, est particulièrement parlant :
+    Les indigènes d'Indochine et Madagascar subirent notamment un apartheid similaire à celui imposé en Algérie. Concernant Madagascar en particulier, la construction de la Ligue française pour l'accession des indigènes de Madagascar aux droits de citoyen, et le récit qui en est fait par son fondateur Jean Ralaimongo, est particulièrement parlant&nbsp;:
 
-    « _Etant donné qu’il est formellement interdit aux indigènes de se réunir à plus de 25, sans autorisation préalable du gouvernement général, ils m’ont demandé de solliciter cette autorisation afin de leur faire une conférence concernant la Ligue. Le gouvernement général me l’a refusée catégoriquement. [...] En un mot, le gouvernement général de Madagascar est hostile à toute liberté d’opinion accordée aux indigènes.
-    Fidèle aux ordres des colons, le gouverneur général fait tout pour mécontenter les indigènes. Ces ordres se résument ainsi dans \_L'Indépendant_, de Madagascar: "S’il y a dans l’île une agitation anti-française entretenue par des demi-intellectuels indigènes, il vaudrait mieux que cette agitation révête la forme [d'une organisation clandestine], car alors, les agitateurs pourraient être déclarés comme précédemment, traîtres à la France, et nos humanitaires de Paris ne pourraient s’opposer à une répression énergique.\_ »
+    «&nbsp;_Etant donné qu’il est formellement interdit aux indigènes de se réunir à plus de 25, sans autorisation préalable du gouvernement général, ils m’ont demandé de solliciter cette autorisation afin de leur faire une conférence concernant la Ligue. Le gouvernement général me l’a refusée catégoriquement. _\[...\]_ En un mot, le gouvernement général de Madagascar est hostile à toute liberté d’opinion accordée aux indigènes._
+    _Fidèle aux ordres des colons, le gouverneur général fait tout pour mécontenter les indigènes. Ces ordres se résument ainsi dans _L'Indépendant_, de Madagascar: "S’il y a dans l’île une agitation anti-française entretenue par des demi-intellectuels indigènes, il vaudrait mieux que cette agitation révête la forme _[d'une organisation clandestine]_, car alors, les agitateurs pourraient être déclarés comme précédemment, traîtres à la France, et nos humanitaires de Paris ne pourraient s’opposer à une répression énergique._&nbsp;»
 
     Extrait issu du _[Compte-rendu d'un voyage effectué à Madagascar de juillet à décembre 1921](https://gallica.bnf.fr/ark:/12148/bpt6k943093v)_.
 
@@ -447,7 +449,7 @@ En attendant, une suite à cet article sera bientôt publiée pour poursuivre le
     Conférence qui, en dehors de cela, sera surtout l'occasion pour la France d'affirmer sa volonté de maintenir son empire colonial, à rebours du chemin déjà pris par la Grande-Bretagne et l'Espagne.
 
 [^16]:
-    Anignikin, Sylvain C. “Les facteurs historiques de la décolonisation au Dahomey 1936-1956”. Ageron, Charles-Robert. Les chemins de la décolonisation de l’empire colonial français, 1936-1956 : Colloque organisé par l’IHTP les 4 et 5 octobre 1984. Paris : CNRS Éditions, 1986. (pp. 505-511) Web. <http://books.openedition.org/editionscnrs/525>.
+    Anignikin, Sylvain C. “Les facteurs historiques de la décolonisation au Dahomey 1936-1956”. Ageron, Charles-Robert. Les chemins de la décolonisation de l’empire colonial français, 1936-1956&nbsp;: Colloque organisé par l’IHTP les 4 et 5 octobre 1984. Paris&nbsp;: CNRS Éditions, 1986. (pp. 505-511) Web. <http://books.openedition.org/editionscnrs/525>.
 
 [^17]:
     De nombreuses organisations et groupe de pression ont été créés au cours de l'Histoire française dans le but de défendre et renforcer sa politique coloniale.
@@ -457,13 +459,13 @@ En attendant, une suite à cet article sera bientôt publiée pour poursuivre le
 
     Pour plus d'information sur l'histoire de ce "parti colonial", voir Brunschwig, Henri. "[_Le parti colonial français._](https://www.persee.fr/doc/outre_0300-9513_1959_num_46_162_1305)" Outre-Mers. Revue d'histoire, vol. 46, no. 162, 1959, pp. 49-83
 
-[^18]: On peut notamment citer :
+[^18]: On peut notamment citer&nbsp;:
 
     - la [Loi de départementalisation](https://fr.wikipedia.org/wiki/Loi_de_d%C3%A9partementalisation) de 1946, donnant le statut de département (DOM) aux _"quatre vieilles colonies"_ (Guadeloupe, la Martinique, La Réunion et la Guyane), est rédigée de manière à clairement distinguer les colonies de la métropôle
-    - la [constitution de la IVᵉ république](https://fr.wikisource.org/wiki/Constitution_de_1946,_IVe_R%C3%A9publique) de 1946 comprend notamment, à l'article 74, le passage suivant: « _Les territoires d'outre-mer sont dotés d'un statut particulier tenant compte de leurs intérêts propres dans l'ensemble des intérêts de la République._ »
-    - dans sa [version initiale de 1958](<https://fr.wikisource.org/wiki/Constitution_fran%C3%A7aise_de_1958_(version_initiale)>), la constitution de la Vème République indique à l'article 74 : « _Les territoires d’Outre-Mer de la République ont une organisation particulière tenant compte de leurs intérêts propres dans l’ensemble des intérêts de la République._ »
+    - la [constitution de la IVᵉ république](https://fr.wikisource.org/wiki/Constitution_de_1946,_IVe_R%C3%A9publique) de 1946 comprend notamment, à l'article 74, le passage suivant: «&nbsp;_Les territoires d'outre-mer sont dotés d'un statut particulier tenant compte de leurs intérêts propres dans l'ensemble des intérêts de la République._&nbsp;»
+    - dans sa [version initiale de 1958](<https://fr.wikisource.org/wiki/Constitution_fran%C3%A7aise_de_1958_(version_initiale)>), la constitution de la Vème République indique à l'article 74&nbsp;: «&nbsp;_Les territoires d’Outre-Mer de la République ont une organisation particulière tenant compte de leurs intérêts propres dans l’ensemble des intérêts de la République._&nbsp;»
 
-    Aujourd'hui, [la constitution en vigueur](https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur) indique que « La République reconnaît, au sein du peuple français, les populations d'outre-mer, dans un idéal commun de liberté, d'égalité et de fraternité. » (article 72.3) et que « Les langues régionales appartiennent au patrimoine de la France. » (article 15-1). La définition des collectivités territoriales a en effet été largement étendue depuis 1958, limitant en pricipe ses aspects colloniaux.
+    Aujourd'hui, [la constitution en vigueur](https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur) indique que «&nbsp;La République reconnaît, au sein du peuple français, les populations d'outre-mer, dans un idéal commun de liberté, d'égalité et de fraternité.&nbsp;» (article 72.3) et que «&nbsp;Les langues régionales appartiennent au patrimoine de la France.&nbsp;» (article 15-1). La définition des collectivités territoriales a en effet été largement étendue depuis 1958, limitant en pricipe ses aspects colloniaux.
 
     Pour autant, le système même des territoires d'outre-mer actuel est dans les faits quasi-identique à sa définition il y a 76 ans.
 
@@ -471,7 +473,7 @@ En attendant, une suite à cet article sera bientôt publiée pour poursuivre le
     Si l'on considère l'oppression culturelle systématique des nations intérieures telles que l'Occitanie ou la Corse, il est même envisageable de considérer que le colonialisme français est né à une période largement antérieure à celle que nous évoquons ici. Voire antérieure à la colonisation de Saint-Christophe en 1626.
 
 [^20]:
-    Voir Myriam Cottias, Crystal M. Fleming et Seloua Luste Boulbina « [_Nos ancêtres les Gaulois... La France et l'esclavage aujourd'hui_](https://www.cairn.info/revue-cahiers-sens-public-2009-2-page-45.htm) », Cahiers Sens public, vol. 10, no. 2, 2009, pp. 45-56.
+    Voir Myriam Cottias, Crystal M. Fleming et Seloua Luste Boulbina «&nbsp;[_Nos ancêtres les Gaulois... La France et l'esclavage aujourd'hui_](https://www.cairn.info/revue-cahiers-sens-public-2009-2-page-45.htm)&nbsp;», Cahiers Sens public, vol. 10, no. 2, 2009, pp. 45-56.
 
 [^21]: À l'échelle d'une vie, cette évolution est évidemment bien trop lente.
     On peut même constater des reculs évidents à certaines périodes, en particulier la nôtre.
@@ -485,13 +487,13 @@ En attendant, une suite à cet article sera bientôt publiée pour poursuivre le
 [^22]: Voir le dossier thématique du MRAP: [_La loi de 1972 contre le racisme_](https://archives.mrap.fr/mediawiki/index.php/Dossiers_th%C3%A9matiques_-_La_loi_de_1972_contre_le_racisme)
 
 [^23]: On remarquera au passage que l'expression raciste "raton", utilisée pour désigner "les maghrébins", relève du même mécanisme d'animalisation que celui utilisé par les Nazis à l'encontre des juifs afin de justifier la Shoah.
-    Le film "_Le Juif Eternerl (Der Ewige Jude)_", diffusé en 1940, est un cas d'école de ce type de propagande. Pour une analyse détaillée, voir Claire Aslangul, « [_Faire peur, faire "vrai" : Der ewige Jude. Objectifs, procédés et paradoxes d’un "documentaire" antisémite_](http://journals.openedition.org/ilcea/3402) », ILCEA, 09 juillet 2015
+    Le film "_Le Juif Eternerl (Der Ewige Jude)_", diffusé en 1940, est un cas d'école de ce type de propagande. Pour une analyse détaillée, voir Claire Aslangul, «&nbsp;[_Faire peur, faire "vrai"&nbsp;: Der ewige Jude. Objectifs, procédés et paradoxes d’un "documentaire" antisémite_](http://journals.openedition.org/ilcea/3402)&nbsp;», ILCEA, 09 juillet 2015
 
 [^24]:
-    "[_Paris 1961 : les Algériens, la mémoire et la terreur d'Etat_](https://histoirecoloniale.net/Paris-1961-les-Algeriens-la.html)" Histoire Coloniale et Postcoloniale, 22 Oct. 2008
+    "[_Paris 1961&nbsp;: les Algériens, la mémoire et la terreur d'Etat_](https://histoirecoloniale.net/Paris-1961-les-Algeriens-la.html)" Histoire Coloniale et Postcoloniale, 22 Oct. 2008
 
 [^25]:
-    Leprince, Chloé. "[_Massacre du 17 octobre 1961 : la fabrique d'un long silence_](https://www.radiofrance.fr/franceculture/massacre-du-17-octobre-1961-la-fabrique-d-un-long-silence-4771808)" France Culture, 20 Oct. 2021
+    Leprince, Chloé. "[_Massacre du 17 octobre 1961&nbsp;: la fabrique d'un long silence_](https://www.radiofrance.fr/franceculture/massacre-du-17-octobre-1961-la-fabrique-d-un-long-silence-4771808)" France Culture, 20 Oct. 2021
 
 [^26]:
     Voir Christophe-Cécil Garnier. "[_De 1970 à 1997, plus de 700 crimes et attentats racistes en France_](https://www.streetpress.com/sujet/1607707781-1970-1997-700-crimes-attentats-racistes-france-rachida-brahim-xenophobie-racisme)" StreetPress
@@ -499,10 +501,10 @@ En attendant, une suite à cet article sera bientôt publiée pour poursuivre le
 [^27]: Plusieurs nationalistes ont bien rejoint la résistance avant de participer à la fondation du FN.
     Il est cependant important de souligner qu'il s'agissait avant tout pour eux de défendre la "grande nation française" contre un envahisseur, non de lutter contre l'idéologie Nazi.
 
-    Voir "[_Qui créa le Front national ? Première partie : les nostalgiques du nazisme et de la collaboration_](https://www.contretemps.eu/front-rassemblement-national-le-pen-nazisme-collaboration-vichy-petain)" CONTRETEMPS, 26 Janv. 2022
+    Voir "[_Qui créa le Front national ? Première partie&nbsp;: les nostalgiques du nazisme et de la collaboration_](https://www.contretemps.eu/front-rassemblement-national-le-pen-nazisme-collaboration-vichy-petain)" CONTRETEMPS, 26 Janv. 2022
   
 [^28]:
-    Voir "[_Qui créa le Front national ? Deuxième partie : les nostalgiques de l’Algérie française_](https://www.contretemps.eu/front-national-algerie-colonialisme-le-pen/)" CONTRETEMPS, 10 Févr. 2022
+    Voir "[_Qui créa le Front national ? Deuxième partie&nbsp;: les nostalgiques de l’Algérie française_](https://www.contretemps.eu/front-national-algerie-colonialisme-le-pen/)" CONTRETEMPS, 10 Févr. 2022
 
 [^29]:
     Bresson, Gilles. "[_Dreux, 1983: la droite s'allie au FN_](https://www.liberation.fr/evenement/2002/04/27/dreux-1983-la-droite-s-allie-au-fn_401804/)" Libération, 27 Apr. 2002 et Dominique Albertini et David Doucet. "[_Il y a trente ans, le «tonnerre de Dreux» imposait le FN sur la scène politique_](https://www.slate.fr/story/78022/dreux-alliance-droite-fn)" Slate, 24 Sept. 2013
@@ -520,48 +522,48 @@ En attendant, une suite à cet article sera bientôt publiée pour poursuivre le
     Zappi, Sylvia. "[_Toumi Djaidja, le leader qui a crevé l'écran puis s'est fait oublier_](www.lemonde.fr/societe/article/2013/10/11/toumi-djaidja-le-leader-qui-a-creve-l-ecran-puis-s-est-fait-oublier_3494053_3224.html)" Le Monde.fr, 27 Nov. 2013
 
 [^33]:
-    « _Je combats ceux dérangés par les odeurs et les bruits_\
+    «&nbsp;_Je combats ceux dérangés par les odeurs et les bruits_\
     _Car on est tous las de ce retour au même schéma_\
-    _Auquel on avait déjà répondu "plus jamais ça"_ »
+    _Auquel on avait déjà répondu "plus jamais ça"_&nbsp;»
 
 [^34]:
-    « _Qui a construit cette route ?_\
+    «&nbsp;_Qui a construit cette route ?_\
     _Qui a bâti cette ville ?_\
     _Et qui l'habite pas ?_\
     _À ceux qui se plaignent du bruit_\
     _À ceux qui condamnent l'odeur_\
-    _Je me présente_ »
+    _Je me présente_&nbsp;»
 
 [^35]:
-    « _On m'a demandé d'oublier la crasse de cervelle au détour_\
+    «&nbsp;_On m'a demandé d'oublier la crasse de cervelle au détour_\
     _De plus d'un de leurs discours_\
     _Où le bruit et l'odeur émanent en vapeur de nos races moribondes_\
     _Où Mariane ne peut recueillir toute la misère du monde_\
-    _Quand sa main droite affame le Sud et l'assiste à creuser sa propre tombe_ » 
+    _Quand sa main droite affame le Sud et l'assiste à creuser sa propre tombe_&nbsp;» 
 
 [^36]:
-    « _j'en place une pour mon idole
+    «&nbsp;_j'en place une pour mon idole
     Notre président de la République qui depuis 10 ans pourrait être en tôle
     À cohabiter avec Mohamed et Belameur
-    (Mais si vous rajoutez le bruit, et l'odeur...)_ » (_Debout la d'dans !_, 2006).
+    (Mais si vous rajoutez le bruit, et l'odeur...)_&nbsp;» (_Debout la d'dans !_, 2006).
 
-    « _Faudra faire avec ma gueule et ma dégaine_
-    _Mes bruits, mes odeurs, mes codes et mes rengaines_ » (_Les bronzés font du ch'ti_, 2009).
+    «&nbsp;_Faudra faire avec ma gueule et ma dégaine_
+    _Mes bruits, mes odeurs, mes codes et mes rengaines_&nbsp;» (_Les bronzés font du ch'ti_, 2009).
 
-[^37]: Elio Bono, "[_FN - Équipe de France : je t'aime, moi non plus_](http://footpol.fr/fn-equipe-de-france-je-taime-moi-non-plus)" FootPol, 4 mars 2019
+[^37]: Elio Bono, "[_FN - Équipe de France&nbsp;: je t'aime, moi non plus_](http://footpol.fr/fn-equipe-de-france-je-taime-moi-non-plus)" FootPol, 4 mars 2019
 
-[^38]: C'est évidemment ironique. Ce ne fut qu'une "parenthèse enchantée" pour quelques-uns. Voir Gastaut, Yvan. "[_Milieux politiques, immigration et Coupe du monde 1998 de football : la parenthèse enchantée_](https://www.cairn.info/revue-migrations-societe-2007-2-page-141.htm)" Migrations Societe, vol. 110, no. 2, 1 Dec. 2016, pp. 141-51
+[^38]: C'est évidemment ironique. Ce ne fut qu'une "parenthèse enchantée" pour quelques-uns. Voir Gastaut, Yvan. "[_Milieux politiques, immigration et Coupe du monde 1998 de football&nbsp;: la parenthèse enchantée_](https://www.cairn.info/revue-migrations-societe-2007-2-page-141.htm)" Migrations Societe, vol. 110, no. 2, 1 Dec. 2016, pp. 141-51
 
     Par contre le FN ne s'est pas privé de récupérer la victoire par la suite.
 
-[^39]: Et moi, j'étais pour le Brésil, sans déconner :laughing:
+[^39]: Et moi, j'étais pour le Brésil, sans déconner&nbsp;:laughing:
     Même dans l'enfance, je ne portais pas un grand amour pour le foot, ni même ce pays.
 
 [^40]: Compte tenu du slogan "black blanc beurs", je ne cite ici que ceux qui sont "issus" de la colonisation, noirs ou d'origine maghrébine.
     Mais on pourrait aussi citer Boghossian, Pirès et Djorkaeff, eux aussi racialisés, mais dont on parlera beaucoup moins afin de ne pas trop compliquer l'image d'Épinale.
 
 [^41]:
-    Voir Leprince, C. (2019). [_"Black-blanc-beur" : petite histoire d'un slogan ambigu_](https://www.radiofrance.fr/franceculture/black-blanc-beur-petite-histoire-d-un-slogan-ambigu-9070158). France Culture
+    Voir Leprince, C. (2019). [_"Black-blanc-beur"&nbsp;: petite histoire d'un slogan ambigu_](https://www.radiofrance.fr/franceculture/black-blanc-beur-petite-histoire-d-un-slogan-ambigu-9070158). France Culture
 
 [^42]: [Touche pas à mon pote](https://fr.wikipedia.org/wiki/Touche_pas_%C3%A0_mon_pote) était le slogan de SOS Racisme.
     Le symbole d'un anti-racisme consensuel et passe partout durant toutes les années 90. On le voyait partout.
@@ -574,4 +576,4 @@ En attendant, une suite à cet article sera bientôt publiée pour poursuivre le
 [^44]:
     Manilève, Vincent. "[_Charlie Hebdo: quand va-t-on arrêter de demander aux musulmans de se désolidariser d’un acte terroriste?_](https://www.slate.fr/story/96597/musulmans-desolidariser-charlie-hebdo)" Slate, 8 Jan. 2015
 
-[^blame-theo]: "[_Affaire Théo : un simple blâme pour les deux policiers renvoyés devant les assises ?_](https://www.leparisien.fr/seine-saint-denis-93/affaire-theo-un-simple-blame-pour-les-deux-policiers-renvoyes-devant-les-assises-14-01-2021-8419087.php)" Leparisien, 14 Jan. 2021
+[^blame-theo]: "[_Affaire Théo&nbsp;: un simple blâme pour les deux policiers renvoyés devant les assises ?_](https://www.leparisien.fr/seine-saint-denis-93/affaire-theo-un-simple-blame-pour-les-deux-policiers-renvoyes-devant-les-assises-14-01-2021-8419087.php)" Leparisien, 14 Jan. 2021
