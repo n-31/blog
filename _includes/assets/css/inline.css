@@ -504,3 +504,8 @@ svg .legend {
 pre, eqn {
 	overflow: auto;
 }
+
+.footnote-ref {
+	padding-left: .2rem;
+	font-size: .7rem;
+}

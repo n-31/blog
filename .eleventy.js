@@ -36,22 +36,22 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addAsyncFilter('removeFootnotes', async function (value) {
     let { tree } = await posthtml().process(value);
-    tree.match({ tag: 'section', attrs: {class: 'footnotes' } }, (node) => {
+    tree.match({ tag: 'section', attrs: { class: 'footnotes' } }, (node) => {
       node.tag = false;
       node.content = [];
-      return node
-    })
+      return node;
+    });
     return tree.render(tree);
   });
 
   eleventyConfig.addAsyncFilter('countFootnotes', async function (value) {
     let { tree } = await posthtml().process(value);
-    let countLi = 0
-    tree.match({ tag: 'section', attrs: {class: 'footnotes' } }, (node) => {
+    let countLi = 0;
+    tree.match({ tag: 'section', attrs: { class: 'footnotes' } }, (node) => {
       countLi = node.content.find((child) => child.tag === 'ol').content.filter((child) => child.tag === 'li').length;
-    })
+    });
     if (countLi > 0) {
-      return `+ ${countLi} note${countLi > 1 ? 's' : ''}`
+      return `+ ${countLi} note${countLi > 1 ? 's' : ''}`;
     }
     return '';
   });
@@ -172,23 +172,32 @@ module.exports = function (eleventyConfig) {
   const markdownItTexmath = require('markdown-it-texmath');
   const latexEngine = require('katex');
 
-  eleventyConfig.setLibrary(
-    'md',
-    markdownIt({
-      html: true,
-      breaks: false,
-      linkify: true,
+  const md = markdownIt({
+    html: true,
+    breaks: false,
+    linkify: true,
+  })
+    .use(markdownItAnchor, {
+      permalink: false,
     })
-      .use(markdownItAnchor, {
-        permalink: false,
-      })
-      .use(markdownItEmoji)
-      .use(markdownItFootnote)
-      .use(markdownItTexmath, {
-        engine: latexEngine,
-        delimiters: 'dollars',
-      })
-  );
+    .use(markdownItEmoji)
+    .use(markdownItFootnote)
+    .use(markdownItTexmath, {
+      engine: latexEngine,
+      delimiters: 'dollars',
+    });
+
+  md.renderer.rules.footnote_caption = (tokens, idx) => {
+    var n = Number(tokens[idx].meta.id + 1).toString();
+
+    if (tokens[idx].meta.subId > 0) {
+      n += ':' + tokens[idx].meta.subId;
+    }
+
+    return n;
+  };
+
+  eleventyConfig.setLibrary('md', md);
 
   /* dynamically loaded JS modules */
   eleventyConfig.addPassthroughCopy(
