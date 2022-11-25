@@ -2,7 +2,7 @@
 title: « Les vrais racistes, c'est vous ! »
 date: 2022-11-26T18:00:00Z
 permalink: /posts/les-vrais-racistes-c-vous.html
-summary: "Analyse d'un délire bien français."
+subtitle: "Analyse d'un délire bien français."
 image: /static/img/slavcho-malezanov-ZzVA9adkpKM-unsplash.jpg
 tags:
   - actualité
