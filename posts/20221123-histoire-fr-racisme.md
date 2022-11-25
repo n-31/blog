@@ -1,9 +1,9 @@
 ---
-title: France, pays des droits de l'homme ?
+title: France, le pays des droits de l'homme ?
 date: 2022-11-23T12:00:00Z
 permalink: /posts/histoire-fr-racisme.html
-summary: "Revoir l'Histoire de notre pays sous un angle nouveau."
-image: /static/img/slavcho-malezanov-ZzVA9adkpKM-unsplash.jpg
+summary: "Retour sur l'Histoire de notre pays pour mieux comprendre la généalogie de nos maux."
+image: /static/img/jael-vallee-LSZ9A5KiOBw-unsplash.jpg
 tags:
   - histoire
   - France
@@ -326,7 +326,7 @@ Les agresseurs ne sont pas inquiétés.
 Mais cet article est déjà assez long comme ça.
 Nous aurons l'occasion de revenir sur "l'islamo-gauchisme" dans le cadre de la série [dé•polariser](/tags/dé·polariser/).
 
-En attendant, vous pouvez aller lire la suite de cet article : [« Les vrais racistes, c'est vous ! », Analyse d'un délire bien français.](/posts/les-vrais-racistes-c-vous.html).
+En attendant, une suite à cet article sera bientôt publiée pour poursuivre le sujet de la cadre de l'actualité récente.
 
 ## Ressources complémentaires
 
