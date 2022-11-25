@@ -225,7 +225,7 @@ Il habite l'un de ces ZUP, les Minguettes, à Vénissieux, dans la banlieue Lyon
 Il y a même fondé une association, SOS Avenir Minguettes, pour dénoncer le harcèlement policier de ses jeunes voisins.
 
 Le 20 juin 1983, il voit une jeune fille se faire attaquer par un chien policier, et se porte à son secours.
-Le policier tir sur lui.
+Le policier tire sur lui.
 Grièvement blessé, on le transporte d'urgence à l'hôpital[^32].
 
 C'est là qu'il aura l'idée d'organiser une grande marche pour éveiller les consciences sur les crimes racistes constamment impunis.
@@ -285,7 +285,7 @@ Même après une, deux décennies, la "percée" fait mal et doit être rappelée
 Comme le fait très bien le Ministère des Affaires Populaires à deux reprises, en 2006 et 2009[^36].
 
 Encore une fois, la France bourgeoise blanche et tartuffe fait son indignation de façade.
-Applaudie ou vomie ces artistes suivant un facteur d'audimat indexé sur la colorimétrie épidermique.
+Applaudit ou vomit ces artistes suivant un facteur d'audimat indexé sur la colorimétrie épidermique.
 Sont-ils assez lisses ? Vont-ils choquer les bonnes familles ?
 
 L'été 1991, les mêmes se passeront pourtant en boucle le nouveau tube de l'été&nbsp;: **[_La Zoubida_](https://fr.wikipedia.org/wiki/La_Zoubida)** !
