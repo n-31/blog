@@ -574,7 +574,4 @@ En attendant, une suite à cet article sera bientôt publiée pour poursuivre le
 [^44]:
     Manilève, Vincent. "[_Charlie Hebdo: quand va-t-on arrêter de demander aux musulmans de se désolidariser d’un acte terroriste?_](https://www.slate.fr/story/96597/musulmans-desolidariser-charlie-hebdo)" Slate, 8 Jan. 2015
 
-[^45]:
-    Cet article étant déjà assez long, je passe rapidement sur l'actualité récente. Il y aurait pourtant beaucoup à dire. J'y reviendrai sans doute prochainement.
-
 [^blame-theo]: "[_Affaire Théo : un simple blâme pour les deux policiers renvoyés devant les assises ?_](https://www.leparisien.fr/seine-saint-denis-93/affaire-theo-un-simple-blame-pour-les-deux-policiers-renvoyes-devant-les-assises-14-01-2021-8419087.php)" Leparisien, 14 Jan. 2021
