@@ -66,6 +66,13 @@ body {
 	text-align: justify;
 }
 
+.post .subtitle {
+	font-size: 1.2em;
+	font-style: italic;
+	margin-bottom: 2em;
+	margin-top: -.5em;
+}
+
 .sr-only {
 	position: absolute !important;
 	width: 1px !important;
@@ -509,3 +516,4 @@ pre, eqn {
 	padding-left: .2rem;
 	font-size: .7rem;
 }
+

@@ -20,13 +20,13 @@
   {# SEO... #}
   <title>{{ title and title + ' • ' }}{{ section_title + ' • ' if section_title else ''  }}{{ website.title }}</title>
 
-  <meta name="description" content="{{ (description or summary or website.description ) | truncate(150) }}">
+  <meta name="description" content="{{ (description or summary or subtitle or website.description ) | truncate(150) }}">
   <meta name="keywords" content="{{ keywords or website.keywords }}, {{ tags }}, {{ website.title }}">
   <meta name="generator" content="eleventy">
 
   {# OpenGraph Social Card #}
   <meta property="og:title" content="{{ title or website.title}}">
-  <meta property="og:description" content="{{ description or summary or website.description }}">
+  <meta property="og:description" content="{{ description or subtitle or summary or website.description }}">
   {% if image or website.image -%}<meta property="og:image" content="{{ env.BASE_URL }}{% SocialImagePath image or website.image %}">{%- endif %}
   <meta property="og:type" content="website">
   <meta property="og:url" content="{{ env.BASE_URL }}{{ page.url }}">
@@ -34,7 +34,7 @@
 
   {# Twitter Social Card #}
   <meta name="twitter:title" content="{{ title }}">
-  <meta name="twitter:description" content="{{ description or summary or website.description }}">
+  <meta name="twitter:description" content="{{ description or subtitle or summary or website.description }}">
   {% if image or website.image -%}<meta property="twitter:image" content="{{ env.BASE_URL }}{% SocialImagePath image or website.image %}">{%- endif %}
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:url" content="{{ env.BASE_URL }}{{ page.url }}">
