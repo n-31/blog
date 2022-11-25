@@ -83,7 +83,7 @@ Révolte qui se transformera en guerre, pour finalement aboutir en 1825 à l'ind
 Suite à cette indépendance et avec la chute du Premier Empire, la France n'est plus une grande puissance coloniale.
 
 <figure>
-  <a href="https://commons.wikimedia.org/wiki/File:Colonisation_1822.png"><img src="/static/img/Colonisation_1822.png" alt="carte" /></a>
+  <a href="https://commons.wikimedia.org/wiki/File:Colonisation_1822.png" aria-label="source: wikimedia"><img src="/static/img/Colonisation_1822.png" alt="carte" /></a>
   <figcaption>Empires coloniaux occidentaux en 1822.</figcaption>
 </figure>
 
@@ -92,7 +92,7 @@ Elle s'empressera donc de reconstituer un [nouvel empire](https://fr.wikipedia.o
 ## Un apartheid à la Française (1830-1946)
 
 <figure>
-  <a href="https://commons.wikimedia.org/wiki/File:Empire_fran%C3%A7ais_1919-1939.png"><img src="/static/img/Empire_francais_1919-1939.png" alt="carte" /></a>
+  <a href="https://commons.wikimedia.org/wiki/File:Empire_fran%C3%A7ais_1919-1939.png" aria-label="source: wikimedia"><img src="/static/img/Empire_francais_1919-1939.png" alt="carte" /></a>
   <figcaption>Empire français (étendue de 1919 à 1939)</figcaption>
 </figure>
 
@@ -161,7 +161,7 @@ Au point que la plupart des habitants des anciennes colonies et DOM/TOM peuvent 
 
 ## Un pays meurtrier (1961-1980)
 
-<a href="https://www.lelivrescolaire.fr/page/12843935">
+<a href="https://www.lelivrescolaire.fr/page/12843935" aria-label="source: le livre scolaire">
 <figure>
   <img src="/static/img/MohamedLaidMoussa.png" alt="Affiche créée par le collectif des peintres antifascistes, 1975 : Mohamed Laid Moussa, Assasiné par les fascistes" height="400"/>
   <img src="/static/img/AfficheFN1977.png" alt="Affiche du Front National, 1977 : 3 millions de chômeurs se sont 3 millions d'immigrés de trop ! La France et les français d'abord !" height="400" />
