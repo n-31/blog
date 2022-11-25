@@ -56,7 +56,7 @@ Ce qui, paradoxalement, permettra de justifier les nombreuses inégalités subsi
 Car la France règne alors déjà sur un large empire colonial esclavagiste.
 
 <figure>
-  <img src="/static/img/Colonisation_1754.png" alt="Mapemonde montrant les colonies Françaises en Inde, Afrique, Amérique et aux Antilles" />
+  <img src="/static/img/Colonisation_1754.png" alt="Mapemonde montrant les colonies Françaises en Inde, Afrique, Amérique et aux Antilles" alt="carte" />
   <figcaption>Espaces colonisés par le Royaume de France et d'autres royaumes en 1754.</figcaption>
 </figure>
 
@@ -83,7 +83,7 @@ Révolte qui se transformera en guerre, pour finalement aboutir en 1825 à l'ind
 Suite à cette indépendance et avec la chute du Premier Empire, la France n'est plus une grande puissance coloniale.
 
 <figure>
-  <a href="https://commons.wikimedia.org/wiki/File:Colonisation_1822.png"><img src="/static/img/Colonisation_1822.png" /></a>
+  <a href="https://commons.wikimedia.org/wiki/File:Colonisation_1822.png"><img src="/static/img/Colonisation_1822.png" alt="carte" /></a>
   <figcaption>Empires coloniaux occidentaux en 1822.</figcaption>
 </figure>
 
@@ -92,7 +92,7 @@ Elle s'empressera donc de reconstituer un [nouvel empire](https://fr.wikipedia.o
 ## Un apartheid à la Française (1830-1946)
 
 <figure>
-  <a href="https://commons.wikimedia.org/wiki/File:Empire_fran%C3%A7ais_1919-1939.png"><img src="/static/img/Empire_francais_1919-1939.png" /></a>
+  <a href="https://commons.wikimedia.org/wiki/File:Empire_fran%C3%A7ais_1919-1939.png"><img src="/static/img/Empire_francais_1919-1939.png" alt="carte" /></a>
   <figcaption>Empire français (étendue de 1919 à 1939)</figcaption>
 </figure>
 
@@ -145,8 +145,8 @@ La France n'est et ne sera plus un empire colonial telle qu'elle se définissait
 Elle ne peut cependant se résoudre à tourner le dos à son propre impérialisme.
 
 <figure>
-  <img src="/static/img/Outre-mer.png" />
-  <figcaption>Carte des territoires d'outre-mer français, DOM et COM.</figcaption>
+  <img src="/static/img/Outre-mer.png" alt="carte" />
+  <figcaption>Territoires d'outre-mer français, DOM et COM.</figcaption>
 </figure>
 
 De 1946 à nos jours, le pouvoir métropolitain ne cesse de répéter l'appartenance des [territoires ultramarins](https://fr.wikipedia.org/wiki/France_d'outre-mer) à la république.
