@@ -412,7 +412,7 @@ Pour être certain·e de ne pas le manquer : [newsletter](https://listmonk.n31.f
     Abolir les privilèges féodaux était la première revendication des révolutionnaires. Ce fut donc une des premières mesures prises après la révolution, par les [Décrets des 4, 6, 7, 8 et 11 août 1789](https://fr.wikipedia.org/wiki/D%C3%A9crets_des_4,_6,_7,_8_et_11_ao%C3%BBt_1789)
 
 [^3]:
-    Voir Pierre Ancery (2020). [_1788-1791&nbsp;: la Société des Amis des Noirs face aux esclavagistes_](https://www.retronews.fr/colonies/echo-de-presse/2019/02/20/la-societe-des-amis-des-noirs). RetroNews
+    Voir Pierre Ancery, [_1788-1791&nbsp;: la Société des Amis des Noirs face aux esclavagistes_](https://www.retronews.fr/colonies/echo-de-presse/2019/02/20/la-societe-des-amis-des-noirs), RetroNews, 2020
 
 [^4]:
     Voir [_Adresse à l'Assemblée nationale, pour l'abolition de la traite des Noirs_](https://gallica.bnf.fr/ark:/12148/bpt6k417108) par la Société des amis de Noirs de Paris, février 1790.
@@ -422,9 +422,9 @@ Pour être certain·e de ne pas le manquer : [newsletter](https://listmonk.n31.f
 [^5]:
     Au XVIIIᵉ siècle, la France distinguait quatre degrés de couleurs en fonction d'une supposée proportion de "sang noir"&nbsp;: nègre (100%), mulâtre (50%), quarteron (25%) et blanc (0%).
 
-    La définition des "[libres de couleur](https://fr.wikipedia.org/wiki/Gens_de_couleur_libres)" change régulièrement au fil du temps en rapport avec cette échelle et le status des parents. Dans certaines circonstances, la définition de "libre de couleur" fut même réduite aux seuls "quarterons" dont les deux parents étaient nés libres.
+    La définition des "[libres de couleur](https://fr.wikipedia.org/wiki/Gens_de_couleur_libres)" change régulièrement au fil du temps en rapport avec cette échelle et le statut des parents. Dans certaines circonstances, la définition de "libre de couleur" fut même réduite aux seuls "quarterons" dont les deux parents étaient nés libres.
 
-    Quelques tentatives d'élargir cette définition pour intégrer les noirs affranchis et les "mulâtres" ont bien eu lieu peut de temps après la révolution Française. Elles ont cependant été rapidement abandonnées face à la pression des riches colons.
+    Quelques tentatives d'élargir cette définition pour intégrer les noirs affranchis et les "mulâtres" ont bien eu lieu peu de temps après la révolution Française. Elles ont cependant été rapidement abandonnées face à la pression des riches colons.
 
 [^6]:
     Évidemment, l'Histoire de la confrontation entre un modèle révolutionnaire "égalitaire" et le modèle colonial esclavagiste préexistant est bien plus complexe.
@@ -438,19 +438,17 @@ Pour être certain·e de ne pas le manquer : [newsletter](https://listmonk.n31.f
     Mais même cela est encore un résumé bien trop sommaire. Pour en savoir plus, je vous recommande vivement la lecture de l'article de Florence Gauthier, maitre de conférence à l'Université Paris 7-Denis Diderot, [_De la Révolution de Saint-Domingue à l’Indépendance d’Haïti. Comment sortir de l’esclavage ? 1789-1804_](https://revolution-francaise.net/2005/12/29/15-de-la-revolution-de-saint-domingue-a-lindependance-dhaiti-comment-sortir-de-lesclavage-1789-1804).
 
 [^7]:
-    L'indépendance d'Haïti fut effective dès 1804. Elle n'a cependant été reconnue par la France qu'après un très long processus de négociation. En contrepartie de cette reconnaissance, Haïti dut s'acquitter d'une somme considérable (150 millions de francs-or, soit l'équivalent de 17 milliards d’euros aujourd'hui) pour "dédommager les anciens colons".
+    L'indépendance d'Haïti fut effective dès 1804. Elle n'a cependant été reconnue par la France qu'après un très long processus de négociation. En contrepartie de cette reconnaissance, Haïti dut s'acquitter d'une [somme considérable](https://fr.wikipedia.org/wiki/Indemnisation_de_la_France_par_la_r%C3%A9publique_d%27Ha%C3%AFti) (150 millions de francs-or, soit l'équivalent de 17 milliards d’euros aujourd'hui) pour "dédommager les anciens colons".
 
-    Pour une rapide introduction à cette question, voir l'article de Louis-Philippe Dalembert publié dans Libération en 2010&nbsp;: [_Haïti, la dette originelle_](https://www.liberation.fr/planete/2010/03/25/haitila-dette-originelle_617159/).
-
-    L'[article Wikipédia associé](https://fr.wikipedia.org/wiki/Indemnisation_de_la_France_par_la_r%C3%A9publique_d%27Ha%C3%AFti) est également un bon complément.
+    Pour une rapide introduction à cette question, voir Louis-Philippe Dalembert, [_Haïti, la dette originelle_](https://www.liberation.fr/planete/2010/03/25/haitila-dette-originelle_617159/), Libération, 2010.
 
 [^8]:
     Pour se faire une idée de l'étendue des mensonges et de la démagogie qui préfigure durant l'invasion de l'Algérie, il suffit de lire les quelques [textes fondateurs de l'Algérie française](https://mjp.univ-perp.fr/constit/dz1830.htm) établis entre 1830 et 1902.
 
-[^9]: 3 sources pour approfondir le sujet:
+[^9]: 3 sources pour approfondir le sujet&nbsp;:
 
-    - [_le code de l’indigénat dans l’Algérie coloniale_](https://web.archive.org/web/20110308070400/http://www.ldh-toulon.net/spip.php?article527) sur le site la section de Toulon de la Ligue des droits de l’Homme, ainsi que Nathalie Funes (2019).
-    - [_Code de l'indigénat dans les colonies&nbsp;: un siècle de répression_](https://www.nouvelobs.com/monde/afrique/20190221.OBS0653/code-de-l-indigenat-dans-les-colonies-un-siecle-de-repression.html). L'Obs
+    - [_le code de l’indigénat dans l’Algérie coloniale_](https://web.archive.org/web/20110308070400/http://www.ldh-toulon.net/spip.php?article527) sur le site de la section de Toulon de la Ligue des Droits de l’Homme
+    - Nathalie Funes, [_Code de l'indigénat dans les colonies&nbsp;: un siècle de répression_](https://www.nouvelobs.com/monde/afrique/20190221.OBS0653/code-de-l-indigenat-dans-les-colonies-un-siecle-de-repression.html), L'Obs, 2019
     - [_1887 - Le Code de l’indigénat est généralisé à toutes les colonies_](https://www.lelivrescolaire.fr/page/6990753)
 
 [^10]: Ça vous rappelle quelque chose ?
@@ -458,13 +456,13 @@ Pour être certain·e de ne pas le manquer : [newsletter](https://listmonk.n31.f
     Oui, c'est bel et bien en ces termes que Macron parlait des sans-papiers en août 2021 (voir les articles du [Parisien](https://www.leparisien.fr/politique/vous-avez-des-devoirs-avant-davoir-des-droits-lance-emmanuel-macron-aux-sans-papiers-21-05-2021-PA3JTNGXEJCCHKSO6RH3GIHVIY.php) et de [Mediapart](https://www.mediapart.fr/journal/france/250322/droits-et-devoirs-la-rupture-macron)).
     Un très clair appel du pied à l'extrême-droite et à tous les nostalgiques des colonies, représentative d'une vision réactionnaire et autoritaire du pouvoir.
 
-    Pour en savoir plus sur les mécanismes du racisme macronien, lisez Galita, Nicolas. "[_Le racisme de Macron_](https://www.ateliergalita.com/p/le-racisme-de-macron)" L'Atelier Galita, 18 Apr. 2022.
+    Pour en savoir plus sur les mécanismes du racisme macronien, lisez Nicolas Galita, "[_Le racisme de Macron_](https://www.ateliergalita.com/p/le-racisme-de-macron)" L'Atelier Galita, 18 Apr. 2022.
 
 [^11]:
-    Voir Gros, Dominique. «&nbsp;[_Sujets et citoyens en Algérie avant l’ordonnance du 7 mars 1944_](https://doi.org/10.3917/lgh.032.0039)&nbsp;», Le Genre humain, vol. 32, no. 1, 1997, pp. 39-52.
+    Voir Dominique Gros, «&nbsp;[_Sujets et citoyens en Algérie avant l’ordonnance du 7 mars 1944_](https://doi.org/10.3917/lgh.032.0039)&nbsp;», Le Genre humain, vol. 32, no. 1, 1997, pp. 39-52.
 
 [^12]:
-    Weil, Patrick. «&nbsp;[_Histoire et mémoire des discriminations en matière de nationalité française_](https://www.cairn.info/revue-vingtieme-siecle-revue-d-histoire-2004-4-page-5.htm)&nbsp;», Vingtième Siècle. Revue d'histoire, vol. no 84, no. 4, 2004, pp. 5-22.
+    Patrick Weil, «&nbsp;[_Histoire et mémoire des discriminations en matière de nationalité française_](https://www.cairn.info/revue-vingtieme-siecle-revue-d-histoire-2004-4-page-5.htm)&nbsp;», Vingtième Siècle. Revue d'histoire, vol. no 84, no. 4, 2004, pp. 5-22.
 
 [^13]:
     Les indigènes d'Indochine et Madagascar subirent notamment un apartheid similaire à celui imposé en Algérie. Concernant Madagascar en particulier, la construction de la Ligue française pour l'accession des indigènes de Madagascar aux droits de citoyen, et le récit qui en est fait par son fondateur Jean Ralaimongo, est particulièrement parlant&nbsp;:
@@ -474,26 +472,26 @@ Pour être certain·e de ne pas le manquer : [newsletter](https://listmonk.n31.f
 
     Extrait issu du _[Compte-rendu d'un voyage effectué à Madagascar de juillet à décembre 1921](https://gallica.bnf.fr/ark:/12148/bpt6k943093v)_.
 
-    On peut noter au passage que le gouvernement colonial semble ici craindre une opposition menée par des "humanitaires de Paris", ce qui me semble être une nouveauté.
+    On peut noter au passage que le gouvernement colonial semble ici craindre une opposition menée par des "humanitaires de Paris", ce qui à ma connaissance est une nouveauté.
 
 [^14]:
-    De fait, nous pouvons même considérer que le régime de l'indigénat persiste jusqu'à nos jours, prenant une nouvelle forme pour discriminer les immigrants issus des anciennes colonies.
+    De fait, nous pouvons même considérer que le régime de l'indigénat persiste jusqu'à nos jours, prenant une nouvelle forme pour discriminer les "immigrants" issus des anciennes colonies.
 
-    Voir notamment l'article [_Le "néo-indigénat"_](https://www.persee.fr/doc/camed_0395-9317_2000_num_61_1_1289) de Khalifa Chater, historien et professeur émérite à l'université de Tunis, publié en 2000 dans les Cahiers de la Méditerranée.
+    Voir Khalifa Chater (historien et professeur émérite à l'université de Tunis), [_Le "néo-indigénat"_](https://www.persee.fr/doc/camed_0395-9317_2000_num_61_1_1289), les Cahiers de la Méditerranée, 2000
 
 [^15]: Dans les faits, la décision de mettre fin au code de l'indigénat avait déjà été prise par la France lors de la [conférence de Brazzaville](https://fr.wikipedia.org/wiki/Conf%C3%A9rence_de_Brazzaville) en 1944.
     Conférence qui, en dehors de cela, sera surtout l'occasion pour la France d'affirmer sa volonté de maintenir son empire colonial, à rebours du chemin déjà pris par la Grande-Bretagne et l'Espagne.
 
 [^16]:
-    Anignikin, Sylvain C. “Les facteurs historiques de la décolonisation au Dahomey 1936-1956”. Ageron, Charles-Robert. Les chemins de la décolonisation de l’empire colonial français, 1936-1956&nbsp;: Colloque organisé par l’IHTP les 4 et 5 octobre 1984. Paris&nbsp;: CNRS Éditions, 1986. (pp. 505-511) Web. <http://books.openedition.org/editionscnrs/525>.
+    Sylvain C. Anignikin, “[_Les facteurs historiques de la décolonisation au Dahomey 1936-1956_](http://books.openedition.org/editionscnrs/525)”, Ageron, Charles-Robert. Les chemins de la décolonisation de l’empire colonial français, 1936-1956&nbsp;: Colloque organisé par l’IHTP les 4 et 5 octobre 1984. Paris&nbsp;: CNRS Éditions, 1986. pp. 505-511
 
 [^17]:
     De nombreuses organisations et groupe de pression ont été créés au cours de l'Histoire française dans le but de défendre et renforcer sa politique coloniale.
-    Très élitistes, elles comprennent pour la plupart un faible nombre d'adhérents, pour la plupart riches et bien nés.
+    Très élitistes, elles comprennent pour la plupart un faible nombre d'adhérents, essentiellement riches et bien nés.
 
     L'[Union Coloniale Française](https://fr.wikipedia.org/wiki/Union_coloniale_fran%C3%A7aise), fondée en 1893, fut la principale de ces organisations. Au cours de la seconde guerre mondiale, elle fusionne avec le Comité de l'Indochine et l'Institut colonial français pour devenir le Comité de l'Empire français, dont nous parlons ici. Ce comité sera renommé Comité central de la France d'Outre-mer (CCFOM) en 1948, qui donnera à son tour le Comité central du rayonnement français en 1968 (source: "[Union coloniale française · Histoire du Droit du Travail dans les Colonies.](https://hdtcol.univ-nantes.fr/collections/show/15)" 22 Nov. 2022.
 
-    Pour plus d'information sur l'histoire de ce "parti colonial", voir Brunschwig, Henri. "[_Le parti colonial français._](https://www.persee.fr/doc/outre_0300-9513_1959_num_46_162_1305)" Outre-Mers. Revue d'histoire, vol. 46, no. 162, 1959, pp. 49-83
+    Pour plus d'information sur l'histoire de ce "parti colonial", voir Henri  Brunschwig, "[_Le parti colonial français._](https://www.persee.fr/doc/outre_0300-9513_1959_num_46_162_1305)" Outre-Mers. Revue d'histoire, vol. 46, no. 162, 1959, pp. 49-83
 
 [^18]: On peut notamment citer&nbsp;:
 
@@ -503,7 +501,7 @@ Pour être certain·e de ne pas le manquer : [newsletter](https://listmonk.n31.f
 
     Aujourd'hui, [la constitution en vigueur](https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur) indique que «&nbsp;La République reconnaît, au sein du peuple français, les populations d'outre-mer, dans un idéal commun de liberté, d'égalité et de fraternité.&nbsp;» (article 72.3) et que «&nbsp;Les langues régionales appartiennent au patrimoine de la France.&nbsp;» (article 15-1). La définition des collectivités territoriales a en effet été largement étendue depuis 1958, limitant en pricipe ses aspects colloniaux.
 
-    Pour autant, le système même des territoires d'outre-mer actuel est dans les faits quasi-identique à sa définition il y a 76 ans.
+    Pour autant, la gestion actuelle des territoires d'outre-mer est dans les faits dans la continuité de celle d'il y a 76 ans.
 
 [^19]: La France opère une négation totale de sa diversité culturelle depuis bien longtemps.
     Si l'on considère l'oppression culturelle systématique des nations intérieures telles que l'Occitanie ou la Corse, il est même envisageable de considérer que le colonialisme français est né à une période largement antérieure à celle que nous évoquons ici. Voire antérieure à la colonisation de Saint-Christophe en 1626.
@@ -515,24 +513,27 @@ Pour être certain·e de ne pas le manquer : [newsletter](https://listmonk.n31.f
     On peut même constater des reculs évidents à certaines périodes, en particulier la nôtre.
     Ce pourquoi il est d'autant plus nécessaire de se replonger dans notre propre histoire. Non seulement pour comprendre la situation actuelle.
     Mais aussi et surtout pour prendre du recul et éviter de sombrer dans le désespoir quand nous vivons une période sombre.
+
     Pour mieux se rendre compte du chemin parcouru au fil des siècles, je vous conseille vivement de lire le [Code Noir](https://fr.wikisource.org/wiki/Code_noir/1685/orthographe_modernis%C3%A9e).
+
     Cela étant dit, nous ne devons pas pour autant nous laisser piéger par la croyance en un progrès inéluctable.
     Tout progrès, technique comme social, dépend de nos choix et actions collectives.
     Rien ne permet d'exclure la possibilité d'un déclin, hormis notre résistance constante.
 
-[^22]: Voir le dossier thématique du MRAP: [_La loi de 1972 contre le racisme_](https://archives.mrap.fr/mediawiki/index.php/Dossiers_th%C3%A9matiques_-_La_loi_de_1972_contre_le_racisme)
+[^22]: Voir le dossier thématique du MRAP : [_La loi de 1972 contre le racisme_](https://archives.mrap.fr/mediawiki/index.php/Dossiers_th%C3%A9matiques_-_La_loi_de_1972_contre_le_racisme)
 
 [^23]: On remarquera au passage que l'expression raciste "raton", utilisée pour désigner "les maghrébins", relève du même mécanisme d'animalisation que celui utilisé par les Nazis à l'encontre des juifs afin de justifier la Shoah.
+
     Le film "_Le Juif Eternerl (Der Ewige Jude)_", diffusé en 1940, est un cas d'école de ce type de propagande. Pour une analyse détaillée, voir Claire Aslangul, «&nbsp;[_Faire peur, faire "vrai"&nbsp;: Der ewige Jude. Objectifs, procédés et paradoxes d’un "documentaire" antisémite_](http://journals.openedition.org/ilcea/3402)&nbsp;», ILCEA, 09 juillet 2015
 
 [^24]:
     "[_Paris 1961&nbsp;: les Algériens, la mémoire et la terreur d'Etat_](https://histoirecoloniale.net/Paris-1961-les-Algeriens-la.html)" Histoire Coloniale et Postcoloniale, 22 Oct. 2008
 
 [^25]:
-    Leprince, Chloé. "[_Massacre du 17 octobre 1961&nbsp;: la fabrique d'un long silence_](https://www.radiofrance.fr/franceculture/massacre-du-17-octobre-1961-la-fabrique-d-un-long-silence-4771808)" France Culture, 20 Oct. 2021
+    Chloé Leprince, "[_Massacre du 17 octobre 1961&nbsp;: la fabrique d'un long silence_](https://www.radiofrance.fr/franceculture/massacre-du-17-octobre-1961-la-fabrique-d-un-long-silence-4771808)" France Culture, 20 Oct. 2021
 
 [^26]:
-    Voir Christophe-Cécil Garnier. "[_De 1970 à 1997, plus de 700 crimes et attentats racistes en France_](https://www.streetpress.com/sujet/1607707781-1970-1997-700-crimes-attentats-racistes-france-rachida-brahim-xenophobie-racisme)" StreetPress
+    Voir Christophe-Cécil Garnier, "[_De 1970 à 1997, plus de 700 crimes et attentats racistes en France_](https://www.streetpress.com/sujet/1607707781-1970-1997-700-crimes-attentats-racistes-france-rachida-brahim-xenophobie-racisme)" StreetPress
 
 [^27]: Plusieurs nationalistes ont bien rejoint la résistance avant de participer à la fondation du FN.
     Il est cependant important de souligner qu'il s'agissait avant tout pour eux de défendre la "grande nation française" contre un envahisseur, non de lutter contre l'idéologie Nazi.
@@ -543,19 +544,19 @@ Pour être certain·e de ne pas le manquer : [newsletter](https://listmonk.n31.f
     Voir "[_Qui créa le Front national ? Deuxième partie&nbsp;: les nostalgiques de l’Algérie française_](https://www.contretemps.eu/front-national-algerie-colonialisme-le-pen/)" CONTRETEMPS, 10 Févr. 2022
 
 [^29]:
-    Bresson, Gilles. "[_Dreux, 1983: la droite s'allie au FN_](https://www.liberation.fr/evenement/2002/04/27/dreux-1983-la-droite-s-allie-au-fn_401804/)" Libération, 27 Apr. 2002 et Dominique Albertini et David Doucet. "[_Il y a trente ans, le «tonnerre de Dreux» imposait le FN sur la scène politique_](https://www.slate.fr/story/78022/dreux-alliance-droite-fn)" Slate, 24 Sept. 2013
+    Gilles Bresson, "[_Dreux, 1983: la droite s'allie au FN_](https://www.liberation.fr/evenement/2002/04/27/dreux-1983-la-droite-s-allie-au-fn_401804/)" Libération, 27 Apr. 2002 ; Dominique Albertini et David Doucet, "[_Il y a trente ans, le «tonnerre de Dreux» imposait le FN sur la scène politique_](https://www.slate.fr/story/78022/dreux-alliance-droite-fn)" Slate, 24 Sept. 2013
 
 [^30]: Sur l'année 1983, les organisations de lutte contre le racisme dénombreront 21 morts.
 
-    Chiffre issu du livre du sociologue Abdellali Hajjat, [_La Marche Pour l'Egalite et Contre le Racisme_](http://www.editionsamsterdam.fr/la-marche-pour-legalite-et-contre-le-racisme/), publié aux Éditions AMSTERDAM en 2013, tel que cité par le (problématique) "débunkage" de France Info le 28 Nov. 2013, "[_Jamel dit-il vrai sur les crimes contre les Maghrébins en 1983 ?_](https://www.radiofrance.fr/franceinfo/podcasts/le-vrai-du-faux/jamel-dit-il-vrai-sur-les-crimes-contre-les-maghrebins-en-1983-6096550)".
+    Chiffre issu du livre du sociologue Abdellali Hajjat, [_La Marche Pour l'Egalite et Contre le Racisme_](http://www.editionsamsterdam.fr/la-marche-pour-legalite-et-contre-le-racisme/), publié aux Éditions Amsterdam en 2013, tel que cité par le (problématique) "débunkage" de France Info le 28 Nov. 2013, "[_Jamel dit-il vrai sur les crimes contre les Maghrébins en 1983 ?_](https://www.radiofrance.fr/franceinfo/podcasts/le-vrai-du-faux/jamel-dit-il-vrai-sur-les-crimes-contre-les-maghrebins-en-1983-6096550)".
 
-    Le plus marquant de ces crimes est sans doute le [meurtre de Habib Grimzi](https://fr.wikipedia.org/wiki/Affaire_Habib_Grimzi) dans la nuit du 14 au 15 novembre 1983 dans le train Bordeaux-Vintimille, par 3 candidats à la légion étrangère, théoriquement sous la surveillance d’un caporal. Habib Grimzi fut roué de coups, poignardé à plusieurs reprises, puis défenestré (cf. Régnard, Céline. "[_Le meurtre du Bordeaux-Vintimille_](https://journals.openedition.org/hommesmigrations/3563)". EPPD - Cité nationale de l'histoire de l'immigration, 2016).
+    Le plus marquant de ces crimes est sans doute le [meurtre de Habib Grimzi](https://fr.wikipedia.org/wiki/Affaire_Habib_Grimzi) dans la nuit du 14 au 15 novembre 1983 dans le train Bordeaux-Vintimille, par 3 candidats à la légion étrangère, théoriquement sous la surveillance d’un caporal. Habib Grimzi fut roué de coups, poignardé à plusieurs reprises, puis défenestré (cf. Céline Régnard, "[_Le meurtre du Bordeaux-Vintimille_](https://journals.openedition.org/hommesmigrations/3563)". EPPD - Cité nationale de l'histoire de l'immigration, 2016).
 
 [^31]:
     Voir le témoignage de Abdellali Hajjat recueilli par Faïza Zerouala, "[_Avoir 20 ans aux Minguettes en 1983_](https://www.bondyblog.fr/societe/avoir-20-ans-aux-minguettes-en-1983/#.WA5F38nMKJk)" Bondy Blog, 18 Oct. 2019
 
 [^32]:
-    Zappi, Sylvia. "[_Toumi Djaidja, le leader qui a crevé l'écran puis s'est fait oublier_](www.lemonde.fr/societe/article/2013/10/11/toumi-djaidja-le-leader-qui-a-creve-l-ecran-puis-s-est-fait-oublier_3494053_3224.html)" Le Monde.fr, 27 Nov. 2013
+    Sylvia Zappi, "[_Toumi Djaidja, le leader qui a crevé l'écran puis s'est fait oublier_](www.lemonde.fr/societe/article/2013/10/11/toumi-djaidja-le-leader-qui-a-creve-l-ecran-puis-s-est-fait-oublier_3494053_3224.html)" Le Monde.fr, 27 Nov. 2013
 
 [^33]:
     «&nbsp;_Je combats ceux dérangés par les odeurs et les bruits_\
@@ -574,7 +575,7 @@ Pour être certain·e de ne pas le manquer : [newsletter](https://listmonk.n31.f
     «&nbsp;_On m'a demandé d'oublier la crasse de cervelle au détour_\
     _De plus d'un de leurs discours_\
     _Où le bruit et l'odeur émanent en vapeur de nos races moribondes_\
-    _Où Mariane ne peut recueillir toute la misère du monde_\
+    _Où Marianne ne peut recueillir toute la misère du monde_\
     _Quand sa main droite affame le Sud et l'assiste à creuser sa propre tombe_&nbsp;» 
 
 [^36]:
@@ -588,7 +589,7 @@ Pour être certain·e de ne pas le manquer : [newsletter](https://listmonk.n31.f
 
 [^37]: Elio Bono, "[_FN - Équipe de France&nbsp;: je t'aime, moi non plus_](http://footpol.fr/fn-equipe-de-france-je-taime-moi-non-plus)" FootPol, 4 mars 2019
 
-[^38]: C'est évidemment ironique. Ce ne fut qu'une "parenthèse enchantée" pour quelques-uns. Voir Gastaut, Yvan. "[_Milieux politiques, immigration et Coupe du monde 1998 de football&nbsp;: la parenthèse enchantée_](https://www.cairn.info/revue-migrations-societe-2007-2-page-141.htm)" Migrations Societe, vol. 110, no. 2, 1 Dec. 2016, pp. 141-51
+[^38]: C'est évidemment ironique. Ce ne fut qu'une "parenthèse enchantée" pour quelques-uns. Voir Yvan Gastaut, "[_Milieux politiques, immigration et Coupe du monde 1998 de football&nbsp;: la parenthèse enchantée_](https://www.cairn.info/revue-migrations-societe-2007-2-page-141.htm)" Migrations Societe, vol. 110, no. 2, 1 Dec. 2016, pp. 141-51
 
     Par contre le FN ne s'est pas privé de récupérer la victoire par la suite.
 
@@ -596,10 +597,10 @@ Pour être certain·e de ne pas le manquer : [newsletter](https://listmonk.n31.f
     Même dans l'enfance, je ne portais pas un grand amour pour le foot, ni même ce pays.
 
 [^40]: Compte tenu du slogan "black blanc beurs", je ne cite ici que ceux qui sont "issus" de la colonisation, noirs ou d'origine maghrébine.
-    Mais on pourrait aussi citer Boghossian, Pirès et Djorkaeff, eux aussi racialisés, mais dont on parlera beaucoup moins afin de ne pas trop compliquer l'image d'Épinale.
+    Mais on pourrait aussi citer Boghossian, Pirès et Djorkaeff, eux aussi racialisés, mais qu'on évitera d'inclure afin de ne pas trop compliquer l'image d'Épinale.
 
 [^41]:
-    Voir Leprince, C. (2019). [_"Black-blanc-beur"&nbsp;: petite histoire d'un slogan ambigu_](https://www.radiofrance.fr/franceculture/black-blanc-beur-petite-histoire-d-un-slogan-ambigu-9070158). France Culture
+    Voir C. Leprince, [_"Black-blanc-beur"&nbsp;: petite histoire d'un slogan ambigu"_](https://www.radiofrance.fr/franceculture/black-blanc-beur-petite-histoire-d-un-slogan-ambigu-9070158) France Culture, 2019
 
 [^42]: [Touche pas à mon pote](https://fr.wikipedia.org/wiki/Touche_pas_%C3%A0_mon_pote) était le slogan de SOS Racisme.
     Le symbole d'un anti-racisme consensuel et passe partout durant toutes les années 90. On le voyait partout.
@@ -610,6 +611,6 @@ Pour être certain·e de ne pas le manquer : [newsletter](https://listmonk.n31.f
     Je pense ici à [Azouz Begag](https://fr.wikipedia.org/wiki/Azouz_Begag), dont le livre [_Un mouton dans la baignoire_](https://www.editionspoints.com/ouvrage/un-mouton-dans-la-baignoire-azouz-begag/9782757807248) (Fayard, 2007, puis en poche chez Points, 2008) a l'air pas mal intéressant (je ne l'ai pas lu), vu qu'il y évoque lui-même le fait d'avoir été "[l'arabe de service](https://fr.wikipedia.org/wiki/Tok%C3%A9nisme)" de Sarkozy. Ce n'est cela dit qu'un exemple parmi tant d'autres.
 
 [^44]:
-    Manilève, Vincent. "[_Charlie Hebdo: quand va-t-on arrêter de demander aux musulmans de se désolidariser d’un acte terroriste?_](https://www.slate.fr/story/96597/musulmans-desolidariser-charlie-hebdo)" Slate, 8 Jan. 2015
+    Vincent Manilève, "[_Charlie Hebdo: quand va-t-on arrêter de demander aux musulmans de se désolidariser d’un acte terroriste?_](https://www.slate.fr/story/96597/musulmans-desolidariser-charlie-hebdo)" Slate, 8 Jan. 2015
 
 [^blame-theo]: "[_Affaire Théo&nbsp;: un simple blâme pour les deux policiers renvoyés devant les assises ?_](https://www.leparisien.fr/seine-saint-denis-93/affaire-theo-un-simple-blame-pour-les-deux-policiers-renvoyes-devant-les-assises-14-01-2021-8419087.php)" Leparisien, 14 Jan. 2021
