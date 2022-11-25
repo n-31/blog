@@ -1,6 +1,6 @@
 ---
 title: France, le pays des droits de l'homme ?
-date: 2022-11-23T12:00:00Z
+date: 2022-11-26T12:00:00Z
 permalink: /posts/histoire-fr-racisme.html
 summary: "Retour sur l'Histoire de notre pays pour mieux comprendre la généalogie de nos maux."
 image: /static/img/jael-vallee-LSZ9A5KiOBw-unsplash.jpg
@@ -306,6 +306,12 @@ A préféré instaurer des couvre-feux, fermer les ghettos et effectué des arre
 A continué à parler "d'intégration" pour désigner ses indigènes.
 A protégé les meurtriers de [Zyed Benna et Bouna Traoré](https://fr.wikipedia.org/wiki/Mort_de_Zyed_Benna_et_Bouna_Traor%C3%A9).
 
+<figure>
+    <img src="/static/img/galita-je-suis-raciste.jpg" alt="Je suis raciste" height="250" />
+    <figcaption>Détournement du slogan et logo "Je suis Charlie" réalisé par <a href="https://substack.com/profile/5897329-nicolas-galita">Nicolas Galita</a> pour heurter les esprits et inciter à la lecture de son excellent article: "<a href="https://www.ateliergalita.com/p/arrte-de-chercher-le-racisme-chez"><i>Arrête de chercher le racisme chez les autres. Il est en toi aussi.</i></a>"</figcaption>
+</figure>
+
+
 En 2015, nous sommes d'un coup devenu "tous Charlie".
 Une nouvelle union nationale est née.
 Tous unis contre la haine !
@@ -317,9 +323,10 @@ Et on s'est finalement très rapidement rendu compte qu'on n'était pas tous ven
 Les racistes de tout bord sautent sur l'occasion pour déverser leur islamo-"phobie" à tout va, plus ou moins directement.
 Ivan Rioufol, éditorialiste au Figaro, y va de son sermon : « _Il faudrait également et urgemment que manifestent aujourd'hui les Français musulmans qui, évidemment, ne se reconnaissent pas dans cet attentat terroriste, sinon on va craindre effectivement les amalgames._ » [^44]
 
+En parallèle, les violences policières racistes persistent.
 Le 2 janvier 2017, [Théodore Luhaka](https://fr.wikipedia.org/wiki/Affaire_Th%C3%A9o) subit une agression policière dans la [Cité des 3000](https://fr.wikipedia.org/wiki/Cit%C3%A9_des_3000).
 Il en ressort handicapé à vie.
-Les agresseurs ne sont pas inquiétés.
+Ses agresseurs ne reçoivent qu'un simple blâme[^blame-theo].
 
 À présent, le gouvernement nie l'existence même des violences policières, et s'est lancé dans une constante croisade contre "l'islamisme radical", "l'islamo-gauchisme" et le "wokisme".
 
@@ -570,3 +577,4 @@ En attendant, une suite à cet article sera bientôt publiée pour poursuivre le
 [^45]:
     Cet article étant déjà assez long, je passe rapidement sur l'actualité récente. Il y aurait pourtant beaucoup à dire. J'y reviendrai sans doute prochainement.
 
+[^blame-theo]: "[_Affaire Théo : un simple blâme pour les deux policiers renvoyés devant les assises ?_](https://www.leparisien.fr/seine-saint-denis-93/affaire-theo-un-simple-blame-pour-les-deux-policiers-renvoyes-devant-les-assises-14-01-2021-8419087.php)" Leparisien, 14 Jan. 2021
