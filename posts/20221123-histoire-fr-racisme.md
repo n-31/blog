@@ -1,6 +1,6 @@
 ---
 title: France, le pays des droits de l'homme ?
-date: 2022-11-26T12:00:00Z
+date: 2022-11-25T18:00:00Z
 permalink: /posts/histoire-fr-racisme.html
 summary: "Retour sur l'Histoire de notre pays pour mieux comprendre la généalogie de nos maux."
 image: /static/img/jael-vallee-LSZ9A5KiOBw-unsplash.jpg
