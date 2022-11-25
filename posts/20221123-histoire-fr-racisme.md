@@ -262,7 +262,7 @@ La droite "républicaine" va n'avoir de cesse dès lors de faire des appels du p
 
 Chirac, maire de Paris et député de Corèze, donne le 19 octobre 1991 un discours qui fera date. Il y déclare&nbsp;:
 
-«&nbsp;_Comment voulez-vous que le travailleur français qui habite à la Goutte-d'or [...], et qui voit sur le palier à côté de son HLM, entassée, une famille avec un père de famille, trois ou quatre épouses, et une vingtaine de gosses, et qui gagne 50 000 francs de prestations sociales, sans naturellement travailler ! Si vous ajoutez à cela [**le bruit et l'odeur**](https://fr.wikipedia.org/wiki/Le_bruit_et_l%27odeur_(discours*de_Jacques_Chirac)) [rires nourris], eh bien le travailleur français sur le palier, il devient fou._&nbsp;»
+«&nbsp;_Comment voulez-vous que le travailleur français qui habite à la Goutte-d'or [...], et qui voit sur le palier à côté de son HLM, entassée, une famille avec un père de famille, trois ou quatre épouses, et une vingtaine de gosses, et qui gagne 50 000 francs de prestations sociales, sans naturellement travailler ! Si vous ajoutez à cela [**le bruit et l'odeur**](https://fr.wikipedia.org/wiki/Le_bruit_et_l%27odeur_(discours_de_Jacques_Chirac))) [rires nourris], eh bien le travailleur français sur le palier, il devient fou._&nbsp;»
 
 Cette fois, la bonne société blanche ne peut s'abstenir de réagir (molement) à des propos si outrageusement racistes.
 La gauche de gouvernement se dit choquée. Le centre droit, triste d'un dérapage d'un Chirac qui "n'est pas raciste".
@@ -275,7 +275,7 @@ Le MRAP porte plainte contre Jacques Chirac pour incitation à la haine raciale.
 
 <figure>
   <lite-youtube videoid="rbXUIkYOvl8" playlistid="PLWuQZCRl-gzddav_k8XgLbLa4M9hNIK5M" nocookie></lite-youtube>
-  <figcaption>Une courte <a href="https://youtube.com/playlist?list=PLWuQZCRl-gzddav_k8XgLbLa4M9hNIK5M">playlist musicale</a> pour vous mettre dans l'ambiance.</figcaption>
+  <figcaption>Une courte <a href="https://www.youtube.com/playlist?list=PLWuQZCRl-gzddav_k8XgLbLa4M9hNIK5M">playlist musicale</a> pour vous mettre dans l'ambiance.</figcaption>
 </figure>
 
 En 1995, Supreme NTM reprend l'expression dans le titre "_Plus jamais ça_" issu de l'album "_Paris sous les bombes_"[^33].
@@ -373,7 +373,7 @@ Pour être certain·e de ne pas le manquer : [newsletter](https://listmonk.n31.f
 ## Ressources complémentaires
 
 - :pushpin: [_Dictionnaire de l'histoire de France_](https://gallica.bnf.fr/ark:/12148/bpt6k12005115) / sous la direction de Jean-François Sirinelli. (2006)
-- :video_camera: Youtube. [_Contre-histoire de la France outre-mer&nbsp;: Nos ancêtres les Gaulois_](https://youtu.be/X8OQIKjqCF0)
+- :video_camera: Youtube. [_Contre-histoire de la France outre-mer&nbsp;: Nos ancêtres les Gaulois_](https://www.youtube.com/watch?v=X8OQIKjqCF0)
 - :video_camera: Youtube. Ensemble de la chaine [_Histoires Crépues_](https://www.youtube.com/channel/UCVuMMUfqEI448VKbkpuNPHQ)
 - :book: LE COUR GRANDMAISON Olivier, _[De L'indigénat, Anatomie d'un «&nbsp;monstre&nbsp;» juridique&nbsp;: le droit colonial en Algérie et dans l'Empire français](https://www.editionsladecouverte.fr/de_l_indigenat-9782355220050)_, Paris, Ed. La Découverte (Zones), 2010, 197 p., 16 €.
 - :book: Rachida BRAHIM, 2020, [_La Race tue deux fois. Une histoire des crimes racistes en France (1970-2000)_](https://www.syllepse.net/la-race-tue-deux-fois-_r_65_i_821.html), Paris, Éditions Syllepse, 228 p.
@@ -393,7 +393,7 @@ Pour être certain·e de ne pas le manquer : [newsletter](https://listmonk.n31.f
 > N'oubliez pas&nbsp;: n'importe quelle encyclopédie (Wikipédia inclue) est un point de départ, non une finalité.
 
 - [Société d'Ancien Régime](https://fr.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_d%27Ancien_R%C3%A9gime)
-- [Décret d'abolition de l'esclavage du 4 février 1794](https://fr.wikipedia.org/wiki/D%C3%A9cret_d%27abolition_de_l%27esclavage_du_4_f%C3%A9vrier_1794#Abolition_du_d%C3%A9cret_d'abolition_de_l'esclavage_du_16_pluvi%C3%B4se_an_II)
+- [Décret d'abolition de l'esclavage du 4 février 1794](https://fr.wikipedia.org/wiki/D%C3%A9cret_d%27abolition_de_l%27esclavage_du_4_f%C3%A9vrier_1794#Abolition_du_décret_d'abolition_de_l'esclavage_du_16_pluviôse_an_II)
 - [Révolution haïtienne](https://fr.wikipedia.org/wiki/R%C3%A9volution_ha%C3%AFtienne)
 - [Langues régionales ou minoritaires en France](https://fr.wikipedia.org/wiki/Langues_r%C3%A9gionales_ou_minoritaires_en_France)
 - [Racialisme](https://fr.wikipedia.org/wiki/Racialisme)
@@ -447,7 +447,7 @@ Pour être certain·e de ne pas le manquer : [newsletter](https://listmonk.n31.f
 
 [^9]: 3 sources pour approfondir le sujet&nbsp;:
 
-    - [_le code de l’indigénat dans l’Algérie coloniale_](https://web.archive.org/web/20110308070400/http://www.ldh-toulon.net/spip.php?article527) sur le site de la section de Toulon de la Ligue des Droits de l’Homme
+    - [_le code de l’indigénat dans l’Algérie coloniale_](https://web.archive.org/web/20110308070400/https://www.ldh-toulon.net/spip.php?article527) sur le site de la section de Toulon de la Ligue des Droits de l’Homme
     - Nathalie Funes, [_Code de l'indigénat dans les colonies&nbsp;: un siècle de répression_](https://www.nouvelobs.com/monde/afrique/20190221.OBS0653/code-de-l-indigenat-dans-les-colonies-un-siecle-de-repression.html), L'Obs, 2019
     - [_1887 - Le Code de l’indigénat est généralisé à toutes les colonies_](https://www.lelivrescolaire.fr/page/6990753)
 
@@ -459,7 +459,7 @@ Pour être certain·e de ne pas le manquer : [newsletter](https://listmonk.n31.f
     Pour en savoir plus sur les mécanismes du racisme macronien, lisez Nicolas Galita, "[_Le racisme de Macron_](https://www.ateliergalita.com/p/le-racisme-de-macron)" L'Atelier Galita, 18 Apr. 2022.
 
 [^11]:
-    Voir Dominique Gros, «&nbsp;[_Sujets et citoyens en Algérie avant l’ordonnance du 7 mars 1944_](https://doi.org/10.3917/lgh.032.0039)&nbsp;», Le Genre humain, vol. 32, no. 1, 1997, pp. 39-52.
+    Voir Dominique Gros, «&nbsp;[_Sujets et citoyens en Algérie avant l’ordonnance du 7 mars 1944_](https://www.cairn.info/revue-le-genre-humain-1997-1-page-39.htm)&nbsp;», Le Genre humain, vol. 32, no. 1, 1997, pp. 39-52.
 
 [^12]:
     Patrick Weil, «&nbsp;[_Histoire et mémoire des discriminations en matière de nationalité française_](https://www.cairn.info/revue-vingtieme-siecle-revue-d-histoire-2004-4-page-5.htm)&nbsp;», Vingtième Siècle. Revue d'histoire, vol. no 84, no. 4, 2004, pp. 5-22.
@@ -483,7 +483,7 @@ Pour être certain·e de ne pas le manquer : [newsletter](https://listmonk.n31.f
     Conférence qui, en dehors de cela, sera surtout l'occasion pour la France d'affirmer sa volonté de maintenir son empire colonial, à rebours du chemin déjà pris par la Grande-Bretagne et l'Espagne.
 
 [^16]:
-    Sylvain C. Anignikin, “[_Les facteurs historiques de la décolonisation au Dahomey 1936-1956_](http://books.openedition.org/editionscnrs/525)”, Ageron, Charles-Robert. Les chemins de la décolonisation de l’empire colonial français, 1936-1956&nbsp;: Colloque organisé par l’IHTP les 4 et 5 octobre 1984. Paris&nbsp;: CNRS Éditions, 1986. pp. 505-511
+    Sylvain C. Anignikin, “[_Les facteurs historiques de la décolonisation au Dahomey 1936-1956_](https://books.openedition.org/editionscnrs/525)”, Ageron, Charles-Robert. Les chemins de la décolonisation de l’empire colonial français, 1936-1956&nbsp;: Colloque organisé par l’IHTP les 4 et 5 octobre 1984. Paris&nbsp;: CNRS Éditions, 1986. pp. 505-511
 
 [^17]:
     De nombreuses organisations et groupe de pression ont été créés au cours de l'Histoire française dans le but de défendre et renforcer sa politique coloniale.
@@ -524,7 +524,7 @@ Pour être certain·e de ne pas le manquer : [newsletter](https://listmonk.n31.f
 
 [^23]: On remarquera au passage que l'expression raciste "raton", utilisée pour désigner "les maghrébins", relève du même mécanisme d'animalisation que celui utilisé par les Nazis à l'encontre des juifs afin de justifier la Shoah.
 
-    Le film "_Le Juif Eternerl (Der Ewige Jude)_", diffusé en 1940, est un cas d'école de ce type de propagande. Pour une analyse détaillée, voir Claire Aslangul, «&nbsp;[_Faire peur, faire "vrai"&nbsp;: Der ewige Jude. Objectifs, procédés et paradoxes d’un "documentaire" antisémite_](http://journals.openedition.org/ilcea/3402)&nbsp;», ILCEA, 09 juillet 2015
+    Le film "_Le Juif Eternerl (Der Ewige Jude)_", diffusé en 1940, est un cas d'école de ce type de propagande. Pour une analyse détaillée, voir Claire Aslangul, «&nbsp;[_Faire peur, faire "vrai"&nbsp;: Der ewige Jude. Objectifs, procédés et paradoxes d’un "documentaire" antisémite_](https://journals.openedition.org/ilcea/3402)&nbsp;», ILCEA, 09 juillet 2015
 
 [^24]:
     "[_Paris 1961&nbsp;: les Algériens, la mémoire et la terreur d'Etat_](https://histoirecoloniale.net/Paris-1961-les-Algeriens-la.html)" Histoire Coloniale et Postcoloniale, 22 Oct. 2008
@@ -538,7 +538,7 @@ Pour être certain·e de ne pas le manquer : [newsletter](https://listmonk.n31.f
 [^27]: Plusieurs nationalistes ont bien rejoint la résistance avant de participer à la fondation du FN.
     Il est cependant important de souligner qu'il s'agissait avant tout pour eux de défendre la "grande nation française" contre un envahisseur, non de lutter contre l'idéologie Nazi.
 
-    Voir "[_Qui créa le Front national ? Première partie&nbsp;: les nostalgiques du nazisme et de la collaboration_](https://www.contretemps.eu/front-rassemblement-national-le-pen-nazisme-collaboration-vichy-petain)" CONTRETEMPS, 26 Janv. 2022
+    Voir "[_Qui créa le Front national ? Première partie&nbsp;: les nostalgiques du nazisme et de la collaboration_](https://www.contretemps.eu/front-rassemblement-national-le-pen-nazisme-collaboration-vichy-petain/)" CONTRETEMPS, 26 Janv. 2022
   
 [^28]:
     Voir "[_Qui créa le Front national ? Deuxième partie&nbsp;: les nostalgiques de l’Algérie française_](https://www.contretemps.eu/front-national-algerie-colonialisme-le-pen/)" CONTRETEMPS, 10 Févr. 2022
@@ -553,10 +553,10 @@ Pour être certain·e de ne pas le manquer : [newsletter](https://listmonk.n31.f
     Le plus marquant de ces crimes est sans doute le [meurtre de Habib Grimzi](https://fr.wikipedia.org/wiki/Affaire_Habib_Grimzi) dans la nuit du 14 au 15 novembre 1983 dans le train Bordeaux-Vintimille, par 3 candidats à la légion étrangère, théoriquement sous la surveillance d’un caporal. Habib Grimzi fut roué de coups, poignardé à plusieurs reprises, puis défenestré (cf. Céline Régnard, "[_Le meurtre du Bordeaux-Vintimille_](https://journals.openedition.org/hommesmigrations/3563)". EPPD - Cité nationale de l'histoire de l'immigration, 2016).
 
 [^31]:
-    Voir le témoignage de Abdellali Hajjat recueilli par Faïza Zerouala, "[_Avoir 20 ans aux Minguettes en 1983_](https://www.bondyblog.fr/societe/avoir-20-ans-aux-minguettes-en-1983/#.WA5F38nMKJk)" Bondy Blog, 18 Oct. 2019
+    Voir le témoignage de Abdellali Hajjat recueilli par Faïza Zerouala, "[_Avoir 20 ans aux Minguettes en 1983_](https://www.bondyblog.fr/societe/avoir-20-ans-aux-minguettes-en-1983/)" Bondy Blog, 18 Oct. 2019
 
 [^32]:
-    Sylvia Zappi, "[_Toumi Djaidja, le leader qui a crevé l'écran puis s'est fait oublier_](www.lemonde.fr/societe/article/2013/10/11/toumi-djaidja-le-leader-qui-a-creve-l-ecran-puis-s-est-fait-oublier_3494053_3224.html)" Le Monde.fr, 27 Nov. 2013
+    Sylvia Zappi, "[_Toumi Djaidja, le leader qui a crevé l'écran puis s'est fait oublier_](https://www.lemonde.fr/societe/article/2013/10/11/toumi-djaidja-le-leader-qui-a-creve-l-ecran-puis-s-est-fait-oublier_3494053_3224.html)" Le Monde, 27 Nov. 2013
 
 [^33]:
     «&nbsp;_Je combats ceux dérangés par les odeurs et les bruits_\
@@ -587,7 +587,7 @@ Pour être certain·e de ne pas le manquer : [newsletter](https://listmonk.n31.f
     «&nbsp;_Faudra faire avec ma gueule et ma dégaine_
     _Mes bruits, mes odeurs, mes codes et mes rengaines_&nbsp;» (_Les bronzés font du ch'ti_, 2009).
 
-[^37]: Elio Bono, "[_FN - Équipe de France&nbsp;: je t'aime, moi non plus_](http://footpol.fr/fn-equipe-de-france-je-taime-moi-non-plus)" FootPol, 4 mars 2019
+[^37]: Elio Bono, "[_FN - Équipe de France&nbsp;: je t'aime, moi non plus_](https://footpol.fr/fn-equipe-de-france-je-taime-moi-non-plus)" FootPol, 4 mars 2019
 
 [^38]: C'est évidemment ironique. Ce ne fut qu'une "parenthèse enchantée" pour quelques-uns. Voir Yvan Gastaut, "[_Milieux politiques, immigration et Coupe du monde 1998 de football&nbsp;: la parenthèse enchantée_](https://www.cairn.info/revue-migrations-societe-2007-2-page-141.htm)" Migrations Societe, vol. 110, no. 2, 1 Dec. 2016, pp. 141-51
 
