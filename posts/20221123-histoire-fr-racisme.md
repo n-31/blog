@@ -45,7 +45,7 @@ Autrement dit d'abolir les anciens privilèges, reposant sur une distinction ent
 
 Le régime féodal reposait sur une vision traditionaliste et spirituelle, Dieu donnant à toute personne une place clairement définie au sein d'un ordre.
 C'est cette vision "communautaire" de l'ancien régime que la révolution s'attache à détruire.
-Ce qu'elle fait sur la base d'une nouvelle morale libérale et individualistes.
+Ce qu'elle fait sur la base d'une nouvelle morale libérale et individualiste.
 Dieu est remplacé par la nature.
 L'autodétermination proclamée sur la base de droits dits "naturels" succède au déterminisme spirituel.
 
@@ -61,7 +61,7 @@ Car la France règne alors déjà sur un large empire colonial esclavagiste.
 </figure>
 
 La [Société des amis des Noirs](https://fr.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_des_amis_des_Noirs), fondée en 1788, aura une certaine influence sur la politique esclavagiste révolutionnaire[^3].
-Cette association appel à une abolition "modérée" et progressive de l'esclavage, et à l'égalité entre "Noirs libres" et collons blancs, tous citoyens de la nouvelle république.
+Cette association appelle à une abolition "modérée" et progressive de l'esclavage, et à l'égalité entre "Noirs libres" et collons blancs, tous citoyens de la nouvelle république.
 Égalité qu'elle entend atteindre par "l'éducation des noirs" (qu'il faut préparer à la liberté) en accord avec les colons esclavagistes.
 Une vision raciste et paternaliste qui sera donc pleinement compatible avec son soutien aux répressions des insurrections d'esclaves[^4].
 
@@ -126,7 +126,7 @@ Il sera rapidement étendu à l'ensemble des colonies, pour persister en l'état
 La France métropolitaine sort de la seconde guerre mondiale affaiblie.
 Envahie à son tour, elle se retrouve blessée dans son identité.
 En parallèle, l'empire colonial lui-même commence à se fissurer face aux revendications des "indigènes".
-La métropole recherche donc à se reconstruire comme un pays fort et unis.
+La métropole recherche donc à se reconstruire comme un pays fort et uni.
 Ce qu'elle fera par deux approches bien distinctes.
 
 La première approche, héritière de la résistance et portée par la SFIO, fait reculer l'hypocrisie de l'égalitarisme républicain en instituant de nouveaux droits et protections.
