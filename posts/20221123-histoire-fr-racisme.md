@@ -13,19 +13,34 @@ modules:
   - 'lite-youtube.js'
 ---
 
+Toute personne est sujette, dès son plus jeune âge, à un certain nombre d'influences négatives ou mensongères.
+Par définition, il est toujours complexe de percevoir ces influences en nous même, et donc de les remettre en cause.
+
+Cependant, l'une d'entre elle reste rarement invoquée : celle de notre "roman national".
+Autrement dit, quel portait de notre pays nous a été dépeint par l'enseignement et le traitement quotidien de son Histoire.
+
+La France entretient une image forte et positive dans les esprits, et particulièrement dans celui de ses citoyennes et citoyens.
+
+La France est bien, dans les faits, le pays de naissance de la démocratie moderne et des droits de l'homme.
+Mais ce fait seul suffit-il à décrire notre Histoire ?
+Nous permet-il véritablement de défendre l'image d'un peuple protecteur et exportateur de _liberté_. D'_égalité_. De _fraternité_.
+
+Des faits importants sont-ils constamment exclus du discours dominant ?
+Des éléments qui amèneraient à peindre un tableau radicalement différent ?
+
 > :warning: **Avertissement**
 >
 > Cet article ne fait que survoler un sujet extrêmement complexe.
 > Il est très probable que je le mette régulièrement à jour au fil de mes découvertes, lectures et discussions.
 > Pour m'aider (ou m'engueuler), postez donc un commentaire.
 
-## Une république coloniale raciste (1789-1830)
+## Une république coloniale (1789-1830)
 
 En 1789, le premier article de la Déclaration des Droits de l'Homme et du Citoyen (DDHC) proclame&nbsp;:
 
 > «&nbsp;Les hommes[^1] naissent et demeurent libres et égaux en droits. Les distinctions sociales ne peuvent être fondées que sur l’utilité commune.&nbsp;»
 
-Il s'agit alors de rompre avec la "société d'ordres" de l'[ancien régime](https://fr.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_d%27Ancien_R%C3%A9gime) féodal[^2].
+Il s'agit alors de rompre avec la "société d'ordres" de l'ancien régime féodal[^2].
 Autrement dit d'abolir les anciens privilèges, reposant sur une distinction entre le peuple (Tiers état), le pouvoir religieux (clergé), et le pouvoir politique (noblesse).
 
 Le régime féodal reposait sur une vision traditionaliste et spirituelle, Dieu donnant à toute personne une place clairement définie au sein d'un ordre.
@@ -333,7 +348,27 @@ Ses agresseurs ne reçoivent qu'un simple blâme[^blame-theo].
 Mais cet article est déjà assez long comme ça.
 Nous aurons l'occasion de revenir sur "l'islamo-gauchisme" dans le cadre de la série [dé•polariser](/tags/dé·polariser/).
 
+## Conclusion
+
+Nous avons aujourd'hui le devoir de reconnaitre l'Histoire impérialiste et fondamentalement raciste de notre pays.
+Car celle-ci, comme nous avons pu le voir, reste au fondement de nombreux états de faits parfaitement actuels, et parfaitement inacceptables.
+
+Nous ne pouvons nous autoriser à nous reposer sur une propagande mensongère qui biaise nos actions.
+
+Si l'essentiel des éléments présentés dans cet article sont des nouveautés pour vous, tant mieux.
+J'espère que cette rapide introduction à l'Histoire actualisée et décoloniale du "Pays des droits de l'homme" vous servira de marche pied pour déconstruire de nombreux principes racistes imprimés en vous contre votre gré.
+Les ressources suivantes et les nombreux liens et notes de bas de page sont là pour vous aider à poursuivre cette démarche.
+Et ce sera un plaisir de répondre à vos questions dans les commentaires en cas de doute.
+
+Si ce n'était pas le cas, eh bien, c'est encore mieux.
+Il est probable que vous ayez beaucoup à enseigner, à moi comme aux autres lecteurs.
+Étant moi-même très loin d'être un spécialiste d'Histoire, je suis toujours impatient d'en apprendre plus.
+Votre contribution serait sans aucun doute utile pour d'autres articles.
+Vous pouvez [m'envoyer directement un message privé](/contact/), donc n'hésitez pas.
+
 En attendant, une suite à cet article sera bientôt publiée pour poursuivre le sujet de la cadre de l'actualité récente.
+
+Pour être certain·e de ne pas le manquer : [newsletter](https://listmonk.n31.fr/subscription/form), [RSS](/posts.xml), [Mastodon](https://piaille.fr/@n31) ou [Twitter](https://twitter.com/n3141/), vous avez l'embarras du choix :slightly_smiling_face:
 
 ## Ressources complémentaires
 
@@ -357,6 +392,7 @@ En attendant, une suite à cet article sera bientôt publiée pour poursuivre le
 > Référez-vous toujours aux sources et aux discussions d'une page pour éviter les possibles manipulations et biais.
 > N'oubliez pas&nbsp;: n'importe quelle encyclopédie (Wikipédia inclue) est un point de départ, non une finalité.
 
+- [Société d'Ancien Régime](https://fr.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_d%27Ancien_R%C3%A9gime)
 - [Décret d'abolition de l'esclavage du 4 février 1794](https://fr.wikipedia.org/wiki/D%C3%A9cret_d%27abolition_de_l%27esclavage_du_4_f%C3%A9vrier_1794#Abolition_du_d%C3%A9cret_d'abolition_de_l'esclavage_du_16_pluvi%C3%B4se_an_II)
 - [Révolution haïtienne](https://fr.wikipedia.org/wiki/R%C3%A9volution_ha%C3%AFtienne)
 - [Langues régionales ou minoritaires en France](https://fr.wikipedia.org/wiki/Langues_r%C3%A9gionales_ou_minoritaires_en_France)
@@ -367,7 +403,7 @@ En attendant, une suite à cet article sera bientôt publiée pour poursuivre le
 - [Universalisme républicain](https://fr.wikipedia.org/wiki/Universalisme_r%C3%A9publicain)
 
 [^1]:
-    Les "hommes" est bien indiqué ici avec une minuscule, avec une définition très restreinte. Les femmes étaient très loin d'être inclues dans cette définition (pour rappel, le droit de vote des femmes ne sera institué en France qu'en 1944). Partant de ce point de départ, je fais volontairement le choix d'utiliser dans cet article le masculin plutôt que l'écriture inclusive afin de mieux souligner l'évidence&nbsp;: les femmes ont été systématiquement exclues de ces questions.
+    "hommes" est bien indiqué ici avec un H minuscule. La définition du terme est donc restreinte. Les femmes étaient très loin d'être inclues dans cette définition (pour rappel, le droit de vote des femmes ne sera institué en France qu'en 1944). Partant de ce point de départ, je fais volontairement le choix d'utiliser dans cet article le masculin plutôt que l'écriture inclusive afin de mieux souligner l'évidence&nbsp;: les femmes ont été systématiquement exclues de ces questions.
 
     Pour aller plus loin, on peut même considérer que beaucoup d'hommes, même blancs, étaient également implicitement exclus de la DDHC.
     Le suffrage universel masculin ne sera par exemple réellement institué qu'en 1848, après prêt d'un siècle de [suffrage censitaire](https://fr.wikipedia.org/wiki/Suffrage_censitaire).
