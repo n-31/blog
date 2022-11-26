@@ -45,7 +45,7 @@ Autrement dit d'abolir les anciens privilèges, reposant sur une distinction ent
 
 Le régime féodal reposait sur une vision traditionaliste et spirituelle, Dieu donnant à toute personne une place clairement définie au sein d'un ordre.
 C'est cette vision "communautaire" de l'ancien régime que la révolution s'attache à détruire.
-Ce qu'elle fait sur la base d'une nouvelle morale libérale et individualistes.
+Ce qu'elle fait sur la base d'une nouvelle morale libérale et individualiste.
 Dieu est remplacé par la nature.
 L'autodétermination proclamée sur la base de droits dits "naturels" succède au déterminisme spirituel.
 
@@ -61,7 +61,7 @@ Car la France règne alors déjà sur un large empire colonial esclavagiste.
 </figure>
 
 La [Société des amis des Noirs](https://fr.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_des_amis_des_Noirs), fondée en 1788, aura une certaine influence sur la politique esclavagiste révolutionnaire[^3].
-Cette association appel à une abolition "modérée" et progressive de l'esclavage, et à l'égalité entre "Noirs libres" et collons blancs, tous citoyens de la nouvelle république.
+Cette association appelle à une abolition "modérée" et progressive de l'esclavage, et à l'égalité entre "Noirs libres" et collons blancs, tous citoyens de la nouvelle république.
 Égalité qu'elle entend atteindre par "l'éducation des noirs" (qu'il faut préparer à la liberté) en accord avec les colons esclavagistes.
 Une vision raciste et paternaliste qui sera donc pleinement compatible avec son soutien aux répressions des insurrections d'esclaves[^4].
 
@@ -126,7 +126,7 @@ Il sera rapidement étendu à l'ensemble des colonies, pour persister en l'état
 La France métropolitaine sort de la seconde guerre mondiale affaiblie.
 Envahie à son tour, elle se retrouve blessée dans son identité.
 En parallèle, l'empire colonial lui-même commence à se fissurer face aux revendications des "indigènes".
-La métropole recherche donc à se reconstruire comme un pays fort et unis.
+La métropole recherche donc à se reconstruire comme un pays fort et uni.
 Ce qu'elle fera par deux approches bien distinctes.
 
 La première approche, héritière de la résistance et portée par la SFIO, fait reculer l'hypocrisie de l'égalitarisme républicain en instituant de nouveaux droits et protections.
@@ -225,7 +225,7 @@ Il habite l'un de ces ZUP, les Minguettes, à Vénissieux, dans la banlieue Lyon
 Il y a même fondé une association, SOS Avenir Minguettes, pour dénoncer le harcèlement policier de ses jeunes voisins.
 
 Le 20 juin 1983, il voit une jeune fille se faire attaquer par un chien policier, et se porte à son secours.
-Le policier tir sur lui.
+Le policier tire sur lui.
 Grièvement blessé, on le transporte d'urgence à l'hôpital[^32].
 
 C'est là qu'il aura l'idée d'organiser une grande marche pour éveiller les consciences sur les crimes racistes constamment impunis.
@@ -285,7 +285,7 @@ Même après une, deux décennies, la "percée" fait mal et doit être rappelée
 Comme le fait très bien le Ministère des Affaires Populaires à deux reprises, en 2006 et 2009[^36].
 
 Encore une fois, la France bourgeoise blanche et tartuffe fait son indignation de façade.
-Applaudie ou vomie ces artistes suivant un facteur d'audimat indexé sur la colorimétrie épidermique.
+Applaudit ou vomit ces artistes suivant un facteur d'audimat indexé sur la colorimétrie épidermique.
 Sont-ils assez lisses ? Vont-ils choquer les bonnes familles ?
 
 L'été 1991, les mêmes se passeront pourtant en boucle le nouveau tube de l'été&nbsp;: **[_La Zoubida_](https://fr.wikipedia.org/wiki/La_Zoubida)** !
