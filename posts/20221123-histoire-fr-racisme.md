@@ -17,7 +17,7 @@ Toute personne est sujette, dès son plus jeune âge, à un certain nombre d'inf
 Par définition, il est toujours complexe de percevoir ces influences en nous même, et donc de les remettre en cause.
 
 Cependant, l'une d'entre elle reste rarement invoquée : celle de notre "roman national".
-Autrement dit, quel portait de notre pays nous a été dépeint par l'enseignement et le traitement quotidien de son Histoire.
+Autrement dit, quel portrait de notre pays nous a été dépeint par l'enseignement et le traitement quotidien de son Histoire.
 
 La France entretient une image forte et positive dans les esprits, et particulièrement dans celui de ses citoyennes et citoyens.
 
