@@ -52,9 +52,13 @@
       "D_Article_39",
       "politicalcompass.org",
       "tzitzimitl.net",
+      # seems like cairn.fr disallow automated requests
       "https://www.cairn.info/revue-vingtieme-siecle-revue-d-histoire-2004-4-page-5.htm",
       "https://www.cairn.info/revue-migrations-societe-2007-2-page-141.htm",
-      "Abolition_du_d%C3%A9cret_d'abolition_de_l'esclavage_du_16_pluvi%C3%B4se_an_II"
+      # checklinks doesn't correctly handle URL encoding for ids
+      "Abolition_du_d%C3%A9cret_d'abolition_de_l'esclavage_du_16_pluvi%C3%B4se_an_II",
+      # Timeout, but OK on 2022-11-27
+      "https://web.archive.org/web/20110308070400/https://www.ldh-toulon.net/spip.php?article527"
     ]
 
     # You can mark some check as todo, which will execute the check, but allow failures.
