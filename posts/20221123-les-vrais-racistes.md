@@ -24,7 +24,7 @@ Elle n'est même pas originale, puisqu'il est de plus en plus courant que des an
 Elle n'en est pas moins représentative d'un courant de pensée profondément ancré dans la tradition politique française.
 Pour mieux la comprendre, on va donc avoir besoin d'écouter un point de vue extérieur.
 
-> :stop_sign: Contexte
+> :stop_sign: **Contexte**
 >
 > Toute française, tout français, est imprégné·e d'une certaine propagande présentant notre pays comme celui des "droits de l'homme" et de l'égalité.
 > Comprendre les faits tels qu'ils sont demande donc de revenir sur son Histoire avec un point de vue "nouveau".
@@ -124,3 +124,25 @@ Assimilation à cette identitée supposée
 [^47]: Trevor Noah illustre cette idée en faisant la plaisanterie suivante : « C'est comme si quelqu'un disait : "oh donc si tu joues avec ton enfant nue, c'est un problème, mais si je le fais je suis un pédophile ?" Oui ! OUI ! Y a une énorme différence ! »
 
 [^48]: En science de la communication, tous les modèles, [en partant de celui de Shannon et Weaver](https://laboragora.com/index.php/2017/05/27/communication_shannon_et_weaver/), incluent un émetteur et un récepteur dans l'étude des possibles écarts entre message émis et message reçus. La _base_ je vous dis.
+
+[^racialisme30] Blanckaert, Claude. « [_Science des races et discours anti-« racistes » au musée de l’Homme (1930-1960)_](https://www.cairn.info/revue-communications-2020-2-page-45.htm) », Communications, vol. 107, no. 2, 2020, pp. 45-61.
+
+[^figaroNvRacistes]: Devecchio, Alexandre. "[_Les antiracistes sont devenus les nouveaux racistes._](https://www.youtube.com/watch?v=cHti1hS7fKk)" Live, Figaro. YouTube, 2 Apr. 2021
+
+[^cevipof20]: [P.A Taguieff](https://fr.wikipedia.org/wiki/Pierre-Andr%C3%A9_Taguieff) & M. Wieviorka, "[_Le racisme. Le multiculturalisme_](https://www.sciencespo.fr/cevipof/sites/sciencespo.fr.cevipof/files/cahier.20.pdf), Cahier du CEVIPOF n° 20, 1998
+
+[^taguieffDefConcepts]: Taguieff, Pierre-André. « Racisme, discrimination, antisémitisme, discrimination : définition des concepts », Communication au séminaire de la CNCDH, Paris, 1er décembre 2006, in [_RAPPORT DE LA COMMISSION NATIONALE CONSULTATIVE DES DROITS DE L’HOMME_](https://www.vie-publique.fr/sites/default/files/rapport/pdf/084000167.pdf), La Documentation française, Paris, 2008, ISBN 978-2-11-007093-7, p241-275
+
+[^lentinPostRacialisme]: Alana Lentin, « [_Post-racialisme, déni du racisme et crise de la blanchité_](https://journals.openedition.org/sociologies/10990) », SociologieS [En ligne], Dossiers, 23 mai 2019
+
+[^ddvRacialiste]: Taguieff, Pierre-André. "[_Les dérives racialistes du néo-antiracisme_](https://www.leddv.fr/analyse/les-derives-racialistes-du-neo-antiracisme-20220205)" LEDDV, 21 Mar. 2022
+
+[^rpNonMixite]: Courant Communiste Revolutionnaire, Nina Kirmizi. "Reims, camp d'été décolonial. Les vrais racistes à l'offensive." Révolution Permanente, 14 Dec. 2017, www.revolutionpermanente.fr/Reims-camp-d-ete-decolonial-Les-vrais-racistes-a-l-offensive.
+
+[^yonnetMailaise]: Yonnet, P. Voyage au centre du malaise français. L'artilleur, 2022, books.google.fr/books?id=LH6KEAAAQBAJ&pg=PT3
+
+[^ngoAntifa]: Préface de P.A Taguieff dans Ngo, Andy and Anne-Sophie Nogaret. Démasqués - Infiltré au coeur du programme antifa de destruction de la démocratie. Ring, 2021
+
+[^frculRacialisme]: Brice Couturier. "[_Le racialisme, ou la perversion de l'antiracisme._](https://www.radiofrance.fr/franceculture/podcasts/le-tour-du-monde-des-idees/le-racialisme-ou-la-perversion-de-l-antiracisme-2622909)" Le Tour du monde des idées, France Culture, 27 Apr. 2021
+
+[^taguieffIslamoGauchisme] Taguieff, Pierre-André. "[_Anti-israélisme et judéophobie : l'exception française._](https://www.cairn.info/revue-outre-terre1-2004-4-page-385.htm)" Outre-Terre, vol. 9, no. 4, 1 Dec. 2005, pp. 385-404
