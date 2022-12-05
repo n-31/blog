@@ -60,7 +60,7 @@
 
   {# Service Worker #}
   <script>
-    if ("serviceWorker" in navigator)
+    if ("serviceWorker" in navigator && document.location.hostname.includes('n31.fr'))
       window.addEventListener('load', function() {
         navigator.serviceWorker.register('/service-worker.js');
       });
