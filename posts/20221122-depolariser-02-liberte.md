@@ -1,6 +1,6 @@
 ---
-title: "Liberté - dé·polariser #2"
-date: 2022-11-03T18:00:00Z
+title: "Définir la liberté politique : entre des visions diamétralement opposées- dé·polariser #2"
+date: 2022-12-06T18:00:00Z
 permalink: /posts/depolariser/02-liberte.html
 summary: "Positive ou négative ? C'est quoi, au juste, la liberté ?"
 image: /static/img/designecologist-P1sMtXL4jow-unsplash.jpg
@@ -10,15 +10,36 @@ tags:
   - idéologies
 ---
 
-Retour cadran
+Dans le dernier épisode de dé·polariser, nous avons commencé à nous pencher sur le cadran politique traditionnel.
+Nous avons ainsi pu voir que sa première dimension, gauche/droite, était extrêmement mal définie.
+Ce qui nous a permis de poser les bases pour cette série.
 
-"Authoritarian" / "Libertarian"
+Pour ce second épisode, nous allons donc attaquer la seconde dimension, l'axe liberté/autoritarisme.
 
-erreur classique
+Nous pouvons sommairement répartir sur le cadran politique les idéologies les plus notables telles que communément perçues.
 
-## C'est quoi la liberté
+<img src="/static/img/Political_Compass_ideologies.svg" alt="Political compass - two-axis political spectrum chart with a horizontal socio-economic axis and a vertical socio-cultural axis, and ideologically representative political colours in each quadrant − a frequently used model of the political spectrum based on Hans Eysenck (1956)" style="max-width:800px" />
 
-### Ne pas être esclave
+Comme souvent en politique, le concept même est extrêmement vague.
+
+Demandez à différentes personnes ce que signifie "liberté", et vous obtiendrez des définitions variées, voire contradictoires.
+Chacune étant révélatrice d'un point de vue particulier sur le monde.
+Vous remarquerez cependant qu'un certain consensus à tendance à se dégager.
+
+Nous vivons en effet dans une société profondément marquée par le "libéralisme".
+Nos institutions, notre état, nos lois, et même notre éducation, sont largement bâties sur cette doctrine.
+Ce qui nous amène à partager une certaine vision commune, mais restrictive, de la liberté.
+Une définition que l'on retrouve donc logiquement dans la plupart des dictionnaires[^dicoLiberte], et dans le cadran politique traditionnel indiqué plus haut.
+
+Pour sortir de ce cadre, nous devons donc revenir aux fondements de ce concept.
+
+## Définir la liberté
+
+### « L'homme libre »
+
+𒂼𒄄
+
+Initialement, le terme 
 
 Citoyenneté antique
 
@@ -42,6 +63,8 @@ Ex: liberté de mouvement
 Avoir le droit de conduire une voiture vs Avoir une voiture
 Vrai problème : se rendre à un endroit par le moyen le plus approprié
 handicap etc.
+
+### Liberté individuelle ou liberté collective
 
 ## Courants politiques se réclamant de la liberté
 
@@ -111,6 +134,10 @@ L'axe gauche-droite serait la seule distinction entre eux.
 
 (libérales) marché "libre", liberté d'expression, etc.
 
+## Synthèse
+
+<img src="/static/img/cadran-liberte.svg" alt="cadran des définition de la liberté, sur deux axes : positive/négative et individuelle/collective" style="max-width:800px" />
+
 ## Axes
 
 ### Partage du pouvoir
@@ -134,3 +161,5 @@ Autoritarisme / libéralisme / coopération
 Rapport à l'Etat (moins / plus d'Etat)
 A définir
 courbe en C (gauche-droite? (Moins de coordination (libertarien) / État centralisateur / Fédéralisme (libertaire))
+
+[^dicoLiberte]: Du plus restreint et conservateur au plus ouvert et descriptif : [Larousse](https://www.larousse.fr/dictionnaires/francais/libert%C3%A9/46994), [Le Robert](https://dictionnaire.lerobert.com/definition/liberte), [CNRTL](https://www.cnrtl.fr/definition/libert%C3%A9) (en particulier le [graphique de proxémie](https://www.cnrtl.fr/proxemie/libert%C3%A9)) et [Wiktionnaire](https://fr.wiktionary.org/wiki/libert%C3%A9).
