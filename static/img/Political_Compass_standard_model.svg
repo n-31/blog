@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg enable-background="new 0 0 543 591" version="1.1" viewBox="0 0 800 600" xml:space="preserve"
+<svg enable-background="new 0 0 543 591" version="1.1" viewBox="0 -25 800 650" xml:space="preserve"
    xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-   <style>
-      :root {
-         --text-color: #000;
-      }
-      @media (prefers-color-scheme: light) {
-         :root {
-            --text-color: #000;
-         }
-      }
-      @media (prefers-color-scheme: dark) {
-         :root {
-            --text-color: #FFF;
-         }
-      }
-      text {
-         fill: var(--text-color);
-      }
-   </style>
+   xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" style="background-color: #fff">
    <rect x="149.4" y="299.1" width="253.8" height="253.8" fill="#c8e4bc" />
    <rect x="149.4" y="44.3" width="253.8" height="253.8" fill="#f9baba" />
    <rect x="404.9" y="44.3" width="253.8" height="253.8" fill="#92d9f8" />
@@ -30,42 +12,41 @@
    <path d="m136.35 298.1v2h536.2v-2z" fill="#010101" />
    <path d="m651.15 290.61 24 8.8-24 8.8c3.8-5.2 3.8-12.4 0-17.7z" stroke="#fff" />
    <path d="m157.75 307.6-24-8.8 24-8.8c-3.8 5.2-3.8 12.4 0 17.7z" stroke="#fff" />
-   <text x="694.22064" y="306.51984" fill="#010101" font-family="Arial-BoldMT" font-size="20.4px"
+   <text x="694.22064" y="306.51984" fill="#000000" font-family="Arial-BoldMT" font-size="20.4px"
       style="line-height:0%">Droite</text>
    <text x="370.01468" y="588.49329" fill="#000000" font-family="Arial-BoldMT" font-size="20.4px"
       style="line-height:0%">Liberté</text>
    <text x="338.71088" y="17.293236" fill="#000000" font-family="Arial-BoldMT" font-size="20.4px"
       style="line-height:0%">Autoritarisme</text>
-   <g transform="translate(85.438 -141.97)" fill="#280b0b" font-family="Arial-BoldMT" font-size="20.4px">
-      <text transform="translate(412.5,287.8)" fill="#280b0b" style="line-height:0%">Droite</text>
+   <g transform="translate(85.438 -141.97)" fill="#010101" font-family="Arial-BoldMT" font-size="20.4px">
+      <text transform="translate(412.5,287.8)" fill="#010101" style="line-height:0%">Droite</text>
 
    </g>
-   <g transform="translate(85.438 142.21)" fill="#280b0b" font-family="Arial-BoldMT" font-size="20.4px">
-      <text transform="translate(412.5,287.8)" fill="#280b0b" style="line-height:0%">Droite</text>
+   <g transform="translate(85.438 142.21)" fill="#010101" font-family="Arial-BoldMT" font-size="20.4px">
+      <text transform="translate(412.5,287.8)" fill="#010101" style="line-height:0%">Droite</text>
 
    </g>
-   <g transform="translate(-172.09 142.44)" fill="#280b0b" font-family="Arial-BoldMT" font-size="20.4px">
-      <text transform="translate(412.5,287.8)" fill="#280b0b" style="line-height:0%">Gauche</text>
+   <g transform="translate(-172.09 142.44)" fill="#010101" font-family="Arial-BoldMT" font-size="20.4px">
+      <text transform="translate(412.5,287.8)" fill="#010101" style="line-height:0%">Gauche</text>
 
    </g>
-   <g transform="translate(-172.09 -141.74)" fill="#280b0b" font-family="Arial-BoldMT" font-size="20.4px">
-      <text transform="translate(412.5,287.8)" fill="#280b0b" style="line-height:0%">Gauche</text>
+   <g transform="translate(-172.09 -141.74)" fill="#010101" font-family="Arial-BoldMT" font-size="20.4px">
+      <text transform="translate(412.5,287.8)" fill="#010101" style="line-height:0%">Gauche</text>
 
    </g>
-   <g transform="translate(-185.47 173.68)" fill="#280b0b" font-family="Arial-BoldMT" font-size="20.4px">
-      <text transform="translate(423.8,287.8)" fill="#280b0b" style="line-height:0%">Libérale</text>
+   <g transform="translate(-185.47 173.68)" fill="#010101" font-family="Arial-BoldMT" font-size="20.4px">
+      <text transform="translate(423.8,287.8)" fill="#010101" style="line-height:0%">Libérale</text>
 
    </g>
-   <g transform="translate(65.713 173.68)" fill="#280b0b" font-family="Arial-BoldMT" font-size="20.4px">
-      <text transform="translate(423.8,287.8)" fill="#280b0b" style="line-height:0%">Libérale</text>
-
+   <g transform="translate(65.713 173.68)" fill="#010101" font-family="Arial-BoldMT" font-size="20.4px">
+      <text transform="translate(423.8,287.8)" fill="#010101" style="line-height:0%">Libérale</text>
    </g>
    <text x="36.720161" y="306.75443" fill="#010101" font-family="Arial-BoldMT" font-size="20.4px"
       style="line-height:0%">Gauche</text>
-   <g transform="translate(64.803 -108.79)" fill="#280b0b" font-family="Arial-BoldMT" font-size="20.4px">
-      <text transform="translate(412.5,287.8)" fill="#280b0b" style="line-height:0%">Autoritaire</text>
+   <g transform="translate(64.803 -108.79)" fill="#010101" font-family="Arial-BoldMT" font-size="20.4px">
+      <text transform="translate(412.5,287.8)" fill="#010101" style="line-height:0%">Autoritaire</text>
    </g>
-   <g transform="translate(-186.38 -108.79)" fill="#280b0b" font-family="Arial-BoldMT" font-size="20.4px">
-      <text transform="translate(412.5,287.8)" fill="#280b0b" style="line-height:0%">Autoritaire</text>
+   <g transform="translate(-186.38 -108.79)" fill="#010101" font-family="Arial-BoldMT" font-size="20.4px">
+      <text transform="translate(412.5,287.8)" fill="#010101" style="line-height:0%">Autoritaire</text>
    </g>
 </svg>
