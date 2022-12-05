@@ -10,11 +10,61 @@ tags:
   - idéologies
 ---
 
-On retrouve la même erreur dans le second axe, opposant "Authoritarian" à "Libertarian".
-C'est cependant une erreur classique, qu'on retrouve quasiment partout aujourd'hui.
+Retour cadran
 
-Concernant la liberté déjà. En français, "libertarian" peut se traduire par deux termes différents : libertarien ou libertaire.
+"Authoritarian" / "Libertarian"
+
+erreur classique
+
+## C'est quoi la liberté
+
+### Ne pas être esclave
+
+Citoyenneté antique
+
+### Faire ses propres choix ?
+
+Débat philo
+déterminisme etc.
+
+non pertinent en politique :
+
+- régir la société (non l'individu)
+- responsabilité nécessaire (loi)
+
+### Liberté négative ou liberté positive
+
+...def
+
+(transition) opposition plus grande et fondamentale
+
+Ex: liberté de mouvement
+Avoir le droit de conduire une voiture vs Avoir une voiture
+Vrai problème : se rendre à un endroit par le moyen le plus approprié
+handicap etc.
+
+## Courants politiques se réclamant de la liberté
+
+En français, "libertarian" peut se traduire par deux termes différents : libertarien ou libertaire.
+
 Deux idéologies centrées sur la liberté et l'opposition à l'État, mais en partant de définitions diamétralement opposées.
+
+### Libéralisme
+
+DDHC
+
+homme loup pour l'homme
+
+Rejet de la démocratie (cit Platon)
+
+nécessité capitaliste (cf. L'esprit)
+
+négation des contraintes systémiques
+
+autoritarisme ?
+paradoxe néo-libéral / barbara stiegler
+
+### Libertariens
 
 Pour faire court, le libertarien se focalise sur sa liberté négative.
 Rien ne doit entraver ma propre liberté !
@@ -27,6 +77,12 @@ Vive la méritocratie !
 
 Le libertarien n'a donc pas besoin de remettre fondamentalement en cause le système actuel.
 Ce qu'il leur vaut d'ailleurs l'appellation "anarcho-capitaliste".
+
+Place cadran (autoritarisme)
+
+### Libertaires
+
+Citation Bakounine
 
 Le ou la libertaire, de son côté, fait primer la liberté positive de tout le monde.
 Pour bien vivre ensemble, on a besoin de règles.
@@ -51,4 +107,30 @@ Les anglophones disent même "_left libertarian_" ou "_social libertarian_" pour
 Si on en revient à notre quadrant de départ, on a donc deux concepts diamétralement opposés présentés comme équivalent.
 L'axe gauche-droite serait la seule distinction entre eux.
 
-Ce qui m'amène enfin à l'autorité.
+## Expériences modernes
+
+(libérales) marché "libre", liberté d'expression, etc.
+
+## Axes
+
+### Partage du pouvoir
+
+liberté = être impliqué dans le processus décisionnel
+
+minimum de contraintes pour un maximum de personne
+
+différence libéraux / libertaires
+
+« On admet qu’est démocratique le fait que les magistratures soient attribuées par tirage au sort, oligarchiques le fait qu’elles soient pourvues par l’élection » (Politique IV. 9, 1294b8)
+
+autocratie / oligarchie / démocratie
+
+Gauche droite : ordre, autorité, leader pour "libérer les potentiels" / coopération, égalité, justice sociale = liberté collective pour "permettre à tous les potentiels de se réaliser"
+
+### Exercice du pouvoir et rapports sociaux
+
+Autoritarisme / libéralisme / coopération
+
+Rapport à l'Etat (moins / plus d'Etat)
+A définir
+courbe en C (gauche-droite? (Moins de coordination (libertarien) / État centralisateur / Fédéralisme (libertaire))
