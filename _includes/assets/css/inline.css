@@ -513,7 +513,9 @@ pre, eqn {
 }
 
 .footnote-ref {
-	padding-left: .2rem;
 	font-size: .7rem;
 }
 
+.footnote-ref ~ .footnote-ref :before {
+  content: ',\2009'
+}
