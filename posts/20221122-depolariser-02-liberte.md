@@ -1,7 +1,7 @@
 ---
 title: "Liberté politique : des visions diamétralement opposées - dé·polariser #2"
 date: 2022-12-06T18:00:00Z
-permalink: /posts/depolariser/02-liberte.html
+permalink: /posts/depolariser/02-liberte-old.html
 summary: "Libéralisme, Néo-libéralisme, Libertaires, Libertariens ... de nombreux courants de pensée se revendiquent de la liberté. Ces différentes visions sont-elle réceonciliables ?"
 image: /static/img/designecologist-P1sMtXL4jow-unsplash.jpg
 tags:
@@ -91,13 +91,15 @@ Se pose alors la question du déterminisme.
 Si les sciences nous enseignent que tout n'est que cause et conséquences, somme nous vraiment "libres" de faire ce que l'on souhaite ?
 La liberté n'est-elle qu'une illusion ?
 
-D'un point de vue politique, cette question a peu d'importance[^philoDeter].
+Cette question n'a cependant pas sa place en politique[^philoDeter].
 Car il est indispensable de supposer que chaque personne dispose du libre arbitre pour faire société et exercer une justice.
 Si nous ne considérons les individus que comme des automates sans réelle volonté propre, nous annulons du même coup tout concept de responsabilité.
-Nous devrions acquitter tous les meurtriers, puisqu'ils n'auraient jamais "choisi" de tuer.
 
-Si une telle société semble impensable, la question du déterminisme reste malgré tout essentielle pour penser la liberté politique.
-Car la liberté reste le plus souvent définie en opposition à une contrainte.
+Pour paraphraser John Stuart Mill[^millIntro] :
+
+> Le sujet de cet article n’est pas ce que l’on appelle le libre arbitre mais la liberté sociale ou civile : la nature et les limites du pouvoir d'action humain en société.
+
+Malgré tout, cette liberté reste le plus souvent définie en opposition à une contrainte extérieure.
 Une "autonomie" face à un maitre, un patron, un état et des lois, mais aussi une famille, éducation, bref, un contexte déterminant.
 
 ## La liberté positive opposée à la liberté négative
@@ -132,15 +134,17 @@ Le premier réduit la définition pour mieux les nier.
 
 Le second lui construit un adversaire qui ne serait qu'une « tyrannie déguisée ».
 
-Bien malgré eux, Berlin et MacGallum fournissent pourtant un parfait outil pour dépasser leur vision et voir la liberté dans son intégralité[^positiveIntegralité][^wikipediaNegPos].
+Bien malgré eux, Berlin et MacGallum fournissent pourtant un parfait outil pour dépasser leur vision et penser la liberté au delà du cadre classique[^positiveIntegralité][^wikipediaNegPos].
 
 Pour l'illustrer en des termes contemporains, nous pouvons prendre l'exemple de la liberté d'expression :
 
 - Vue comme une liberté négative, la liberté d'expression se résume à l'absence de censure. Si personne ne m'empêche de m'exprimer[^censureLibérale], alors je suis libre de le faire.
 - Prise sous l'angle de la liberté positive, elle révèle cependant un tout autre aspect de la société. Car nous devons nous poser la question : "Suis-je véritablement, concrètement, libre de m'exprimer ?" Autrement dit, de "faire porter ma voix", et donc d'être entendu.
 
-Même autorisée à s'exprimer, une femme que personne n'écoute et qui est constamment interrompue n'est pas, dans les faits, "libre de s'exprimer".
-Il en va de même pour une personne racisée, ramenée négativement à un cliché du "barbare" et du "sauvage"[^kiffeBarbare], ainsi que pour toute personne subissant un handicap impactant son expression (tel qu'un bégaiement ou une neuroatypie) ou ayant un "parlé populaire".
+Les exemples d'atteinte à la liberté positive sont nombreux.
+Pour n'en donner qu'un, nous pouvons évoquer la liberté d'expression dans un cadre sexiste.
+Une femme participant à une discussion est généralement peu écoutée / entendue, et souvent interrompue.
+Elle n'est donc, dans les faits, pas pleinement libre d'exprimer et faire valoir ses opinions[^libParolePresse].
 
 L'idée de liberté positive de parole fait ici écho au concept d'iségorie (du grec ancien [_ἰσηγορία_, _isêgoriía_](https://fr.wiktionary.org/wiki/%E1%BC%B0%CF%83%CE%B7%CE%B3%CE%BF%CF%81%CE%AF%CE%B1)), soit littéralement l'équité de la liberté de parole.
 Car la démocratie exige bien de "donner des chances" égales à chacune et chacun de s'exprimer.
@@ -169,7 +173,14 @@ On retrouve ainsi toute la philosophie libérale dans la déclaration des droits
 La démocratie nouvelle établie ainsi les bases de l'[isonomie](https://fr.wiktionary.org/wiki/isonomie) (égalité de droits politiques des citoyens)[^limitesDDHC].
 Un équilibre précaire, entre égalité et liberté négative.
 
-Leur objectif atteint, les libéraux évoluent vers la conservation de ce système, passant ainsi de la gauche à la droite politique.
+De plus, les textes établis, notamment la DDHC, ne font que _déclarer_ des libertés.
+Ce sont des libertés formelles, c'est-à-dire que l'État proclame ces libertés, sans se soucier davantage de les appliquer dans la réalité.
+C'est en suivant ce constat que Marx parlera de liberté "bourgeoises"[^bourgeoisMarx], car établies par et pour cette classe dominante seule.
+Une action reste nécessaire pour établir ces libertés comme des libertés concrètes (ou réelles)[^reelPositif].
+
+Mais proclamer quelques libertés réelles minimales, entourées d'une nuée de libertés négatives formelles suffit à l'essentiel des libéraux.
+Ils vont donc rapidement évoluer vers la conservation de ce système, glissant ainsi vers la droite du spectre politique.
+
 L'État, la république et le droit, en premier lieu celui de propriété, sont sacralisés et dévoyés.
 Le droit n'est plus un moyen permettant de garantir les libertés par l'égalité, mais une fin en soi.
 Du même coup, l'égalité devient secondaire, voir l'ennemie, face à la liberté individuelle d'entreprendre et posséder.
@@ -239,6 +250,8 @@ courbe en C (gauche-droite? (Moins de coordination (libertarien) / État central
 
 [^dicoLiberte]: Du plus restreint et conservateur au plus ouvert et descriptif : [Larousse](https://www.larousse.fr/dictionnaires/francais/libert%C3%A9/46994), [Le Robert](https://dictionnaire.lerobert.com/definition/liberte), [CNRTL](https://www.cnrtl.fr/definition/libert%C3%A9) (en particulier le [graphique de proxémie](https://www.cnrtl.fr/proxemie/libert%C3%A9)) et [Wiktionnaire](https://fr.wiktionary.org/wiki/libert%C3%A9).
 
+[^millIntro]: « Le sujet de cet essai n'est pas ce qu'on appelle le libre arbitre (doctrine opposée à tort à la prétendue nécessité philosophique), mais la liberté sociale ou civile : la nature et les limites du pouvoir que la société peut légitimement exercer sur l'individu. » John Stuart MILL, "[_De la liberté_](http://classiques.uqac.ca/classiques/Mill_john_stuart/de_la_liberte/de_la_liberte.html)", 1859, ed. UQAC, trad. Laurence Lenglet, 1990, p. 5
+
 [^peon]: Aujourd'hui, le terme "esclavage" est essentiellement associé dans les esprits à la traite négrière. La traite d'êtres humains comme des biens commerciaux est effectivement lié à l'économie du commerce triangulaire proto-capitaliste. L'esclavage a cependant pris de nombreuses formes au cours de l'Histoire. Dans l'antiquité (de la Mésopotamie à la chute de l'Empire Romain), l'esclavage était bien plus le fait de la dette et de la justice que du commerce. Dans beaucoup de cas (et en particulier dans le cas présent), il pourrait donc paraitre plus juste de parler de péonage ou servage. Ces deux termes sont cependant encore plus anachroniques.
 
 [^mésopotamieArchaique]: Soit le début de l'âge de bronze et la naissance de l'écriture cunéiforme, marquant le passage de la préhistoire (Néolitique) à l'Histoire dans cette région du monde.
@@ -262,9 +275,12 @@ courbe en C (gauche-droite? (Moins de coordination (libertarien) / État central
 
 [^chicagoBoysVideos]: Pour une introduction aux liens entre le néo-libéralisme et la dictature de Pinochet au Chili, voir les courtes vidéos de Stupid Economics : "[_Chili: Le laboratoire des néolibéraux_](https://www.youtube.com/watch?v=GeJWx9WM3ag&t=898s)" et de Oui d'accord : "[_Néolibéralisme : France/Chili, même combat !_](https://www.youtube.com/watch?v=J-f11iOy64s)"
 
-[^philoDeter]: Cela ne signifie pas pour autant qu'elle n'ai pas d'importance dans d'autres domaine. Tout question, de mon point de vue, mérite d'être analysée, ce qui est précisément le rôle et le but des sciences et de la philosophie.
+[^philoDeter]: La question du libre-arbitre est malgré tout souvent invoquée par des philosophes qui traitent de liberté civile et sociale. Cela est légitime pour des auteurs anciens pour lesquelles ce point était nouveau et peu étudié, dans un contexte où tous les sujets avaient tendances à se chevaucher. Ce n'est plus le cas. À ma connaissance, les auteurs modernes ne l'évoquent donc que dans un but d'exhaustivité (par pédagogie ou éviter d'avance certaines critiques), ou de manière malhonnête pour discréditer une position opposée en faisant appel à un truisme.
 
-[^berlinPhilo]: Isaiah Berlin était et est encore, plus souvent présenté comme un "historien des idées". Comme il le revendiquait lui-même, Berlin n'a cependant jamais pleinement embrassé la rigueur de la méthode scientifique pour pouvoir être reconnu comme tel. Au lieu de cela, il affirme avoir essentiellement lu et tenté de comprendre les différents auteurs par empathie. Il énonçait également l'essentiel de ses idées à l'oral, afin de limiter sa propre responsabilité (« Les paroles s’envolent, et aucune responsabilité ne subsiste. »). La lecture de la pensée de ce philosophe est intéressante, mais laborieuse, car il est nécessaire de toujours garder à l'esprit que ses références constantes à d'autres penseurs ne sont pas de réelles retranscriptions, mais l'énonciation de sa perception propre. Les erreurs d'interprétations et incohérences sont ainsi omniprésentes dans son œuvre. Voir Cécile Hatier, « [_Lectures critiques_](https://www.cairn.info/revue-francaise-de-science-politique-2002-5-page-649.htm) », Revue française de science politique, vol. 52, no. 5-6, 2002, pp. 649-651.
+    Cela ne signifie pas pour autant qu'elle n'ai pas d'importance dans d'autres domaine.
+    Toute question, de mon point de vue, mérite d'être analysée, ce qui est précisément le rôle et le but des sciences et de la philosophie.
+
+[^berlinPhilo]: Isaiah Berlin était et est encore plus souvent présenté comme un "historien des idées". Comme il le revendiquait lui-même, Berlin n'a cependant jamais pleinement embrassé la rigueur de la méthode scientifique pour pouvoir être reconnu comme tel. Au lieu de cela, il affirme avoir essentiellement lu et tenté de comprendre les différents auteurs par empathie. Il énonçait également l'essentiel de ses idées à l'oral, afin de limiter sa propre responsabilité (« Les paroles s’envolent, et aucune responsabilité ne subsiste. »). La lecture de la pensée de ce philosophe est intéressante, mais laborieuse, car il est nécessaire de toujours garder à l'esprit que ses références constantes à d'autres penseurs ne sont pas de réelles retranscriptions, mais l'énonciation de sa perception propre. Les erreurs d'interprétations et incohérences sont ainsi omniprésentes dans son œuvre. Voir Cécile Hatier, « [_Lectures critiques_](https://www.cairn.info/revue-francaise-de-science-politique-2002-5-page-649.htm) », Revue française de science politique, vol. 52, no. 5-6, 2002, pp. 649-651.
 
 [^berlin2Liberty]: Isaiah Berlin, “_Two Concepts of Liberty_” in Four Essays On Liberty, Oxford University Press, 1969, p. 118-172. Extrait disponible sur [utahtech.edu](https://cactus.utahtech.edu/green/B_Readings/I_Berlin%20Two%20Concpets%20of%20Liberty.pdf).
 
@@ -297,7 +313,7 @@ courbe en C (gauche-droite? (Moins de coordination (libertarien) / État central
     Demeure une critique du légalisme qui, si elle est abordée sous un angle moraliste plus que douteux, n'en est pas moins recevable et utile.
     Mais Berlin rate ici, encore une fois, l'occasion de l'actualiser et ainsi de donner à son discours le moindre intérêt.
 
-    Si l'on dépouille son oeuvre des considérations morales et jugement attifs plus ou moins explicites, ou peut, malgrès tout, y retrouver quelques idées méritant un réel approfondissement. Idées émanant d'autres auteurs qui ont su bien mieux les formuler avant lui.
+    Si l'on dépouille son oeuvre des considérations morales et jugement attifs plus ou moins explicites, on peut, malgrès tout, y retrouver quelques idées méritant un réel approfondissement. Idées émanant d'autres auteurs qui ont su bien mieux les formuler avant lui.
     On citera notamment T. H. Green, qui, prêt d'un siècle plus tôt (1886), décrivait cette liberté positive comme « l'état [permettant à un sujet] de se réaliser conformément à l'idée qu'il se fait de lui-même ».
 
 [^censureLibérale]: On remarquera au passage qu'aujourd'hui, la contradiction elle-même, aussi bienveillante soit-elle, est facilement désignée par certains comme une censure. Il s'agit en effet d'un héritage direct de cette pensée libérale, restreignant la liberté à sa dimension négative.
@@ -327,7 +343,22 @@ courbe en C (gauche-droite? (Moins de coordination (libertarien) / État central
 
 [^limitesDDHC]: Concernant les limites de cette isonomie, voir l'article [_France, pays des droits de l'homme ?_](/posts/histoire-fr-racisme).
 
+[^bourgeoisMarx]: Dans le sens marxiste, "bourgeois" désigne la classe dominante détenant et vivant de son capital, en opposition au prolétariat, contraint à vendre sa force de travail pour survivre, car possédant pas ou peu de capital. Ce qui n'a pas grand-chose à voir avec la "bourgeoisie culturelle" de Jean-Eudes et Marie-Chantal&mdash;_aaan_.
+
+[^reelPositif]: Si les deux concepts semblent proches, il ne faut cependant pas confondre "liberté négative/positive" et "formelle/réelle". Dire qu'une liberté n'est que formelle revient à dire qu'elle n'est tout simplement pas présente dans la vie réelle. Par exemple parce que le texte de loi correspondant n'est pas appliqué. Ou encore parce qu'il ne s'agit que d'une déclaration peu suivie de faits comme la DDHC.
+
+    Pour prendre un exemple : on peut dire que la liberté négative de déplacement (aller à un endroit si on le désire) n'est que formelle dans un pays si celui-ci déclare l'avoir établie, mais continue dans les faits de maintenir des postes frontières entre chaque département (un contrainte continue à s'exercer). À l'opposé, une liberté positive de déplacement consisterait à s'assurer que la personne a concrètement les moyens de se déplacer (une voiture, avec accès au carburant et moyen de se les payer, par exemple) une fois ces postes frontière supprimés.
+
+    En France, l'article 1 de la DDHC, « les hommes naissent et demeurent libres et égaux en droits », est un cas d'école de liberté formelle, comme le démontre [la perpétuation de l'esclavage et du racisme d'état après la révolution](/posts/histoire-fr-racisme).
+
+    Aujourd'hui, la Déclaration universelle des droits de l'homme peut-être considérée comme purement formelle.
+    La Convention européenne des droits de l'homme, en revanche, peut être considérée comme un effort de rendre celle-ci concrête, puisqu'elle permet un contrôle judiciaire de son respect.
+    Pour autant, son but essentiel demeure de protéger des droits et libertés individuelles.
+    Le fait que les libertés afférantes soient négatives ou prositives reste sujet à débat.
+
 [^macronPhiloDr]: Il apparait en une phrase qu'Emmanuel Macron était déjà, en 2017, profondément ancré dans la logique libéral-conservatrice, donc indéniablement et radicalement de droite (et même bien plus à droite que le gouvernement précédent dont il faisait partie). S'il vous fallait encore une preuve que des connaissances élémentaires en philosophie politique sont concrètement utiles, ne la cherchez pas plus loin.
+
+[^libParolePresse]: On pourrait également évoquer ici des questions liées à la liberté collective (liberté de la presse, accès aux médias, etc.). J'y reviens plus loin.
 
 [^politikonSpitz]: Politikon, "[_Sauver la République ? (défaire les libertariens)_](https://www.youtube.com/watch?v=MzBQyK27SvA)", Youtube, 20 Nov. 2022
 
