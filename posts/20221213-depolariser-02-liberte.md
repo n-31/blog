@@ -55,7 +55,7 @@ Car il ne fait qu'accomplir sa nature, en réponse à la nécessité.
 
 Dans l'antiquité, être libre, ça veut donc dire, en gros, ne pas être pauvre, et pas grand-chose de plus.
 
-## La liberté comme non-interférence
+## La liberté comme non-ingérence
 
 <img src="/static/img/tim-hufner-sQ5yREHU_fI-unsplash.jpg" alt="barrière avec un panneau keep out" />
 
@@ -91,7 +91,7 @@ Avec :
 
 Pour le dire autrement, la liberté de quelqu'un se réduit, pour MacCallum et beaucoup d'autres avant et après lui, à une « _absence d'un élément de contrainte qui empêche l'agent de (ne pas) faire ou de (ne pas) devenir quelque chose_ » [^skinner2002].
 
-La liberté est une "_**non-interférence**_", point barre.
+La liberté est une "_**non-ingérence**_", point barre.
 En gros, si rien ni personne ne vient empiéter sur mes plates bandes, alors je suis libre.
 
 ## La liberté positive contre la liberté négative
@@ -100,8 +100,7 @@ En gros, si rien ni personne ne vient empiéter sur mes plates bandes, alors je 
 
 MacGallum écrit surtout cet article en réponse à un autre philosophe[^berlinPhilo] : [Isaiah Berlin](https://en.wikipedia.org/wiki/Isaiah_Berlin).
 
-Neuf ans plus tôt (1958), Berlin donne une conférence qui fera date : "_Two Concepts of Liberty_"[^berlin2Liberty] (certains disent même qu'il s'agit de la conférence la plus influente de la philosophie politique moderne, rien que ça).
-
+Neuf ans plus tôt (1958), Berlin donne une conférence qui fera date : "_Two Concepts of Liberty_"[^berlin2Liberty].
 Il y distingue deux formes de liberté[^berlinBlabla] :
 
 1. une liberté _négative_, définie par une absence d'entraves
@@ -111,7 +110,7 @@ Vous remarquerez au passage que la liberté négative correspond assez bien à l
 Oui, son article était une réponse à Berlin.
 Mais dans les grandes lignes, cette réponse se résume : plusieurs formes de liberté, c'est sale, bouh vilain pas beau.
 
-Berlin comme MacGallum n'ont qu'une idée en tête : défendre _leur_ vision restreinte de la liberté par non-interférence.
+Berlin comme MacGallum n'ont qu'une idée en tête : défendre _leur_ vision restreinte de la liberté par non-ingérence.
 
 Berlin définie la liberté positive pour mieux regrouper toute autre définition dans un bloc informe.
 Ce qui lui permet de dire plus facilement que ce n'est au final qu'une « tyrannie déguisée ».
@@ -133,7 +132,7 @@ Remarquez d'ailleurs qu'on peut aller plus loin. Contredire quelqu'un, même de 
 "En me contradisant, tu m'empêche de m'exprimer tel que je le souhaite.
 Tu imposes donc une limite à ma liberté d'expression.
 Et limiter la liberté d'expression, c'est de la censure !"
-Et oui, la liberté par "non-interférence", c'est aussi la philo des ouins-ouins.
+Et oui, la liberté par "non-ingérence", c'est aussi la philo des ouins-ouins.
 
 Mais si on s'intéresse à la liberté positive, les choses deviennent très différentes[^isegorie].
 On doit se poser la question : "Suis-je véritablement, concrètement, libre de m'exprimer ?"
@@ -147,7 +146,7 @@ Est-ce qu'on peut vraiment dire que j'étais libre de m'exprimer ?
 
 <img src="/static/img/revolution_france.jpg" alt="Eugène Delacroix - Le 28 Juillet. La Liberté guidant le peuple - huile sur toile" />
 
-En général, les gens (et surtout les politiciens) qui parlent de liberté en France de nos jours pensent "non-interférence".
+En général, les gens (et surtout les politiciens) qui parlent de liberté en France de nos jours pensent "non-ingérence".
 Bien évidemment, ce genre de consensus ne sort pas de nulle part.
 La vision "négative" de la liberté est au fondement du libéralisme.
 Mais attention : libéralisme n'est pas juste un synonyme de "liberté économique", destruction des services publics, etc.
@@ -161,7 +160,7 @@ L'idéologie libérale a énormément jouée dans la fondation du nouveau pouvoi
 Or, si on soit ce point de vue, « l'homme est un loup pour l'homme. »[^hobbesLoup]
 Il faut donc ... empêcher les gens de manger leur voisin[^mangerVoisin] ?
 Problème : la liberté c'est bien, donc intervenir pour empêcher les gens de faire quelque chose, c'est mal (oui, même s'il  allait bouffer son voisin).
-Solution : la "Démocratie"[^démocratieLibéraux][^isonomie].
+Solution : la "Démocratie"[^democratieLiberaux][^isonomie].
 
 Si le peuple décide d'un commun accord de limiter ses propres liberté, ça passe.
 Grâce à la démocratie, l'État et ses lois deviennent l'incarnation de la volonté générale.
@@ -170,15 +169,16 @@ En limitant les libertés de chacun, le droit devient le garant des libertés fo
 La déclaration des droits de l'homme et du citoyen (DDHC) de 1789 incarne parfaitement cette idée libérale :
 
 > - Article 1 : « Les hommes naissent et demeurent libres et égaux en droits. »
-> - Article 4 : « La liberté consiste à pouvoir faire tout ce qui ne nuit pas à autrui » &mdash; définition même de la liberté négative
+> - Article 4 : « La liberté consiste à pouvoir faire tout ce qui ne nuit pas à autrui »
 
-Notez ici que la DDHC est une déclaration.
-On déclare des droits et libertés.
+Notez que la DDHC _déclare_ des droits et libertés.
 Ce qui ne signifie pas forcément qu'on fasse quoi que ce soit pour les garantir[^limitesDDHC].
 C'est ce qu'on appelle une liberté _**formelle**_ (une pure déclaration dans la forme)[^bourgeoisMarx].
-L'opposé serait une liberté _réelle_ ou _concrète_, qu'on peut constater dans la vie de tous les jours[^reelPositif].
+À l'opposé, les libertés qu'on peut constater concrètement dans la vie de tous les jours sont dites _réelle_ ou _concrète_[^reelPositif].
 
 ## La liberté selon les néolibéraux
+
+<img src="/static/img/singer-a-corporate-revolution-banner.png" alt="A Corporate Revolution de Singer, parodie de La Liberté Guidant le Peuple où les mascotte de multinationales européennes remplacent les révolutionnaires" />
 
 Proclamer quelques libertés réelles minimales entourées d'une nuée de libertés négatives formelles suffit à l'essentiel des libéraux.
 Leur "nouveau monde" a été bâti.
@@ -195,12 +195,14 @@ On peut alors tracer une ligne de démarcation politique simpliste, comme vous l
 
 <lite-youtube videoid="54rzz74ikLI" nocookie></lite-youtube>
 
-À droite « il y en a qui vont réussir d'autres non, tant pis » (sic) puisque ceux qui "réussissent" "méritent" tout, y compris leur "liberté" de coercition d'autrui.
-À gauche « les gens sont égaux, mais ils ne sont pas forcément libres » puisqu'ils se doivent de "restreindre" injustement la liberté des plus "méritants"[^macronPhiloDr].
+À droite « il y en a qui vont réussir d'autres non, tant pis » (sic) puisque ceux qui réussissent méritent tout, y compris leur liberté de coercition d'autrui.
+À gauche « les gens sont égaux, mais ils ne sont pas forcément libres ».
+Parce que la gauche souhaite restreindre a liberté des plus méritants, ce qui est injuste[^macronPhiloDr].
 
-Dès lors, la république a le devoir d'user de son pouvoir coercitif aussi largement que nécessaire afin de défendre la propriété et la "liberté d'entreprendre" des plus "méritants".
+La république a le devoir d'user de son pouvoir coercitif aussi largement que nécessaire afin de défendre la propriété et la liberté d'entreprendre.
 Il faut détruire l'État providence qui fausse la méritocratie en récompensant les moins volontaires.
-Mais la république sacrée, le droit de propriété et la "liberté économie" n'emportant pas l'adhésion claire de la population[^sormanInterview].
+
+Problème : la république sacrée, le droit de propriété et la liberté économique n'emportent pas l'adhésion claire de la population[^sormanInterview].
 Il est donc légitime et nécessaire d'user d'autoritarisme pour les imposer[^autoritarismeMacron], et de contourner autant que possible la démocratie vie des institutions supranationales.
 
 Toutes ces idées caractérisent le passage du libéralisme au _**néolibéralisme**_.
@@ -214,7 +216,7 @@ Au final, cette vision colle assez bien ce que disait Berlin de la liberté posi
 
 ## L'évolution finale du néolibéralisme
 
-<img src="/static/img/Final-Form.jpg" alt="DBZ Freezer: you fool, this isn't even my final form" height="300" />
+<img src="/static/img/freezer-transformations.jpeg" alt="DBZ Freezer: you fool, this isn't even my final form" />
 
 Dans le même temps, le libéralisme prend encore une nouvelle forme : le _**libertarianisme**_.
 
@@ -244,32 +246,25 @@ Sous l'influence de ces personnalités de la droite américaine, le néolibéral
 Histoire d'être exhaustif, on va finalement devoir définir ce qui serait l'opposé de toutes ces visions de la liberté.
 
 Un nouveau terme est apparu récemment dans les médias : "_**illibéralisme**_".
-Une popularité qu'on doit essentiellement au premier ministre / quasi-dictateur Hongrois, Viktor Orbán.
 
-Tous les ans, Orbán profite de l’université d’été de Bálványos à Tusványos, en Transylvanie (ça ne s'invente pas) pour donner un long discours de "philosophie" politique.
-Il commence à parler concrètement de "démocratie illibéral" dans son discours de 2014[^orban2014] :
-
-> « _La nation hongroise n'est pas une simple somme d'individus, mais une communauté qui a besoin d'être organisée, renforcée et développée, et en ce sens, le nouvel État que nous construisons est un État illibéral, un État non libéral._
-> _Elle ne nie pas les valeurs fondatrices du libéralisme, comme la liberté, etc. Mais elle ne fait pas de cette idéologie un élément central de l'organisation étatique, mais applique à sa place une approche spécifique, nationale, particulière._
-> [...]
-> _La force du "soft power" américain se détériore, car les valeurs libérales incorporent aujourd'hui la corruption, le sexe et la violence. [...] L'Europe occidentale se préoccupe tellement de la résolution de la situation des immigrés qu'elle en oublie la classe ouvrière blanche._ »
-
-On voit donc clairement que le leader du [Fidesz](https://fr.wikipedia.org/wiki/Fidesz) affirme ici l'opposition de son mouvement au _liberalism_ dans le sens américain.
+Un mot qui est surtout redevenu tendance à cause du premier ministre Hongrois Viktor Orbán, qui l'utilise lui-même à la moindre occasion.
+Dans ses discours, le leader du [Fidesz](https://fr.wikipedia.org/wiki/Fidesz) affirme régulièrement son opposition au liberalisme.
+Mais il utilise le terme dans son sens américain.
 Autrement dit, il fustige comme beaucoup d'autres le "wokisme", le "lobby LGBT", l'accueil des migrants, etc.
-En revanche, il ne s'oppose absolument pas au néolibéralisme lui-même, ni même au libéralisme contemporain.
+En revanche, il ne s'oppose absolument pas au néolibéralisme lui-même, ni même au libéralisme contemporain[^smnOrban][^discoursOrgban].
 
-Le terme "démocratie illibérale" est utilisé pour désigner tous les gouvernements qui, comme en Hongrie, font toujours des élections, mais exercent dans les faits un pouvoir autoritaire réactionnaire.
+Une rhétorique qu'on retrouve chez [Giorgia Meloni](https://fr.wikipedia.org/wiki/Giorgia_Meloni)[^quiEstMeloni], présidente du parti fasciste italien [Frères d'Italie](https://fr.wikipedia.org/wiki/Fr%C3%A8res_d%27Italie_(parti_politique)), élue présidente du conseil des ministres grâce à [coalition de centre droit](https://fr.wikipedia.org/wiki/Coalition_de_centre_droit) libéral-fasciste, et présidente du [Parti des conservateurs et réformistes européens](https://fr.wikipedia.org/wiki/Parti_des_conservateurs_et_r%C3%A9formistes_europ%C3%A9ens)[^allianceECR] depuis 2020.
+
+Aujourd'hui, on utilise le terme "démocratie illibérale" pour désigner tous les gouvernements qui maintiennent des élections, mais exercent dans les faits un pouvoir autoritaire réactionnaire.
 Ce qui inclue par exemple la Russie de [Poutine](https://fr.wikipedia.org/wiki/Vladimir_Poutine#Pr%C3%A9sident_de_la_f%C3%A9d%C3%A9ration_de_Russie_et_du_gouvernement), le Brésil de [Bolsonaro](https://fr.wikipedia.org/wiki/Jair_Bolsonaro) ou l'Inde de [Modi](https://fr.wikipedia.org/wiki/Narendra_Modi).
 
 Les "démocraties" illibérales seraient des régimes en "dérive autoritaire" _par_ leur rejet du libéralisme _donc_ de la liberté.
-Ce qui permet de sous-entendreque la _démocratie_ et la _liberté économique_ constituent notre dernier rempart contre ce type de dictature.
+Ce qui permet de sous-entendre que la _démocratie_ et la _liberté économique_ constituent notre dernier rempart contre ce type de dictature.
 Un discours dans la continuité de la sacralisation et du détournement de ces concepts par le courant néolibéral.
 
 Mais la question de la liberté en politique est bien plus complexe qu'une simple opposition libéralisme / illibéralisme.
-Il est primordial de déconstruire cette idée que le libéralisme, et en particulier le néolibéralisme seraient des incarnations de la liberté.
-
-Une "démocratie illibérale" n'est pas une démocratie, mais un régime autoritaire.
-Les élections ne garantissent pas la démocratie.
+Il est primordial de déconstruire cette idée que le libéralisme, et en particulier le néolibéralisme seraient des incarnations de la liberté et de la démocratie.
+Les élections ne font pas la démocratie.
 En particulier quand le gouvernement en place détient, directement[^rsfOrban][^oefOrbanMedia] ou indirectement[^macronMediasMD], le pouvoir médiatique.
 Mais la question du partage du pouvoir, donc de la démocratie, est encore un autre sujet.
 Nous aurons très prochainement l'occasion de revenir là-dessus en définissant l'axe démocratie-autoritarisme.
@@ -279,9 +274,9 @@ En Europe, la plupart des mouvements ouvertement néolibéraux se revendiquent d
 Nous avons déjà vu comment ils s'en sont détournés.
 Ils peuvent malgré tout faire appel à cette tradition en mettant en avant leur attachement à des libertés formelles (en particulier les Droits Humains).
 Cela ne signifie pas pour autant qu'ils cherchent réellement à les appliquer.
-Très souvent, ils vont même jusqu'à s'y opposer dans les faits.
+Dans les faits, il arrive même régulièrement qu'ils s'y opposent.
 
-L'illibéralisme se démarque en affichant plus ou moins ouvertement son rejet de ces principes.
+L'illibéralisme se démarque en assumant son rejet de ces principes.
 Pour ce qui est de la liberté, la première différence profonde entre les deux courants n'est donc pas factuelle, mais formelle.
 
 Les lignes se brouillent et se mélangent entre deux camps politiques ayant une forte tendance à dévoyer les valeurs dont ils se réclament[^orbanTatcher].
@@ -292,23 +287,181 @@ Il arrive même qu'ils s'opposent.
 Là aussi, on aura l'occasion de voir ça dans de prochains articles.
 
 Reste que la conception libérale de la liberté peut parfaitement s'accorder du totalitarisme[^chicagoBoys].
-Du point de vue idéologique, cela semble essentiellement découler de deux erreurs fondamentales.
+Pour deux raisons, toutes liées à leur vision individualiste.
 
 ## L'erreur fondamentale de la liberté négative
 
 <img src="/static/img/matthew-henry-fPxOowbR6ls-unsplash.jpg" alt="Deux personnes sous le regard de centaines de caméras de surveillance" />
 
-La première de ces erreurs vient de la définition même de la liberté comme une non-interférence.
+La première de ces erreurs vient de la définition même de la liberté négative.
+
+Nous sommes moins libres quand quelqu'un interfère dans notre vie.
+Nous empêche directement de faire ce que l'on souhaite.
+
+Mais cela ne couvre pas tous les contextes.
+Il y en a un en particulier que Skinner et d'autres ignorent totalement, disant en gros "c'est pas le sujet".
+Pourtant, le sujet est là depuis très longtemps.
+Au moins depuis l'antiquité.
+
+On l'a déjà vu, le droit romain distinguait deux groupes d'individus : libre (_civis_), ou esclave.
+L'esclave étant _sub postestate_ ; "sous le joug ou soumis à la volonté de quelque."
+
+Les romains le savaient bien : il n'est pas nécessaire de constamment intervenir pour limiter la liberté de quelqu'un.
+Le fait de _savoir_ que je suis sous le joug de quelqu'un d'autre suffit à m'enlever ma liberté.
+Si je fais ou ne fais pas quelque uniquement parce que quelqu'un me le permet, alors je ne suis pas libre.
+Avoir _conscience_ que ce pouvoir peut m'être retiré à tout moment suffit à me rendre esclave.
+
+Pour un régime ou une personne autoritaire, il n'est pas indispensable d'intervenir pour imposer chaque règle à chaque instant.
+Je peux me l'imposer à moi-même, qu'elle soit dite ou non, sachant que je suis constamment soumis à l'arbitraire.
+
+Imaginez-vous à un diner avec vos beaux-parents, votre patron ...
+Ou n'importe quel personne dont vous craignez l'autorité ou les humeurs hein, peu importe.
+Est-ce que vous avez le sentiment d'être libre de parler comme vous l'entendez ?
+Ou est-ce que vous soignez chaque mot, chaque geste, pour éviter de déplaire ?
+Soyez honnête avec vous-même.
+Vous êtes sous la domination de cette personne.
+
+--
+
+Histoire de boucler la boucle, je vais donc utiliser la très bonne réponse de [Quentin Skinner]() à Isaiah Berlin.
+En 2002, Skinner écrit un papier intitulé "[_Un troisième concept de liberté au-delà d'Isaiah Berlin et du libéralisme anglais_](https://www.cairn.info/revue-actuel-marx-2002-2-page-15.htm)".
 
 TODO
+aveugle formellement libre de lire (personne ne l'en empeche)
+« La liberté n'est pas uniquement restreinte par la réalité ou la menace d'une ingérence, mais également par le simple fait de savoir que nous dépendons du bon vouloir d'autrui (52). [...] Le simple fait d'être conscient de vivre sous la coupe d'un pouvoir arbitraire - un pouvoir capable de déranger nos activités sans avoir à tenir compte de nos intérêts - suffit en soi à limiter notre liberté (53). Savoir que nous sommes libres d'agir ou de nous abstenir d'agir uniquement parce que quelqu'un d'autre a décidé de ne pas nous en empêcher est ce qui nous réduit à l'état de servitude. »
+début période stuart
+textes médiévaux du droit coutumier
+1260 - De Legibnus et Consuetudinibus Angliae - Henry de Bracton - esclave: « toute personne qui "dans sa vie est sujette à la domination de quelqu'un d'autre » (54)
+Digest, droit romain, puis code justinien, Tite-Live / esclave
+siu iuris / syb potestate
 
-## La liberté collective comme réponse aux visions individualistes
+« être sous l'emprise de personne d'autre »
+« son propre maitre »
+« libre de faire ce qu'il voulait »
 
-TODO
+confisqué avec impunité = pas de droit = simple tolérances ou privilèges octroyés
 
-## Synthèse : l'axe liberté-domination-coercition
+focus sur la contrainte interne
 
-TODO
+non-domination
+
+Notez quand même que l'idée n'est pas du lui.
+L'article est simplement une excellente analyse assez complète.
+Je vous recommande vivement sa lecture en complément de celui-ci (il fait seulement 37 pages, ça va).
+
+Mais c'est bien Philip Pettit qui a commencé à développer cette idée en 1997 dans un livre complet[^pettitRepu].
+Si vous arrivez à vous le procurer et avez le courage de vous plonger dedans, je vous le recommande aussi.
+Il a carrément fondé tout un nouveau courant : le néo-républicanisme[^politikonNeoRep].
+Courant qui joue un rôle essentiel dans les débats actuels autour de la liberté.
+
+## La liberté comme réponse aux visions individualistes
+
+Erreur : agent unique (sujet et condition préventive)
+
+condition: élements, météo (débat)
+
+sujet : pas seul
+
+libértés collective (ex presse)
+pas propre à un sujet
+
+Plus loin, nos connexions
+
+[Maurice Merleau-Ponty](https://fr.wikipedia.org/wiki/Maurice_Merleau-Ponty), [L'expérience d'autrui](https://www.persee.fr/doc/bupsy_0007-4403_1952_num_5_5_5960) (+ [résumé de cours](http://www.kainos.it/numero2/sezioni/disvelamenti/mpontyFR.html)), [intersubjectivité](https://fr.wikipedia.org/wiki/Intersubjectivit%C3%A9)
+
+Prudhon
+Bakounine
+
+## Synthèse
+
+Résumons.
+
+On a vu qu'il existe de très nombreuses forment et définitions de la liberté :
+
+- formelle / réelle
+- négative / positive
+- par non-ingérence / par non-domination
+- personnelle / collective
+- simple / composée
+
+Les courants politiques peuvent aussi s'opposer dans leur rapport à la liberté en général.
+Certains allants même jusqu'à ne pas la considérer comme une valeur importante.
+
+### L'axe liberté-domination-sujétion
+
+Nous pouvons dessiner ces différents axes et les mettre approximativement en relation[^synthGraph] :
+
+<img src="/static/img/axes-liberte-base.svg" />
+
+Commence à apparaitre un axe liberté-domination-[sujétion](https://fr.wiktionary.org/wiki/suj%C3%A9tion)[^prqSujetion].
+Même si ça semble difficile quand on parle de liberté, on va rester ici aussi descriptifs que possibles.
+On ne considère pas que la liberté, la domination et la sujétion sont bien ou mal dans l'absolue.
+À chacune et chacun de déterminer ses propres valeurs, et ce qui lui semble important en politique.
+
+Très schématiquement, on peut représenter les différentes positions des trois principaux groupes d'idéologies politiques ainsi :
+
+<img src="/static/img/axes-liberte-synth.svg" />
+
+Ce qui nous permet de voir les intersections possibles du libéralisme avec le socialisme et le césarisme.
+J'utiliserai cette échelle quand le moment sera venu de définir plus en détail chaque idéologie.
+
+### Un nouveau cadran ?
+
+Initialement, nous partions du cadran traditionnelle gauche-droite économique / liberté-autoritarisme.
+
+On pourrait (là aussi très schématiquement) répartir sur ce cadran politique les idéologies les plus notables conformément à leur perception générale :
+
+<img src="/static/img/Political_Compass_ideologies.svg" alt="Political compass - two-axis political spectrum chart with a horizontal socio-economic axis and a vertical socio-cultural axis, and ideologically representative political colours in each quadrant − a frequently used model of the political spectrum based on Hans Eysenck (1956)" style="max-width:800px" />
+
+Mais on voit alors directement un problème apparaitre.
+Il semblerait que ce cadran nous dise que :
+
+- le néolibéralisme a pour aboutissement logique le libertarism, paroxysme de la liberté
+- l'idéologie communiste dans son ensemble aboutit nécessairement au capitalisme d'état, unique antithèse absolue de la liberté
+- le néolibéralisme est aussi opposé au fascisme que le communisme l'est de son idéal, le socialisme (société sans classe et sans état)
+
+Ce qui est une vision bien particulière, partiale, de la politique.
+
+Comme nous avons déjà bien définis deux axes de remplacement, nous pouvons poser un nouveau cadran.
+Tout de suite, la répartition devient bien différente.
+
+<img src="/static/img/New-Political-Compass.svg" />
+
+Immédiatement, un axe gauche-droite apparait. Ce qui est d'autant plus facilité par le fait que les cases supérieur-gauche et inférieur droite sont vides. Pourquoi ?
+
+Tout simplement parce que dans notre tradition politique, l'idée de liberté est intimement liée à celle de progressisme.
+
+À gauche, tout le monde admet que nous vivons dans un monde inégalitaire, et qui l'a toujours été.
+Plus la définition de la liberté devient ambitieuse, plus le monde à construire est nouveau, éloigné de ce que nous avons déjà connu.
+
+À droite, on pense plus facilement que le monde est juste (méritocratique) en l'état.
+Voir, si on se déplace vers l'extrême, qu'il l'était davantage par le passé.
+
+Le coin supérieur droit (progressisme / sujétion) devrait représenter des utopies totalitaires.
+À part quelques sectes et, éventuelle, la "dictature du prolétariat" transitoire marxiste, je ne vois aucune organisation ou idéologie qui pourrait y correspondre.
+
+Enfin, Le coin inférieur droit (liberté / conservatisme - réaction) me semble juste être un non-sens absolu tellement elle est éloignée de mon imaginaire.
+
+> Si vous voyez le moindre exemple, partagez-le en commentaire, ça me rendra service :slightly_smiling_face:
+
+On peut déjà en conclure que ces deux axes ne sont pas de très bons choix pour un cadran, où on voudrait qu'un maximum l'espace soit représentatif de quelque chose.
+
+Enfin, vous noterez deux différences majeures avec le cadran précédent :
+
+- Le libertarisme n'étant pas une idéologie homogène, nous ne pouvons le placer très clairement. Je pense cependant qu'il aurait tendance à se confondre avec la ligne du césarisme.$
+- Le capitalisme d'état a existé (Stalinisme) et existe encore (Chine moderne). Les états qui le pratique sont dans la totale conservation de ce système et la sujétion des habitant y est totale. Il se place donc logiquement dans le carré supérieur droit. Donc à droite du spectre politique si définit ainsi.
+
+Mais ces deux points peuvent changer en fonction de votre point de vue.
+
+Pour s'amuser un peut, on peut par exemple imaginer ce que ça donnerait du point de vue de certains éditorialistes (même si il faut dans ce cas changer pas mal de mots) :
+
+<img src="/static/img/New-Political-Compass-alt.svg" />
+
+Bon ok je vous l'accorde c'est n'importe quoi.
+
+La représentation donnée dans l'article précédent me semble bien meilleure.
+Mais encore faut-il définir d'autres axes.
+Notre voyage ne fais que commencer :wink:
 
 [^debuthistoire]: Dans cette région du monde en tout cas.
 
@@ -416,7 +569,7 @@ On commence ainsi à voir que liberté et égalité ne sont pas forcément mutue
 
 [^mangerVoisin]: Généralement, on est d'accord pour dire que ça va comme restriction de la liberté a priori. Oui je parodie, évidemment. #EatTheRich
 
-[^démocratieLibéraux]: Notez qu'à l'époque, la "démocratie" n'est pas vraiment un concept libéral.
+[^democratieLiberaux]: Notez qu'à l'époque, la "démocratie" n'est pas vraiment un concept libéral.
     Pour beaucoup, un dictateur éclairé aurait parfaitement suffit.
     L'idée d'un État démocratique incarnant la volonté du peuple est surtout liée au républicanisme, autre courant qui a, lui aussi, pas mal contribué à créer la première République (qui l'eu cru).
 
@@ -426,7 +579,7 @@ On commence ainsi à voir que liberté et égalité ne sont pas forcément mutue
 
     Il y a quelques liens avec la "bourgeoisie culturelle" de Jean-Eudes et Marie-Chantal&mdash;_aaan_.
     Mais pas tant que ça.
-    Lisez "La Distinction: Critique sociale du jugement" de Pierre Bourdieu si vous voulez des exemples.
+    Lisez "La Distinction: Critique sociale du jugement" de Pierre Bourdieu si vous voulez en apprendre plus sur ce sujet là.
 
 [^isonomie]: Remarquez également que la démocratie nécessite l'[isonomie](https://fr.wiktionary.org/wiki/isonomie), c'est-à-dire l'égalité de droits politiques des citoyens.
 
@@ -489,8 +642,6 @@ to this kind of language is that we recognize that it is possible, and at times 
 
     Slobodian, Quinn. [_Les Globalistes: Une histoire intellectuelle du néolibéralisme_](https://www.seuil.com/ouvrage/les-globalistes-quinn-slobodian/9782021457926). SEUIL, 2022
 
-[^orban2014]: Tóth, Csaba. "[_Full text of Viktor Orbán's speech at Băile Tuşnad (Tusnádfürdő) of 26 July 2014_](https://budapestbeacon.com/full-text-of-viktor-orbans-speech-at-baile-tusnad-tusnadfurdo-of-26-july-2014/)" Budapest Beacon, 23 Oct. 2014
-
 [^smnOrban]: Voir Some More News, "[_We Need To Talk About Hungary_](https://www.youtube.com/watch?v=ZFV0VaufMOM)", Youtube, 9 Nov. 2022
 
 [^orbanTatcher]: « _Les véritables sympathies d’Orbán vont à Margaret Thatcher. Il a été l’un des rares chefs d’État étrangers hors du Commonwealth à assister à ses funérailles en 2013 et il cite encore fréquemment la "Dame de fer" dans ses discours._ [...]
@@ -507,7 +658,45 @@ to this kind of language is that we recognize that it is possible, and at times 
 
 [^macronMediasMD]: Marie Bénilde, "[_Emmanuel Macron, le candidat des médias_](https://www.monde-diplomatique.fr/2017/05/BENILDE/57494)" Le Monde diplomatique, 8 May. 2019
 
-[^desNeolibs]: J'insiste ici sur "_certains_", car l'incarnation politique du néolibéralisme est flexible à bien des égards.
+[^allianceECR]: Le Parti des conservateurs et réformistes européens, une des alliances
+
+[^quiEstMeloni]: "_[Qui est Giorgia Meloni, gagnante des législatives en Italie ?_](https://www.nouvelobs.com/monde/20220926.OBS63665/homophobe-ex-fan-de-mussolini-qui-est-giorgia-meloni-gagnante-des-legislatives-en-italie.html)" L'Obs, 26 Sept. 2022
+
+[^synthGraph]: Gardez cependant bien à l'esprit que certaines de ces définitions ne sont pas mutuellement exclusives ni n'ont de rapport aussi clair entre elles.
+
+[^discoursOrgban]: Tous les ans, Orbán profite de l’université d’été de Bálványos à Tusványos, en Transylvanie (ça ne s'invente pas) pour donner un long discours de "philosophie" politique.
+
+    Il commence à parler concrètement de "démocratie illibéral" dans son discours de 2014 :
+
+    « _La nation hongroise n'est pas une simple somme d'individus, mais une communauté qui a besoin d'être organisée, renforcée et développée, et en ce sens, le nouvel État que nous construisons est un État illibéral, un État non libéral._
+    > _Elle ne nie pas les valeurs fondatrices du libéralisme, comme la liberté, etc. Mais elle ne fait pas de cette idéologie un élément central de l'organisation étatique, mais applique à sa place une approche spécifique, nationale, particulière._ »
+    &mdash; Csaba Tóth,  "[_Full text of Viktor Orbán's speech at Băile Tuşnad (Tusnádfürdő) of 26 July 2014_](https://budapestbeacon.com/full-text-of-viktor-orbans-speech-at-baile-tusnad-tusnadfurdo-of-26-july-2014/)" Budapest Beacon, 23 Oct. 2014
+
+    Essayant de définir "positivement" l'illibéralisme, le premier ministre Hongrois ajoute en 2019[^orban2019] :
+
+    « _La signification de la politique illibérale n’est autre que la liberté chrétienne. [...] Aujourd’hui la liberté chrétienne fait face à deux attaques. La première, qui vient de l’intérieur, est celle des libéraux et vise à l’abandon de la culture chrétienne de l’Europe. Mais il y en a une seconde, qui vient de l’extérieur et qui se manifeste dans la migration, dont la conséquence – même si ce n’est pas son intention – est d’anéantir l’Europe telle que nous l’avons connue._ »
+    &mdash; "[_Discours complet de Viktor Orbán à Tusványos : philosophie politique, crise à venir et projets pour 15 ans_](https://visegradpost.com/fr/2019/07/29/discours-complet-de-viktor-orban-a-tusvanyos-philosophie-politique-crise-a-venir-et-projets-pour-15-ans/)", Visegrád Post, 31 Mars 2020
+
+[^politikonNeoRep]: Pour une rapide et excellente introduction, voir "[_Politikon. "Une vraie doctrine de la liberté ? Le néo-républicanisme_](https://www.youtube.com/watch?v=-XM1nylHbrg)", YouTube, 17 Dec. 2018
+
+[^prqSujetion]: J'utilise ici le terme "_sujétion_" dans son sens politique : _soumission aliénante d'un sujet à un pouvoir politique autoritaire_.
+
+    Je fais le choix d'utiliser ce terme précis pour plusieurs raisons :
+
+    1. La plupart des termes proches (e.g. coercition, autoritarisme, servitude, oppression, contrainte, asservissement) font partie du language courant. Ce qui les rend d'autant plus polisémiques, et donc sujets à interprétation. Interprétation qui pourra en particulier changer en fonction du contexte et des valeurs politiques.
+    2. En mettant l'accent sur le _sujet_, c'est à dire la personne subissant l'oppression, _sujétion_ fait echo à la définition négative individualiste de la liberté. Ce qui permet de souligner l'opposition à toutes les définitions de la liberté prenant en compte une certaine composition des sujets (positive, collective et composée), ainsi que la proximité avec la partie _domination_ qui la précède dans l'axe.
+    3. "Sujétion" n'est porteur d'aucune valeure morale. Suivant l'angle de lecture, on peut le comprendre comme un esclavagisme total, ou comme une soumission au moins partiellement volontaire à un niveau inconscient.
+    4. Le terme couvre un spectre assez large pour permettre de définir une échelle, incluant :
+       - une vision libérale classique d'une sujétion à la loi, volontaire dans le cadre d'un pacte social (Locke, Second Traité du gouvernement, VIII, 97), se melant à la domination telle que définie dans cet article
+       - une soumission à un souverain protecteur (Hobbes, Leviathan, XXI, p. 233), dépassant la frontière de la domination simple
+       - à l'extrême, un assujetissement total par une autocratie totalitaire moderne
+    5. Enfin, l'idée même de sujétion est fortement liée à celle de l'exclavage. Son interprétation la plus extrême renvoie ainsi directement à l'interprétation la plus commune et ancienne d'une perte de liberté totale.
+
+    Voir le Grand dictionnaire de la philosophie / sous la dir. de Michel Blay. 2003, en particulier aux pages [326](https://gallica.bnf.fr/ark:/12148/bpt6k1200508p/f328.item.r=sujetion.zoom) et [1016](https://gallica.bnf.fr/ark:/12148/bpt6k1200508p/f1018.item.r=sujetion.zoom).
+
+[^pettitRepu]: Philip Pettit, "_Republicanisme ; une theorie de la liberte et du gouvernement_", [Gallimard](https://www.librairie-gallimard.com/livre/9782070768387-republicanisme-une-theorie-de-la-liberte-et-du-gouvernement-philip-pettit/), trad. Jean-Fabien Spitz,  2004
+
+    Version Originale (en anglais) : "_Republicanism: A Theory of Freedom and Government_", OUP, 2001
 
 <!-- Notes pour bonus : liberté et dystopie - 1984 / point Orwell des libéraux, considérant la "déconstruction woke" comme un crime de la pensée, alors qu'il en est l'opposé
 // l'idéologie des biais du néolibéralisme cherchant au contraire à manipuler (La zone du dehors)

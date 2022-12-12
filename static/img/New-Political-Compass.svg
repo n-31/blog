@@ -23,9 +23,9 @@
    inkscape:pagecheckerboard="0"
    inkscape:deskcolor="#d1d1d1"
    showgrid="false"
-   inkscape:zoom="1.34"
-   inkscape:cx="429.10448"
-   inkscape:cy="344.40299"
+   inkscape:zoom="0.94752309"
+   inkscape:cx="488.64245"
+   inkscape:cy="313.97652"
    inkscape:window-width="1920"
    inkscape:window-height="1050"
    inkscape:window-x="0"
@@ -33,6 +33,12 @@
    inkscape:window-maximized="1"
    inkscape:current-layer="svg62" />
    <rect
+   style="fill:#ffffff;stroke:none;stroke-width:2.799;stroke-dasharray:2.799,5.598;stroke-dashoffset:0;stroke-opacity:1"
+   id="rect8554"
+   width="897.20093"
+   height="647.20099"
+   x="1.3995045"
+   y="-23.600496" /><rect
    x="210.6245"
    y="302.28833"
    width="253.8"
@@ -52,7 +58,11 @@
    width="253.8"
    height="253.8"
    fill="#92d9f8"
-   id="rect6" />
+   id="rect6" /><path
+   style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:18, 6;stroke-dashoffset:0;stroke-opacity:1"
+   d="M 539.50509,2.5294607 C 538.17661,181.28933 780.94296,150.50486 780.94296,150.50486"
+   id="path8207"
+   sodipodi:nodetypes="cc" />
    <rect
    x="466.12448"
    y="302.28833"
@@ -60,10 +70,7 @@
    height="253.8"
    fill="#f5f5a7"
    id="rect8" />
-   <path
-   d="M 464.3545,32.281335 V 568.48134 h 2 V 32.281335 Z"
-   fill="#010101"
-   id="path10" />
+   
    <path
    d="m 456.8645,53.681335 8.8,-24 8.8,24 c -5.2,-3.8 -12.4,-3.8 -17.7,0 z"
    stroke="#ffffff"
@@ -72,10 +79,7 @@
    d="m 473.8445,547.07834 -8.8,24 -8.8,-24 c 5.2,3.8 12.4,3.8 17.7,0 z"
    stroke="#ffffff"
    id="path14" />
-   <path
-   d="m 197.5745,301.28834 v 2 h 536.2 v -2 z"
-   fill="#010101"
-   id="path16" />
+   
    <path
    d="m 712.3745,293.79834 24,8.8 -24,8.8 c 3.8,-5.2 3.8,-12.4 0,-17.7 z"
    stroke="#ffffff"
@@ -101,15 +105,21 @@
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.4px;line-height:0%;font-family:Arial-BoldMT;-inkscape-font-specification:'Arial-BoldMT, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
    id="text24">Liberté</text>
    <text
-   x="417.16492"
+   x="423.63651"
    y="21.218513"
    fill="#000000"
    font-family="Arial-BoldMT"
    font-size="20.4px"
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.4px;line-height:0%;font-family:Arial-BoldMT;-inkscape-font-specification:'Arial-BoldMT, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-   id="text26">Servitude</text>
-   <g
-   transform="translate(-16.390193,84.386571)"
+   id="text26">Sujétion</text>
+   <ellipse
+   style="fill:#f4d7d7;stroke:#000000;stroke-width:3.20307;stroke-dasharray:none;stroke-opacity:1"
+   id="path276-3-1"
+   ry="77.740608"
+   rx="86.021652"
+   cy="378.22443"
+   cx="375.11185" /><g
+   transform="translate(-24.919975,79.977944)"
    fill="#010101"
    font-family="Arial-BoldMT"
    font-size="20.4px"
@@ -130,7 +140,7 @@
      y="288.2746" /></text>
 
    </g><g
-   transform="translate(-12.905583,36.027132)"
+   transform="translate(-35.21347,31.618505)"
    fill="#010101"
    font-family="Arial-BoldMT"
    font-size="20.4px"
@@ -139,35 +149,22 @@
    fill="#010101"
    style="line-height:0%"
    id="text28-2"
-   x="327.90125"
+   x="341.67935"
    y="360.51578"><tspan
      sodipodi:role="line"
      id="tspan2314-8"
-     x="327.90125"
+     x="341.67935"
      y="360.51578">Démocratique</tspan><tspan
      sodipodi:role="line"
      id="tspan2316-9"
-     x="327.90125"
+     x="341.67935"
      y="360.51578" /></text>
 
    </g>
    
    
    
-   <g
-   transform="translate(50.758271,-75.569041)"
-   fill="#010101"
-   font-family="Arial-BoldMT"
-   font-size="20.4px"
-   id="g46">
-      <text
-   fill="#010101"
-   style="font-size:17.3333px;line-height:0%"
-   id="text44"
-   x="433.90924"
-   y="289.0368">Néo-Libéralisme</text>
-
-   </g>
+   
    
    <text
    x="49.132549"
@@ -185,25 +182,13 @@
    cx="226.82068"
    cy="541.36682"
    r="7" /><ellipse
-   style="fill:none;stroke-width:3;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
-   id="path276-3-1"
-   cx="382.91037"
-   cy="379.74612"
-   rx="79.326569"
-   ry="73.951286" /><ellipse
-   style="fill:none;stroke:#000000;stroke-width:3;stroke-dasharray:none;stroke-opacity:1"
+   style="fill:#ffdd55;stroke:#000000;stroke-width:3.07958;stroke-dasharray:none;stroke-opacity:1"
    id="path276-3-1-7"
-   cx="545.59796"
-   cy="225.95615"
-   rx="79.326569"
-   ry="73.951286" /><ellipse
-   style="fill:#000000;stroke-width:2.81177"
-   id="path276-3-1-2"
-   cx="581.30035"
-   cy="79.994041"
-   rx="55.342403"
-   ry="7" /><g
-   transform="translate(70.570378,-28.232787)"
+   cx="549.45111"
+   cy="224.76758"
+   rx="85.176277"
+   ry="72.574898" /><g
+   transform="translate(70.010139,-55.321222)"
    fill="#010101"
    font-family="Arial-BoldMT"
    font-size="20.4px"
@@ -219,13 +204,19 @@
      id="tspan2268">Libéralisme</tspan></text>
 
    </g><ellipse
-   style="fill:#000000;stroke-width:2.26311"
+   style="fill:#d4aa00;stroke:#000000;stroke-width:4.85979;stroke-dasharray:none;stroke-opacity:1"
    id="path276-3-1-2-0"
-   cx="540.27539"
-   cy="177.34364"
-   rx="35.850006"
-   ry="7" /><g
-   transform="translate(-186.1699,254.79881)"
+   cx="604.39294"
+   cy="129.82368"
+   rx="106.1741"
+   ry="69.785477" /><ellipse
+   style="fill:#ff0000;stroke-width:3;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
+   id="path276-3-1-2-6"
+   cx="284.19217"
+   cy="462.77954"
+   rx="72.587555"
+   ry="47.058147" /><g
+   transform="translate(-184.49351,253.86314)"
    fill="#010101"
    font-family="Arial-BoldMT"
    font-size="20.4px"
@@ -237,53 +228,55 @@
    x="401.47791"
    y="216.3318">Communisme</text>
 
-   </g><ellipse
-   style="fill:none;stroke-width:3;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
-   id="path276-3-1-2-6"
-   cx="284.19217"
-   cy="462.77954"
-   rx="72.587555"
-   ry="47.058147" /><circle
+   </g><g
+   transform="translate(-174.16823,7.4022591)"
+   fill="#010101"
+   font-family="Arial-BoldMT"
+   font-size="20.4px"
+   id="g46-6-8">
+      
+
+   </g><circle
    style="fill:#000000"
    id="path276-3-5"
-   cx="464.70853"
-   cy="81.573853"
+   cx="491.85623"
+   cy="83.114235"
    r="7" /><text
    xml:space="preserve"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:125%;font-family:Arial-BoldMT;-inkscape-font-specification:Arial-BoldMT;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-   x="514.80682"
-   y="109.12203"
-   id="text382"><tspan
-     sodipodi:role="line"
-     id="tspan380"
-     x="514.80682"
-     y="109.12203"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:Arial-BoldMT;-inkscape-font-specification:Arial-BoldMT">Libertarianisme</tspan></text><text
-   xml:space="preserve"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:Arial-BoldMT;-inkscape-font-specification:Arial-BoldMT;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-   x="343.87741"
-   y="536.26996"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:Arial-BoldMT;-inkscape-font-specification:Arial-BoldMT;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   x="143.51031"
+   y="534.88684"
    id="text382-6"><tspan
      sodipodi:role="line"
      id="tspan380-7"
-     x="343.87741"
-     y="536.26996"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Arial-BoldMT;-inkscape-font-specification:Arial-BoldMT;text-align:end;text-anchor:end">Socialisme</tspan><tspan
+     x="191.9603"
+     y="534.88684"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Arial-BoldMT;-inkscape-font-specification:Arial-BoldMT;text-align:center;text-anchor:middle">Socialisme</tspan><tspan
      sodipodi:role="line"
-     x="343.87741"
-     y="561.26996"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Arial-BoldMT;-inkscape-font-specification:Arial-BoldMT;text-align:end;text-anchor:end"
-     id="tspan719">(libertaire)</tspan></text><text
+     x="191.9603"
+     y="559.88684"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Arial-BoldMT;-inkscape-font-specification:Arial-BoldMT;text-align:center;text-anchor:middle"
+     id="tspan719">libertaire</tspan></text><text
    xml:space="preserve"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:Arial-BoldMT;-inkscape-font-specification:Arial-BoldMT;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-   x="446.65274"
-   y="87.038933"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:Arial-BoldMT;-inkscape-font-specification:Arial-BoldMT;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   x="432.97516"
+   y="72.373314"
    id="text382-6-3"><tspan
      sodipodi:role="line"
      id="tspan380-7-5"
-     x="446.65274"
-     y="87.038933"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Arial-BoldMT;-inkscape-font-specification:Arial-BoldMT;text-align:end;text-anchor:end">Stalinisme</tspan></text><circle
+     x="432.97516"
+     y="72.373314"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Arial-BoldMT;-inkscape-font-specification:Arial-BoldMT;text-align:center;text-anchor:middle">Capitalisme</tspan><tspan
+     sodipodi:role="line"
+     x="432.97516"
+     y="97.373314"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Arial-BoldMT;-inkscape-font-specification:Arial-BoldMT;text-align:center;text-anchor:middle"
+     id="tspan8154">d'État</tspan><tspan
+     sodipodi:role="line"
+     x="432.97516"
+     y="122.37331"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Arial-BoldMT;-inkscape-font-specification:Arial-BoldMT;text-align:center;text-anchor:middle"
+     id="tspan8309">(Stal)</tspan></text><circle
    style="fill:#000000"
    id="path276-3-5-6"
    cx="706.24054"
@@ -291,13 +284,13 @@
    r="7" /><text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:Arial-BoldMT;-inkscape-font-specification:Arial-BoldMT;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-   x="661.34906"
-   y="41.406418"
+   x="727.03247"
+   y="61.095692"
    id="text382-6-3-2"><tspan
      sodipodi:role="line"
      id="tspan380-7-5-9"
-     x="661.34906"
-     y="41.406418"
+     x="727.03247"
+     y="61.095692"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Arial-BoldMT;-inkscape-font-specification:Arial-BoldMT">Fascisme</tspan></text><text
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -310,35 +303,90 @@
      y="234.69365" /></text><text
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:17.3333px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-   x="494.45975"
-   y="350.97711"
+   x="697.90784"
+   y="351.57816"
    id="text1077"
-   transform="rotate(-0.1)"><tspan
+   transform="rotate(19.9)"><tspan
      sodipodi:role="line"
      id="tspan1075"
-     x="494.45975"
-     y="350.97711"
+     x="697.90784"
+     y="351.57816"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial-BoldMT;-inkscape-font-specification:Arial-BoldMT;fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">Conservatisme</tspan></text><text
    xml:space="preserve"
-   style="font-style:normal;font-weight:normal;font-size:17.3333px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-   x="400.66342"
-   y="247.44807"
-   id="text1077-3"
-   inkscape:transform-center-x="-125.03823"
-   inkscape:transform-center-y="3.9938241"><tspan
+   style="font-style:normal;font-weight:normal;font-size:17.3333px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   x="813.61334"
+   y="101.27735"
+   id="text1077-7"
+   transform="rotate(19.9)"><tspan
      sodipodi:role="line"
-     id="tspan1075-6"
-     x="400.66342"
-     y="247.44807"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial-BoldMT;-inkscape-font-specification:Arial-BoldMT;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">Liberté</tspan><tspan
+     id="tspan1075-8"
+     x="813.61334"
+     y="101.27735"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial-BoldMT;-inkscape-font-specification:Arial-BoldMT;fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">Domination</tspan></text><g
+   transform="translate(91.882538,-151.50192)"
+   fill="#010101"
+   font-family="Arial-BoldMT"
+   font-size="20.4px"
+   id="g46">
+      <text
+   fill="#010101"
+   style="font-size:17.3333px;line-height:0%;fill:#010101"
+   id="text44"
+   x="433.90924"
+   y="289.0368"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.4px;font-family:Arial-BoldMT;-inkscape-font-specification:'Arial-BoldMT, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+     id="tspan8656">Néo-</tspan><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.4px;font-family:Arial-BoldMT;-inkscape-font-specification:'Arial-BoldMT, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+     id="tspan8654">Libéralisme</tspan></text>
+
+   </g><g
+   transform="translate(306.31615,-175.70639)"
+   fill="#010101"
+   font-family="Arial-BoldMT"
+   font-size="20.4px"
+   id="g46-2">
+      <text
+   fill="#010101"
+   style="font-size:17.3333px;line-height:0%;fill:#010101"
+   id="text44-61"
+   x="433.90924"
+   y="289.0368"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.3333px;font-family:Arial-BoldMT;-inkscape-font-specification:'Arial-BoldMT, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+     id="tspan8650">Césarisme</tspan></text>
+
+   </g><path
+   d="M 464.3545,32.281335 V 568.48134 h 2 V 32.281335 Z"
+   fill="#010101"
+   id="path10" /><path
+   d="m 197.5745,301.28834 v 2 h 536.2 v -2 z"
+   fill="#010101"
+   id="path16" /><path
+   style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:4,4;stroke-dashoffset:0"
+   d="M 210.10461,372.50401 H 719.92448"
+   id="path8283" /><path
+   style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:4, 4;stroke-dashoffset:0;stroke-opacity:1"
+   d="M 536.49966,46.37841 V 556.19827"
+   id="path8283-8" /><path
+   style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:3,6;stroke-dashoffset:0"
+   d="M 189.86431,24.315228 742.38309,578.27126"
+   id="path8307"
+   sodipodi:nodetypes="cc" /><text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   x="69.327728"
+   y="117.25041"
+   id="text8313"><tspan
      sodipodi:role="line"
-     x="400.66342"
-     y="269.11469"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.3333px;font-family:Arial-BoldMT;-inkscape-font-specification:Arial-BoldMT;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
-     id="tspan1238">négative</tspan></text><path
-   style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-   d="m 527.02341,300.5145 0.68664,27.55797"
-   id="path1207" /><path
-   style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-   d="M 465.8123,302.68165 443.7761,277.63037"
-   id="path1209" /></svg>
+     id="tspan8311"
+     x="69.327728"
+     y="117.25041"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.3333px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0000">GAUCHE</tspan></text><text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:bold;font-size:29.3333px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'Sans, Bold';font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+   x="736.90649"
+   y="535.36993"
+   id="text8317"><tspan
+     sodipodi:role="line"
+     id="tspan8315"
+     x="736.90649"
+     y="535.36993">DROITE</tspan></text></svg>
