@@ -299,60 +299,57 @@ Nous sommes moins libres quand quelqu'un interfère dans notre vie.
 Nous empêche directement de faire ce que l'on souhaite.
 
 Mais cela ne couvre pas tous les contextes.
-Il y en a un en particulier que Skinner et d'autres ignorent totalement, disant en gros "c'est pas le sujet".
-Pourtant, le sujet est là depuis très longtemps.
+Il y en a un en particulier que Berlin et d'autres ignorent totalement, disant en gros "c'est pas le sujet".
+Pourtant, le sujet est bien présent depuis des lustres.
 Au moins depuis l'antiquité.
 
-On l'a déjà vu, le droit romain distinguait deux groupes d'individus : libre (_civis_), ou esclave.
-L'esclave étant _sub postestate_ ; "sous le joug ou soumis à la volonté de quelque."
+On l'a déjà vu, le droit romain distinguait deux groupes d'individus : libres (_civis_) et esclaves.
+L'esclave étant _sub postestate_ ; "sous le joug ou soumis à la volonté de quelqu'un."
 
 Les romains le savaient bien : il n'est pas nécessaire de constamment intervenir pour limiter la liberté de quelqu'un.
 Le fait de _savoir_ que je suis sous le joug de quelqu'un d'autre suffit à m'enlever ma liberté.
 Si je fais ou ne fais pas quelque uniquement parce que quelqu'un me le permet, alors je ne suis pas libre.
-Avoir _conscience_ que ce pouvoir peut m'être retiré à tout moment suffit à me rendre esclave.
+Avoir _conscience_ que ce pouvoir peut m'être retiré à tout moment suffit à me rendre esclave[^skinnerSavoir].
 
-Pour un régime ou une personne autoritaire, il n'est pas indispensable d'intervenir pour imposer chaque règle à chaque instant.
+Rappelez-vous la dernière discussion que vous avez eu avec une personne dont vous craigniez l'autorité.
+L'un de vos parents, beaux-parents, votre patron, un policier, peu importe.
+Est-ce que vous aviez le sentiment d'être libre de parler comme vous l'entendez ?
+Ou est-ce que vous soigniez chaque mot, chaque geste ?
+Pour éviter les problèmes ?
+Pour éviter son ingérence, justement.
+
+Si c'était le cas, alors vous étiez sous sa domination.
+Elle n'a même pas eu à intervenir pour vous faire agir comme elle le souhaitait.
+Vous n'étiez pas libre lors de cet échange.
+On vous a empêché, bloqué, interdit.
+Il y avait donc bien une limite à votre liberté.
+Ce qui rentre parfaitement dans le cadre de la liberté négative telle qu'on l'a définie plus tôt.
+
+La _domination_ inclue l'_ingérence_.
+On peut donc définir la liberté négative ainsi.
+Comme une _**non-domination**_.
+
+On voit alors directement l'impact que la vision restrictive de Berlin et d'autres peut avoir en politique.
+Pour un pouvoir politique il n'est pas indispensable d'intervenir pour imposer chaque règle à chaque instant.
+Il lui suffit que tout le monde _ait connaissance_ de sa domination.
+
+Les régimes autoritaires poussent cette logique à l'extrême.
+Par la surveillance constante et une répression arbitraire.
+Ainsi, chaque personne se restreint elle-même, selon ce qu'il imagine être la volonté du pouvoir en place.
 Je peux me l'imposer à moi-même, qu'elle soit dite ou non, sachant que je suis constamment soumis à l'arbitraire.
 
-Imaginez-vous à un diner avec vos beaux-parents, votre patron ...
-Ou n'importe quel personne dont vous craignez l'autorité ou les humeurs hein, peu importe.
-Est-ce que vous avez le sentiment d'être libre de parler comme vous l'entendez ?
-Ou est-ce que vous soignez chaque mot, chaque geste, pour éviter de déplaire ?
-Soyez honnête avec vous-même.
-Vous êtes sous la domination de cette personne.
+Considérer que seules les interventions directes limitent les libertés politiques revient à accepter tacitement un grand nombre d'atteintes à nos libertés fondamentales.
+C'est confondre le droit avec la simple tolérances et les privilèges octroyés.
 
---
+Philip Pettit a rappelé ce fait, répondant à Berlin, en 1997, dans un livre complet et passionnant[^pettitRepu].
 
-Histoire de boucler la boucle, je vais donc utiliser la très bonne réponse de [Quentin Skinner]() à Isaiah Berlin.
-En 2002, Skinner écrit un papier intitulé "[_Un troisième concept de liberté au-delà d'Isaiah Berlin et du libéralisme anglais_](https://www.cairn.info/revue-actuel-marx-2002-2-page-15.htm)".
+> Quentin Skinner a repris le sujet dans un article plus accessible en 2002[^skinner2002], qui m'a beaucoup inspiré pour cet article.
+> Je vous recommande d'y jeter un coup d'œil (d'autant plus que le livre de Pettit n'est plus disponible en français).
 
-TODO
-aveugle formellement libre de lire (personne ne l'en empeche)
-« La liberté n'est pas uniquement restreinte par la réalité ou la menace d'une ingérence, mais également par le simple fait de savoir que nous dépendons du bon vouloir d'autrui (52). [...] Le simple fait d'être conscient de vivre sous la coupe d'un pouvoir arbitraire - un pouvoir capable de déranger nos activités sans avoir à tenir compte de nos intérêts - suffit en soi à limiter notre liberté (53). Savoir que nous sommes libres d'agir ou de nous abstenir d'agir uniquement parce que quelqu'un d'autre a décidé de ne pas nous en empêcher est ce qui nous réduit à l'état de servitude. »
-début période stuart
-textes médiévaux du droit coutumier
-1260 - De Legibnus et Consuetudinibus Angliae - Henry de Bracton - esclave: « toute personne qui "dans sa vie est sujette à la domination de quelqu'un d'autre » (54)
-Digest, droit romain, puis code justinien, Tite-Live / esclave
-siu iuris / syb potestate
-
-« être sous l'emprise de personne d'autre »
-« son propre maitre »
-« libre de faire ce qu'il voulait »
-
-confisqué avec impunité = pas de droit = simple tolérances ou privilèges octroyés
-
-focus sur la contrainte interne
-
-non-domination
-
-Notez quand même que l'idée n'est pas du lui.
-L'article est simplement une excellente analyse assez complète.
-Je vous recommande vivement sa lecture en complément de celui-ci (il fait seulement 37 pages, ça va).
-
-Mais c'est bien Philip Pettit qui a commencé à développer cette idée en 1997 dans un livre complet[^pettitRepu].
-Si vous arrivez à vous le procurer et avez le courage de vous plonger dedans, je vous le recommande aussi.
-Il a carrément fondé tout un nouveau courant : le néo-républicanisme[^politikonNeoRep].
-Courant qui joue un rôle essentiel dans les débats actuels autour de la liberté.
+À leur suite, c'est tout un nouveau courant philosophique qui a été créé : les néo-républicains[^politikonNeoRep] (ou néo-romains).
+La vision philosophique de la liberté était pas mal bloquée depuis plusieurs siècles.
+Grâce à toutes leurs contributions, les lignes bougent.
+Et c'est pas trop tôt[^opinionNeorep].
 
 ## La liberté comme réponse aux visions individualistes
 
@@ -416,7 +413,7 @@ On pourrait (là aussi très schématiquement) répartir sur ce cadran politique
 Mais on voit alors directement un problème apparaitre.
 Il semblerait que ce cadran nous dise que :
 
-- le néolibéralisme a pour aboutissement logique le libertarism, paroxysme de la liberté
+- le néolibéralisme a pour aboutissement logique le libertarianisme, paroxysme de la liberté
 - l'idéologie communiste dans son ensemble aboutit nécessairement au capitalisme d'état, unique antithèse absolue de la liberté
 - le néolibéralisme est aussi opposé au fascisme que le communisme l'est de son idéal, le socialisme (société sans classe et sans état)
 
@@ -451,15 +448,7 @@ Enfin, vous noterez deux différences majeures avec le cadran précédent :
 - Le libertarisme n'étant pas une idéologie homogène, nous ne pouvons le placer très clairement. Je pense cependant qu'il aurait tendance à se confondre avec la ligne du césarisme.$
 - Le capitalisme d'état a existé (Stalinisme) et existe encore (Chine moderne). Les états qui le pratique sont dans la totale conservation de ce système et la sujétion des habitant y est totale. Il se place donc logiquement dans le carré supérieur droit. Donc à droite du spectre politique si définit ainsi.
 
-Mais ces deux points peuvent changer en fonction de votre point de vue.
-
-Pour s'amuser un peut, on peut par exemple imaginer ce que ça donnerait du point de vue de certains éditorialistes (même si il faut dans ce cas changer pas mal de mots) :
-
-<img src="/static/img/New-Political-Compass-alt.svg" />
-
-Bon ok je vous l'accorde c'est n'importe quoi.
-
-La représentation donnée dans l'article précédent me semble bien meilleure.
+Mais ces deux points peuvent changer en fonction de votre point de vue. Les représentations donnée dans l'article précédent restent donc d'actualité.
 Mais encore faut-il définir d'autres axes.
 Notre voyage ne fais que commencer :wink:
 
@@ -697,6 +686,10 @@ to this kind of language is that we recognize that it is possible, and at times 
 [^pettitRepu]: Philip Pettit, "_Republicanisme ; une theorie de la liberte et du gouvernement_", [Gallimard](https://www.librairie-gallimard.com/livre/9782070768387-republicanisme-une-theorie-de-la-liberte-et-du-gouvernement-philip-pettit/), trad. Jean-Fabien Spitz,  2004
 
     Version Originale (en anglais) : "_Republicanism: A Theory of Freedom and Government_", OUP, 2001
+
+[^skinnerSavoir]: « La liberté n'est pas uniquement restreinte par la réalité ou la menace d'une ingérence, mais également par le simple fait de savoir que nous dépendons du bon vouloir d'autrui (52). [...] Le simple fait d'être conscient de vivre sous la coupe d'un pouvoir arbitraire - un pouvoir capable de déranger nos activités sans avoir à tenir compte de nos intérêts - suffit en soi à limiter notre liberté (53). Savoir que nous sommes libres d'agir ou de nous abstenir d'agir uniquement parce que quelqu'un d'autre a décidé de ne pas nous en empêcher est ce qui nous réduit à l'état de servitude. » &mdash; Skinner (2002)[^skinner2002]
+
+[^opinionNeorep]: J'avoue que je ne partage pas toutes les réflexions et conclusions des néo-républicains. Mais ce n'est pas vraiment le sujet en philosophie politique. On prend de bonnes idées là où elles sont, on interprète, on remet en question, et on mix pour se faire sa propre idée. C'est un gros avantage par rapport à la politique institutionnelle :wink:
 
 <!-- Notes pour bonus : liberté et dystopie - 1984 / point Orwell des libéraux, considérant la "déconstruction woke" comme un crime de la pensée, alors qu'il en est l'opposé
 // l'idéologie des biais du néolibéralisme cherchant au contraire à manipuler (La zone du dehors)
