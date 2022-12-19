@@ -353,21 +353,91 @@ Et c'est pas trop tôt[^opinionNeorep].
 
 ## La liberté comme réponse aux visions individualistes
 
-Erreur : agent unique (sujet et condition préventive)
+Mais la vision libérale de la liberté contient encore une dernière erreur.
 
-condition: élements, météo (débat)
+Quel que soit le débat et la perspective qu'on prend, on en revient toujours au même point :
+l'être humain est toujours abordé dans son individualité.
+Le _seul_ et _unique_ but de la politique est de définir des règles collectives.
+Et pourtant, quand les philosophes abordent la question de la liberté, ils ne parlent quasiment que de l'individu.
+Ce qui laisse de côté pas mal de sujets.
 
-sujet : pas seul
+Prenons par exemple la liberté de réunion.
+Tout le monde ou presque s'accord pour dire qu'il s'agit bien d'une liberté fondamentale.
+Pourtant, aucune des définitions qu'on a vues jusque-là nous permettent vraiment d'en parler.
+Car ce type de liberté qui n'a aucun sens pour un individu seul, isolé.
 
-libértés collective (ex presse)
-pas propre à un sujet
+C'est une liberté _**collective**_ (par opposition aux libertés _individuelles_ ou _personnelles_).
+Une liberté qui ne peut exister que si plusieurs personnes les exercent ensemble.
+Ce qui renverse totalement tout ce que nous avons pu dire jusque-là.
 
-Plus loin, nos connexions
+La liberté de réunion est-elle négative ou positive ?
+Difficile à dire.
+Une ingérence ou domination sur un seul individu du groupe peut suffire à empêcher une réunion.
+La liberté de réunion est donc une liberté négative.
+
+Mais cette ingérence ou domination peut également s'exercer sur l'ensemble du groupe.
+Dans ce cas, on peut dire qu'on empêche bien chaque sujet de se réaliser conformément à l'idée qu'il se fait de lui-même.
+C'est donc aussi une liberté positive.
+Alors même que les deux concepts sont mutuellement exclusifs.
+
+On remarquera d'ailleurs que la liberté négative par non-ingérence est souvent invoquées pour justifier ce type d'ingérence du pouvoir sur un groupe.
+Dans le cas de la liberté de réunion, on évoque volontiers les "troubles à l'ordre public", à la circulation.
+Une réunion regroupant un trop grand nombre de personnes peut même être interdite en invoquant le "droit personnel à la sécurité" de ses participants.
+
+Poussant le concept à son maximum, certains courants de la philosophique politique confrontent cette vision restrictive de la liberté à ses paradoxes.
+
+> « _Je ne suis vraiment libre que lorsque tous les êtres humains qui m’entourent, hommes et femmes, sont également libres. La liberté d’autrui, loin d’être une limite ou la négation de ma liberté, en est au contraire la condition nécessaire et la confirmation. Je ne deviens libre vraiment que par la liberté d’autres, de sorte que plus nombreux sont les hommes libres qui m’entourent et plus profonde et plus large est leur liberté, et plus étendue, plus profonde et plus large devient ma liberté._ »
+> &mdash; M. Bakounine, 1895 [^quoteBakounine]
+
+Une telle définition est radicalement contraire à la vision commune.
+Si radicalement, en fait, qu'on a de prime abord tendance à considérer qu'elle est impossible à adopter.
+Analyser les racines d'un tel rejet dépasserait largement l'objectif de cet article.
+Je me contenterais donc de dire ici que l'idée même d'une telle liberté prend, sinon ses racines, sa popularité dans le mouvement socialiste, plus particulièrement dans ses ramifications libertaires.
+Rien de surprenant donc qu'elle ait été autant marginalisée et dévoyée, en philosophie comme en politique, que le mot "anarchie" lui-même.
+
+Pour mieux la comprendre, on peut ici se pencher sur l'analyse de Pierre-Joseph Proudhon.
+L'auteur identifie deux visions de la liberté :
+
+- une liberté _simple_ du « _Chacun chez soi, chacun pour soi_ » (proche de la liberté par non-ingérence)
+- opposée à une liberté _**composée**_
+
+> « _La liberté simple_ [...] _du_ "Chacun chez soi, chacun pour soi" [...] _est synonyme d’isolement : celui-là est le plus libre dont l’action est la moins limitée par celle des autres ; l’existence d’un seul individu sur toute la face du globe donnerait ainsi l’idée de la plus haute liberté possible. — Au point de vue social, liberté et solidarité sont termes identiques : la liberté de chacun rencontrant dans la liberté d’autrui, non plus une limite_ [...]_, mais un auxiliaire, l’homme le plus libre est celui qui a le plus de relations avec ses semblables._ » [^proudhonLiberte]
+
+Penser cette liberté _composée_ demande de se pencher sur nos vies quotidiennes en société.
+Sur ce qui nous empêche, très concrètement, d'être libre au quotidien.
+Les ingérences et domination sont des limites évidentes sur nous, en tant qu'individus.
+Au-delà de ça, est-ce que la domination d'autres individus diminue également ma propre liberté ?
+
+À ce stade, je me doute que pour beaucoup d'entre vous, une telle vision reste trop radicale pour que accepter de l'adopter au quotidien.
+
+Cela dit, nous avons déjà établis qu'en parlant de politique, nous posons des définitions qui nous permettent précisément de faire société.
+Société qui, par définition, n'existe tout simplement pas dans l'individualité.
+Nous pouvons donc considérer cette liberté _composée_ comme un concept purement politique.
+Un outil permettant de penser hors des conventions habituelles, laissant aux autres domaines les réticences et autres débats autour de la liberté.
+
+Même au delà, nous avons fait de nombreuses avancées scientifiques depuis le XIXe siècle, en particulier dans le domaine des sciences sociales.
+Nous comprenons mieux les mécanismes de notre société, grâce à la sociologie et l'anthropologie.
+Nos mécanismes de pensée, grâce à la psychologie et aux neurosciences.
+
+Toutes ces avancées tendent à valider cette thèse.
+À confirmer que l'être humain n'existe que par ses interactions sociales.
+Qu'il ne peut être considéré comme un individu purement isolé, mais plutôt comme une somme d'influences, normes et coconstructions.
 
 [Maurice Merleau-Ponty](https://fr.wikipedia.org/wiki/Maurice_Merleau-Ponty), [L'expérience d'autrui](https://www.persee.fr/doc/bupsy_0007-4403_1952_num_5_5_5960) (+ [résumé de cours](http://www.kainos.it/numero2/sezioni/disvelamenti/mpontyFR.html)), [intersubjectivité](https://fr.wikipedia.org/wiki/Intersubjectivit%C3%A9)
 
-Prudhon
-Bakounine
+De là, on comprend que la liberté est effectivement une affaire de groupe social.
+
+Il parait alors tentant d'adopter une vision _clanique_, ségrégationnelle de la liberté.
+Dans la continuité de la définition libérale, la liberté de _mon_ groupe ne pourrait se faire qu'au déterminant d'autres groupes.
+Il apparait alors nécessaire d'établir la domination de ces autres groupes, et donc d'exclure toute interaction positive de _mon_ groupe avec eux.
+Car sans cela, les limites à leurs libertés "contaminerait" le groupe choisi.
+
+Mais les dérives d'une telle vision paraissent assez évidentes.
+Il s'agit notamment d'un point de vue caractéristique de l'extrême-droite identitaire, ne se définissant que par l'appartenance à un clan "élu".
+
+Pour bien définir la liberté politique, il apparait donc nécessaire d'exclure tout découpage de la société en clans séparés.
+D'accepter que ces "groupes" peuvent se superposer, se méler, et avoir des interactions positives.
+Donc d'adopter un point de vue universel.
 
 ## Synthèse
 
@@ -690,6 +760,10 @@ to this kind of language is that we recognize that it is possible, and at times 
 [^skinnerSavoir]: « La liberté n'est pas uniquement restreinte par la réalité ou la menace d'une ingérence, mais également par le simple fait de savoir que nous dépendons du bon vouloir d'autrui (52). [...] Le simple fait d'être conscient de vivre sous la coupe d'un pouvoir arbitraire - un pouvoir capable de déranger nos activités sans avoir à tenir compte de nos intérêts - suffit en soi à limiter notre liberté (53). Savoir que nous sommes libres d'agir ou de nous abstenir d'agir uniquement parce que quelqu'un d'autre a décidé de ne pas nous en empêcher est ce qui nous réduit à l'état de servitude. » &mdash; Skinner (2002)[^skinner2002]
 
 [^opinionNeorep]: J'avoue que je ne partage pas toutes les réflexions et conclusions des néo-républicains. Mais ce n'est pas vraiment le sujet en philosophie politique. On prend de bonnes idées là où elles sont, on interprète, on remet en question, et on mix pour se faire sa propre idée. C'est un gros avantage par rapport à la politique institutionnelle :wink:
+
+[^quoteBakounine]: Michel Bakounine, [_Dieu et l’état (extrait du manuscrit inédit)_](https://fr.wikisource.org/wiki/Dieu_et_l%E2%80%99%C3%89tat_(1907)), Œuvres, P.-V. Stock (Bibliothèque sociologique, N° 4), 1895, Tome I, p. [281](https://fr.wikisource.org/wiki/Page%3ABakounine_-_%C5%92uvres_t1.djvu/325)
+
+[^proudhonLiberte]: Les Confessions d’un révolutionnaire, La Banque du peuple: Chapître XV, 1849
 
 <!-- Notes pour bonus : liberté et dystopie - 1984 / point Orwell des libéraux, considérant la "déconstruction woke" comme un crime de la pensée, alors qu'il en est l'opposé
 // l'idéologie des biais du néolibéralisme cherchant au contraire à manipuler (La zone du dehors)
